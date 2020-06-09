@@ -9,17 +9,25 @@
         </h3>
       </div>
     </div>
+
     <div class="row text-center">
       <ul>
         {% for post in site.posts %}
         <li>
-          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          {{ post.excerpt }}
+          <header>
+            <div class="container">
+              <div class="intro-text">
+                <div class="intro-lead-in">{{ post.category }}</div>
+                <div class="intro-heading">
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                </div>
+              </div>
+            </div>
+          </header>
         </li>
+
         {% endfor %}
       </ul>
     </div>
   </div>
 </section>
-
-<h1>Projects</h1>
