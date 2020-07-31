@@ -75,7 +75,7 @@
       display: block;
       height: 100%;
       left: 0;
-      opacity: 0.3;
+      opacity: 0.5;
       position: absolute;
       width: 100%;
       z-index: 2;
@@ -95,7 +95,7 @@
 
     &:hover {
       &:before {
-        opacity: 0;
+        opacity: 0.3;
       }
     }
 
