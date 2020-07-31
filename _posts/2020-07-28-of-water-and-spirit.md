@@ -6,63 +6,54 @@ image: assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-02-hea
 tags: illustration, CGI, architecture
 ---
 
-<h3><i>Satellite Town</i> illustrates a future of ecological living beyond the limits of the Earth.</h3>
+<h3>A Monument to Transformation</h3>
+<p>
+ <i>Of Water & Spirit</i> draws from Ravenna’s early Christian baptisteries and postwar industrial history to transform its decommissioned oil rigs. In converting Ravenna's decommissioned oil rigs into a Museum of Waters, this proposal expresses the hope of creating a public space that confronts visitors with the weight of its history, and inspires them by its connection to nature. </p>
 
-<p> Drawing from Ravenna’s early Christian baptisteries and postwar industrial history, <i>Of Water & Spirit</i> is a proposal for the conversion of decommissioned oil rigs off the coast of Ravenna, Italy into a Museum of Waters. 
-</p><p>
-It expresses the hope of creating a public space that confronts visitors with the weight of its history, and inspires them by its connection to nature. The resulting spaces are monumental, as much an artefact of large-scale industrial machinery as they are a testament to the vastness of the universe. </p>
+ <p> Stacked modular concrete units are punctured alternately, with a single circular opening on their inner faces and stylized triple arches on their outer faces. These twin façades speak of a duality in Ravenna's history: a UNESCO World Heritage Site for its early Christian monuments, and a postwar industrial centre after the discovery of oil and gas fields in the 1960s, leading the Italian offshore oil and gas industry. </p>
 
-<div class="row">
-	<div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-01.jpg %}" alt="The Forest" /></span>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>I. The Forest</h3>
-		<p> <i>The Forest </i>depicts the distinctive pink glow of high-intensity LEDs for crop growth. By varying the amounts of red and blue light, plants can be grown optimally with custom light recipes, which can vary according to plant species and stage of growth. As these plants purify water, regenerate atmosphere, and produce food, they function as bioregenerative technology, a key component of closed ecological systems. </p> 
-		<blockquote> A dense, staggered rainforest that resembles a city, the vertical farm speaks of the urbanization and optimization of nature through technology. </blockquote> 
-		<p> Here is a glimpse into a natural world that is foreign and fantastic, constantly enclosed in strangely humid plant growth chambers, while the outside world is composed of glass and metal.
-		</p>	
-	</div>
-</div>
+<span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-03.jpg %}" alt="Exterior view of Museum" /></span>
 
-<div class="row">
-    <div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-03.jpg %}" alt="The Street" /></span>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>II. The Street</h3>
-		<p><i>The Street </i>depicts an underpass of bioluminescent mycelium pavement tiles that generate electricity with every footstep. Energy-generating pavements already exist, and a new wave of biomaterials such as mycelium - the vegetative structure of fungi - are becoming more commonly available. It is a busy public passage in the day and an occasional children’s racetrack at night. </p> 
-		<blockquote> The street creates a living, hypnotic light source, an energy-generating landscape set against the larger foreign world of the Moon. There can be wonder in every step. </blockquote>
-		<p> In this satellite, an otherworldly technological urban underpass is actually organic in its materiality, framing views towards an unearthly natural world. </p>
-	</div>
-
-</div>
+<p>
+ Ravenna’s historic baptisteries are the inspiration for a building literally and symbolically centred around water: as figure and ground, architectural feature and religious sacrament. </p>
 
 <div class="row">
 	<div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-03.jpg %}" alt="The Chapel" /></span>
+		<span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-04.jpg %}" alt="Conceptual Precedent 1" /></span>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>III. The Chapel</h3>
-		<p>A zero-gravity projection room that features a never-ending sunset, <i>The Chapel </i>unites the personal with the cosmic. Microgravity facilitates the magic of levitation, and impossibly thin columns recall the upward reach of Gothic architecture, pulling away and stretching vertically towards infinity. 
-		</p> 
-		<blockquote> The projection is a technologically-enabled illusion, uniting the visible with the psychological and spatial. </blockquote>
-		<p>
-		In an architecturalization of 'happy lights' that are used in deep winter, this self-contained microcosm makes reference to an external natural world without actually providing access to it.  No longer seen from Earth, the sunset becomes foreign against projections of distant planets, an eternal golden hour that reaches for the sublime. </p>
+		<span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-05.jpg %}" alt="Conceptual Precedent 2" /></span>
 	</div>
 </div>
 
-<h3> Exhibition </h3>
-<p> <i> Satellite Town </i> was exhibited at <a href = "https://www.eventbrite.com/e/civic-art-lab-2020-3-day-sustainability-and-design-lab-tickets-77649071463"> Civic Art Lab  2019: Closing the Loop + Inhabiting the Loop,</a> a group exhibition and pop-up gallery focusing on the intersection of sustainability, design, and art in a circular economy. The 5th Annual Civic Art Lab was held on October 13-16, 2019, in New York City, and was organized by <a href="http://greenspacenyc.org">Greenspace NYC,</a> a non-profit collaborative that develops and curates free educational programming, hands-on workshops, and public design projects that encourage dialogue, enliven public spaces, and promote the future of more equitable and sustainable cities. </p>
+<p>
+As baptisteries are monuments to personal transformation, enacting a turning point from an old life to a new one, the architectural conversion of a decommissioned oil rig into a museum is itself a transformative rebirth: from fossil fuels to renewable sources of energy; from an industrial to a cultural program; from a hazardous, proprietary space to a public and accessible one.</p>
+<p>
+As industrially prefabricated, modular, self-contained developments, act as landmarks, even beacons, in the uncharted territory of the ocean, exemplifying the Metabolist tension between rampant technological progress and harmony with nature.</p>
+
+<span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-10.jpg %}" alt="View at Water Level" /></span>
+
+<p> In being converted to a public museum, and therefore a cultural, social, and experiential destination, the rig combines the vastness of the ocean with a new human scale.</p>
+
+<span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-11.jpg %}" alt="View at Fountain" /></span>
+
+<p> Preserved cranes from the oil rig become sculptural figures in their own right, recalling the dynamism of their industrial, mechanical roots. The incessant activity of machines is replaced by that of artistic production and cultural exchange. </p>
+
+<span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-12.jpg %}" alt="View at Catheral-like Space" /></span>
+
+<p> The resulting spaces are monumental, as much an artefact of large-scale industrial machinery as they are a testament to the vastness of the universe. </p>
+
+<span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-06.jpg %}" alt="3 Plans" /></span>
 
 <!-- Image Grid -->
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-04.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-06.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-05.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-07.jpg %}" alt="" /></span></div>
-		<div class="8u$"><span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-08.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-07.jpg %}" alt="Section 1" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-08.jpg %}" alt="Section 2" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-09.jpg %}" alt="Section 3" /></span></div>
 	</div>
 </div>
+
+<p> The oil rig is an ambiguous marker of conquest: of the human achievement of construction, and simultaneously a monument to humanity’s exploitation of the natural world. This history is not erased, but preserved, framed, and elaborated upon, in the hope of a transformed future.</p>
+
+<span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-01.jpg %}" alt="Exterior View" /></span>
