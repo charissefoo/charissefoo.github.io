@@ -74,6 +74,7 @@ tags: illustration, CGI, exhibition, writing, publication, award
 <span class="image fit"><img src="{% link assets/images/the-monument-to-the-labors/charisse-foo-monument-to-the-labors-06.jpg %}" alt="Cornell Exhibition" /></span>
 
 <p> It was an honor to have <i>The Monument to the Labors</i> featured in the exhibition <i> Architecture at the Edge of Everything Else </i> at Cornell University, Fall 2019. Curated by the Department of Architecture, the exhibition draws from Esther Choi and Marrikka Trotter's book, <i> Architecture at the Edge of Everything Else</i>, and highlights "individuals who have done significant work outside the traditionally held limits of the profession." </p>
+<p> From the exhibition text: </p>
 <blockquote> We can no longer sustain the separation of architecture as a profession from all other creative activity. We are faced with so many extraordinarily urgent and necessary issues today that need new minds and new approaches. Because architecture, as a practice, is inherently collaborative, multifaceted, and dispersed, it is ideally situated to explore deploying architectural ideas or techniques outside of what is traditionally considered "the profession." </blockquote>
 
 <!-- Image Grid -->

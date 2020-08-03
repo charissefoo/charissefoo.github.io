@@ -2,9 +2,9 @@
 title: Charisse
 subtitle: Foo
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Charisse is an architectural <br /> designer and illustrator
 url: # the base hostname & protocol for your site
-author:
+author: Charisse Foo
 street_address:
 city:
 state:
@@ -20,7 +20,7 @@ tiles-count: 10
 500px_url:
 facebook_url: https://www.facebook.com/charissefoo
 github_url: https://github.com/charissefoo/
-artstation_url: https://www.artstation.com/charissefoo
+# artstation_url: https://www.artstation.com/charissefoo
 behance_url: https://www.behance.net/charissefoo
 instagram_url: https://instagram.com/charissefoo
 linkedin_url: https://www.linkedin.com/in/charissefoo
