@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oasis Waterpark
-description: An illustrated journey through time and space
+description: Shared memories in one public playground
 image: assets/images/oasis-waterpark/charisse-foo-oasis-waterpark-01.jpg
 tags: illustration, award, architecture
 ---

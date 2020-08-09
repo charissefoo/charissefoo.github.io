@@ -1,66 +1,70 @@
 ---
 layout: post
 title: In All This House
-description: A future of ecological living beyond the limits of the Earth
-image: assets/images/in-all-this-house/charisse-foo-in-all-this-house-21.jpg
-tags: illustration, CGI, exhibition
+description: Drawing the book and the building
+image: assets/images/in-all-this-house/charisse-foo-in-all-this-house-04.jpg
+tags: illustration, architecture, exhibition, publication, drawing, award
 ---
 
-<h3><i>Satellite Town</i> illustrates a future of ecological living beyond the limits of the Earth.</h3>
+<h3> <i>In All This House</i> explores the relationship between the written word and the architectural symbol. </h3>
 
-<p> In a research community living in a satellite orbiting the Moon, distinct notions of self-sufficiency and sustainability are explored, each with a distinct color palette. <i>The Forest</i> depicts the distinctive pink glow of high intensity LEDs for crop growth; <i>The Street</i> imagines an underpass with bioluminescent mycelium pavements that generate electricity from footsteps; <i>The Chapel </i>depicts a zero-gravity projection room featuring an endless sunset against distant planets. Bringing a familiar urban concept back to its original imaginative meaning, <i> Satellite Town </i> magnifies the architectural notions of interior and exterior, self-sufficiency and interdependence. </p>
+<p> 
+Drawing from the book <i>Let Us Now Praise Famous Men</i> by writer James Agee and photographer Walker Evans, this project presents a series of seventeen architectural and narrative drawings about three houses, in a book and exhibition. In combining drawing and creative writing, <i>In All This House</i> asks what it means for architecture to be represented as it is experienced: from the inside out, by the non-architect. Can the act of drawing encompass transcription, translation, and even construction? </p>
 
-<div class="row">
-	<div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-01.jpg %}" alt="The Forest" /></span>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>I. The Forest</h3>
-		<p> <i>The Forest </i>depicts the distinctive pink glow of high-intensity LEDs for crop growth. By varying the amounts of red and blue light, plants can be grown optimally with custom light recipes, which can vary according to plant species and stage of growth. As these plants purify water, regenerate atmosphere, and produce food, they function as bioregenerative technology, a key component of closed ecological systems. </p> 
-		<blockquote> A dense, staggered rainforest that resembles a city, the vertical farm speaks of the urbanization and optimization of nature through technology. </blockquote> 
-		<p> Here is a glimpse into a natural world that is foreign and fantastic, constantly enclosed in strangely humid plant growth chambers, while the outside world is composed of glass and metal.
-		</p>	
-	</div>
-</div>
-
-<div class="row">
-    <div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-02.jpg %}" alt="The Street" /></span>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>II. The Street</h3>
-		<p><i>The Street </i>depicts an underpass of bioluminescent mycelium pavement tiles that generate electricity with every footstep. Energy-generating pavements already exist, and a new wave of biomaterials such as mycelium - the vegetative structure of fungi - are becoming more commonly available. It is a busy public passage in the day and an occasional children’s racetrack at night. </p> 
-		<blockquote> The street creates a living, hypnotic light source, an energy-generating landscape set against the larger foreign world of the Moon. There can be wonder in every step. </blockquote>
-		<p> In this satellite, an otherworldly technological urban underpass is actually organic in its materiality, framing views towards an unearthly natural world. </p>
-	</div>
-
-</div>
-
-<div class="row">
-	<div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-03.jpg %}" alt="The Chapel" /></span>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>III. The Chapel</h3>
-		<p>A zero-gravity projection room that features a never-ending sunset, <i>The Chapel </i>unites the personal with the cosmic. Microgravity facilitates the magic of levitation, and impossibly thin columns recall the upward reach of Gothic architecture, pulling away and stretching vertically towards infinity. 
-		</p> 
-		<blockquote> The projection is a technologically-enabled illusion, uniting the visible with the psychological and spatial. </blockquote>
-		<p>
-		In an architecturalization of 'happy lights' that are used in deep winter, this self-contained microcosm makes reference to an external natural world without actually providing access to it.  No longer seen from Earth, the sunset becomes foreign against projections of distant planets, an eternal golden hour that reaches for the sublime. </p>
-	</div>
-</div>
-
-<h3> Exhibition </h3>
-<p> <i> Satellite Town </i> was exhibited at <a href = "https://www.eventbrite.com/e/civic-art-lab-2020-3-day-sustainability-and-design-lab-tickets-77649071463"> Civic Art Lab  2019: Closing the Loop + Inhabiting the Loop,</a> a group exhibition and pop-up gallery focusing on the intersection of sustainability, design, and art in a circular economy. The 5th Annual Civic Art Lab was held on October 13-16, 2019, in New York City, and was organized by <a href="http://greenspacenyc.org">Greenspace NYC,</a> a non-profit collaborative that develops and curates free educational programming, hands-on workshops, and public design projects that encourage dialogue, enliven public spaces, and promote the future of more equitable and sustainable cities. </p>
+<p> <i>In All This House</i> was awarded the maximum amount of funding from the <strong><a href="http://cca.cornell.edu/?p=grants">Cornell Council for the Arts Individual Grant</a></strong> (2017), <strong>exhibited</strong> in Cornell University, Department of Architecture, and <strong> published </strong> in <strong> <a href="https://association.aap.cornell.edu/">AAP Association,</a> Vol. 10</strong> (2020).</p>
 
 <!-- Image Grid -->
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-04.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-06.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-05.jpg %}" alt="" /></span></div>
+		<div class="6u"><span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-31.jpg %}" alt="" /></span></div>
+		<div class="6u$"><span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-32.jpg %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-07.jpg %}" alt="" /></span></div>
-		<div class="8u$"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-08.jpg %}" alt="" /></span></div>
 	</div>
 </div>
+
+<p> Drawing on the paper architecture of John Hejduk and Bernard Tschumi, the comics  of architects Jimenez Lai and Wes Jones, and architectural comic books by artists Chris Ware and Richard McGuire, this is an attempt for the serious and the sacred, the ethical and the critical realities of architecture to be brought to the fore, in spite – or more likely because – of being discussed in a world once removed. </p>
+
+<span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-27.jpg %}" alt="3 houses" /></span>
+
+<p>In <i>Let Us Now Praise Famous Men</i>, Agee describes three houses and three families in Alabama, as they are in the summer of 1936. Subtitled today: <i>The American Classic, in Words and Photographs, of Three Tenant Families in the Deep South,</i> the book interrogates the relationship between the visual image and the written word. As a writer, Agee makes explicit his own struggle to acknowledge and to abstract the impossible complexity of real human lives, foregrounding the role of the subjective observer in the act of description. </p>
+
+<span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-28.jpg %}" alt="Table with text" /></span>
+
+<p>
+Embarking upon yet another layer of interpretation through drawing, <i> In All This House</i> is a homage to a book that never lets its reader forget its own limits of representation. In contrast to architectural drawing, Agee’s entirely textual descriptions of the houses lack objectively measured dimensions, diagrams of spatial organization, or indications of building structure. The architectural diagrams produced in this project are equal parts reconstruction and invention. They are positioned as frames for narrative: based on both memory and imagination, referring both to the past and the future. Here, the reader is not the distant surveyor of architectural drawings but the vicarious participant in graphic narrative, much like the occupant of the built environment. </p>
+
+<!-- Image Grid -->
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="6u"><span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-07.jpg %}" alt="" /></span></div>
+		<div class="6u$"><span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-08.jpg %}" alt="" /></span></div>
+		<!-- Break -->
+		<div class="6u"><span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-38.jpg %}" alt="" /></span></div>
+		<div class="6u$"><span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-39.jpg %}" alt="" /></span></div>
+	</div>
+</div>
+
+<p> In translating the written description of a physical, architectural artefact (the house), rife with psychological meaning (shelter, home, body), into drawing, <i>In All This House</i> explores the relationship between the written word and the architectural symbol, the book and the building, and the twin creative processes of drawing and writing.  </p>
+
+<h3> Exhibition </h3>
+<span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-02.jpg %}" alt="Exhibition view down hallway" /></span>
+
+<p> <i>In All This House</i> was exhibited from November 13-26, 2017, in East Sibley Hall, Cornell University. More information can be found on the <a href="https://aap.cornell.edu/news-events/all-this-house">College of Architecture, Art and Planning (AAP)</a>, <a href="http://cca.cornell.edu/house2017">Cornell Council for the Arts (CCA)</a>, and <a href="https://www.facebook.com/events/145422706061812/">Facebook</a> event pages. </p>
+
+<!-- Full page images -->
+
+<span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-03.jpg %}" alt="Exhibition view with person 1" /></span>
+<span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-17.jpg %}" alt="Exhibition view with person 2" /></span>
+<span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-01.jpg %}" alt="Postcards" /></span>
+
+<!-- Image Grid -->
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-09.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-20.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-24.jpg %}" alt="" /></span></div>
+    </div>
+
+</div>
+
+<p><small><i>This project was funded in part by a grant from the <a href="http://cca.cornell.edu/">Cornell Council for the Arts (CCA)</a>.  Fair Use Notice: As a derivative work based on 'Let Us Now Praise Famous Men,' this project contains copyrighted material, the use of which has not been specifically authorized by the copyright owner. </i></small></p>
