@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <!-- Main -->
+    <div id="main">
+      <!-- One -->
+
+      <section id="one" class="tiles">
+        {% assign filtered_posts = site.posts | where: 'tags', page.title %} {%
+        for post in filtered_posts %}
+        <article>
+          <span class="image">
+            <img src="{{ post.image }}" alt="" />
+          </span>
+          <header class="major">
+            <h3>
+              <a href="{{ post.url  | relative_url }}" class="link"
+                >{{ post.title }}</a
+              >
+            </h3>
+            <p>{{ post.description }}</p>
+          </header>
+        </article>
+        {% endfor %}
+      </section>
+
+      <!-- Two -->
+      <section id="two">
+        <div class="inner">
+          <header class="major">
+            <h2>That's all, folks</h2>
+          </header>
+          <p>{{ content }}</p>
+          <ul class="actions">
+            <li><a href="home.html" class="button next">All Projects</a></li>
+          </ul>
+        </div>
+      </section>
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>

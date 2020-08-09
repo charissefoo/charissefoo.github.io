@@ -3,7 +3,7 @@ layout: post
 title: Lake House Stories
 description: A future of ecological living beyond the limits of the Earth
 image: assets/images/lake-house-stories/charisse-foo-lake-house-stories-05-header.jpg
-tags: illustration, CGI, exhibition
+tags: illustration CGI exhibition
 ---
 
 <h3><i>Satellite Town</i> illustrates a future of ecological living beyond the limits of the Earth.</h3>

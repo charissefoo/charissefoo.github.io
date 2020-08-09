@@ -23,6 +23,22 @@
           >{% endif %} {{ content }}
         </div>
       </section>
+      <section id="two">
+        <div class="inner">
+          <ul class="actions">
+            <li>
+              <div class="post-tags">
+                {% if post %} {% assign tags = post.tags %} {% else %} {% assign
+                tags = page.tags %} {% endif %} {% for tag in tags %}
+                <div class="button">
+                  <a href="{{site.baseurl}}/{{tag|slugize}}">{{tag}}</a>
+                </div>
+                {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
+              </div>
+            </li>
+          </ul>
+        </div>
+      </section>
     </div>
 
     {% include footer.html %}

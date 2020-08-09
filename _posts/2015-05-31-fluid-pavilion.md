@@ -3,7 +3,7 @@ layout: post
 title: Fluid Pavilion
 description: A future of ecological living beyond the limits of the Earth
 image: assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-02-header.jpg
-tags: illustration, CGI, exhibition
+tags: illustration CGI exhibition
 ---
 
 <h3><i>Satellite Town</i> illustrates a future of ecological living beyond the limits of the Earth.</h3>
