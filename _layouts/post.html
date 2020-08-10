@@ -26,16 +26,16 @@
       <section id="two">
         <div class="inner">
           <ul class="actions">
-            <li>
-              <div class="post-tags">
-                {% if post %} {% assign tags = post.tags %} {% else %} {% assign
-                tags = page.tags %} {% endif %} {% for tag in tags %}
-                <div class="button">
-                  <a href="{{site.baseurl}}/tag-{{tag|slugize}}">{{tag}}</a>
-                </div>
+            <div>
+              {% if post %} {% assign tags = post.tags %} {% else %} {% assign
+              tags = page.tags %} {% endif %} {% for tag in tags %}
+              <li>
+                <a href="{{site.baseurl}}/tag-{{tag|slugize}}" class="button"
+                  >{{tag}}</a
+                >
                 {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
-              </div>
-            </li>
+              </li>
+            </div>
           </ul>
         </div>
       </section>
