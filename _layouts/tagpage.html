@@ -10,6 +10,21 @@
   <body>
     {% include header.html %}
 
+    <!-- Banner Style 2 -->
+    <section id="banner" class="style2">
+      <div class="inner">
+        <span class="image">
+          <img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
+        </span>
+        <header class="major">
+          <h1>{{ page.title | capitalize}}</h1>
+        </header>
+        <div class="content">
+          {{ page.description }}
+        </div>
+      </div>
+    </section>
+    
     <!-- Main -->
     <div id="main">
       <!-- One -->
@@ -36,16 +51,13 @@
       <!-- Two -->
       <section id="two">
         <div class="inner">
-          <header class="major">
-            <h2>That's all, folks</h2>
-          </header>
-          <p>{{ content }}</p>
+
           <ul class="actions">
-            <li><a href="home.html" class="button next">All Projects</a></li>
+            <li><a href="home.html" class="button">All Projects</a></li>
           </ul>
         </div>
       </section>
-    </div>
+
 
     {% include footer.html %}
   </body>

@@ -1,10 +1,8 @@
 ---
 layout: tagpage
 title: CGI
-landing-title: Here are some CGI projects
 nav-menu: true
-description: null
-image: null
-author: null
+description: Here are some CGI projects
+image: assets/images/satellite-town/charisse-foo-satellite-town-02-header.jpg
 show_tile: false
 ---

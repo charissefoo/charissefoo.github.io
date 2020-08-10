@@ -1,10 +1,8 @@
 ---
 layout: tagpage
 title: illustration
-landing-title: Here are some art projects
 nav-menu: true
-description: null
-image: null
-author: null
+description: Here are some illustration projects
+image:
 show_tile: false
 ---
