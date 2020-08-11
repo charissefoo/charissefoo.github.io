@@ -3,7 +3,7 @@ layout: post
 title: In All This House
 description: Drawing the book and the building
 image: assets/images/in-all-this-house/charisse-foo-in-all-this-house-04.jpg
-tags: illustration architecture exhibition publication drawing award
+tags: illustration exhibition publication award
 ---
 
 <h3> <i>In All This House</i> explores the relationship between the written word and the architectural symbol. </h3>

@@ -3,7 +3,7 @@ layout: post
 title: Of Water & Spirit
 description: A new life for Ravenna's oil rigs
 image: assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-02-header.jpg
-tags: illustration CGI architecture
+tags: architecture visualization
 ---
 
 <h3>A Monument to Transformation</h3>

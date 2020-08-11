@@ -3,7 +3,7 @@ layout: post
 title: The Monument to the Labors
 description: An architectural fable in outer space
 image: assets/images/the-monument-to-the-labors/charisse-foo-monument-to-the-labors-03-header.jpg
-tags: illustration CGI exhibition writing publication award
+tags: visualization awards publication
 ---
 
 <h3>
