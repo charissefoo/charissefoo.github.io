@@ -1,66 +1,99 @@
 ---
 layout: post
 title: Lake House Stories
-description: A future of ecological living beyond the limits of the Earth
-image: assets/images/lake-house-stories/charisse-foo-lake-house-stories-05-header.jpg
-tags: architecture exhibition publication awards
+description: Tales of life in a floating eco-village
+image: assets/images/lake-house-stories/charisse-foo-lake-house-stories-09.jpg
+tags: architecture exhibition publication
 ---
 
-<h3><i>Satellite Town</i> illustrates a future of ecological living beyond the limits of the Earth.</h3>
+<h3>Three separate stories imagine life in a future Eco-Village floating on Cayuga Lake in upstate New York.</h3>
 
-<p> In a research community living in a satellite orbiting the Moon, distinct notions of self-sufficiency and sustainability are explored, each with a distinct color palette. <i>The Forest</i> depicts the distinctive pink glow of high intensity LEDs for crop growth; <i>The Street</i> imagines an underpass with bioluminescent mycelium pavements that generate electricity from footsteps; <i>The Chapel </i>depicts a zero-gravity projection room featuring an endless sunset against distant planets. Bringing a familiar urban concept back to its original imaginative meaning, <i> Satellite Town </i> magnifies the architectural notions of interior and exterior, self-sufficiency and interdependence. </p>
+<p> 
+What might a floating community mean in terms of architecture and identity? Instead of a holiday home with picturesque views, left empty for half the year, these lake houses form the setting for a hypothetical floating extension of the present-day Eco-Village in Ithaca, NY, built upon cooperative community and ecological awareness. Through the eyes of a twenty-one-year-old boy, a couple looking for their first home, and an old grandfatherly chef, these stories imagine new sustainable ways of living, question existing housing typologies and farming practices, and examine the development of communities, their rituals, and identities. </p>
 
-<div class="row">
-	<div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-01.jpg %}" alt="The Forest" /></span>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>I. The Forest</h3>
-		<p> <i>The Forest </i>depicts the distinctive pink glow of high-intensity LEDs for crop growth. By varying the amounts of red and blue light, plants can be grown optimally with custom light recipes, which can vary according to plant species and stage of growth. As these plants purify water, regenerate atmosphere, and produce food, they function as bioregenerative technology, a key component of closed ecological systems. </p> 
-		<blockquote> A dense, staggered rainforest that resembles a city, the vertical farm speaks of the urbanization and optimization of nature through technology. </blockquote> 
-		<p> Here is a glimpse into a natural world that is foreign and fantastic, constantly enclosed in strangely humid plant growth chambers, while the outside world is composed of glass and metal.
-		</p>	
-	</div>
-</div>
-
-<div class="row">
-    <div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-02.jpg %}" alt="The Street" /></span>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>II. The Street</h3>
-		<p><i>The Street </i>depicts an underpass of bioluminescent mycelium pavement tiles that generate electricity with every footstep. Energy-generating pavements already exist, and a new wave of biomaterials such as mycelium - the vegetative structure of fungi - are becoming more commonly available. It is a busy public passage in the day and an occasional children’s racetrack at night. </p> 
-		<blockquote> The street creates a living, hypnotic light source, an energy-generating landscape set against the larger foreign world of the Moon. There can be wonder in every step. </blockquote>
-		<p> In this satellite, an otherworldly technological urban underpass is actually organic in its materiality, framing views towards an unearthly natural world. </p>
-	</div>
-
-</div>
-
-<div class="row">
-	<div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-03.jpg %}" alt="The Chapel" /></span>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>III. The Chapel</h3>
-		<p>A zero-gravity projection room that features a never-ending sunset, <i>The Chapel </i>unites the personal with the cosmic. Microgravity facilitates the magic of levitation, and impossibly thin columns recall the upward reach of Gothic architecture, pulling away and stretching vertically towards infinity. 
-		</p> 
-		<blockquote> The projection is a technologically-enabled illusion, uniting the visible with the psychological and spatial. </blockquote>
-		<p>
-		In an architecturalization of 'happy lights' that are used in deep winter, this self-contained microcosm makes reference to an external natural world without actually providing access to it.  No longer seen from Earth, the sunset becomes foreign against projections of distant planets, an eternal golden hour that reaches for the sublime. </p>
-	</div>
-</div>
-
-<h3> Exhibition </h3>
-<p> <i> Satellite Town </i> was exhibited at <a href = "https://www.eventbrite.com/e/civic-art-lab-2020-3-day-sustainability-and-design-lab-tickets-77649071463"> Civic Art Lab  2019: Closing the Loop + Inhabiting the Loop,</a> a group exhibition and pop-up gallery focusing on the intersection of sustainability, design, and art in a circular economy. The 5th Annual Civic Art Lab was held on October 13-16, 2019, in New York City, and was organized by <a href="http://greenspacenyc.org">Greenspace NYC,</a> a non-profit collaborative that develops and curates free educational programming, hands-on workshops, and public design projects that encourage dialogue, enliven public spaces, and promote the future of more equitable and sustainable cities. </p>
+<p><strong><i>Lake House Stories</i> was exhibited in New York City at <a href="http://www.greenspacenyc.org/Civic-Art-Lab" target="_blank">Civic Art Lab (2018)</a>. It was also published as a special feature in <a href="https://aap.cornell.edu/about/alumni/aapnews" target="_blank">AAP News (Spring 2017),</a> as well as in <a href="http://www.association.aap.cornell.edu/" target="_blank">AAP Association (Vol. 9)</a>, and <a href="https://imaginingenergyfutures.wordpress.com/about/" target="_blank">Imagining Energy Futures (2017).</a></strong><p>
 
 <!-- Image Grid -->
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-04.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-06.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-05.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-07.jpg %}" alt="" /></span></div>
-		<div class="8u$"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-08.jpg %}" alt="" /></span></div>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-03.jpg %}" alt="Underwater" /></span>
+	</div>
+	<div class="6u$ 12u$(small)">
+			<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-02.jpg %}" alt="Underwater plan" /></span>
 	</div>
 </div>
+
+<h3>I. The Descent </h3>
+<p>
+<i>The Descent</i> asks what a coming-of-age ritual might be in a modern, sustainability-oriented community - a tribe defined by its close relationship to the water. It is also interested in the symbolism of such rituals: rebirth from the womb of the sea, emerging from the belly of the monster, and resurrection from the depths.</p>
+
+<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-01.jpg %}" alt="Underwater" /></span>
+
+<p>
+The story takes the opportunity to illustrate the most isolated living spaces of the community: the lab and deep farms at the bottom of the lake, which are used for research. It explores the systems in place for self-sufficiency, making reference to existing underwater labs and farms, most notably Aquarius, located in the Florida Keys National Marine Sanctuary, and Nemo’s Garden in Noli Bay, Italy.</p>
+<!-- Image Grid -->
+<div class="row">
+	<div class="6u 12u$(small)">
+		<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-09.jpg %}" alt="Underwater" /></span>
+	</div>
+	<div class="6u$ 12u$(small)">
+			<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-04.jpg %}" alt="" /></span>
+	</div>
+</div>
+
+<h3>II. Dream House</h3>
+<p>
+<i>Dream House</i> is concerned with housing typologies and the fantasies that give rise to them. In an underwater environment, the tension between the emotional concept of a home and the architectural typology of a house can be reconsidered. Negotiating between the individual and community, private retreat and communal living, the mobile underwater house questions the balance between dehumanizing standardization and flamboyant formal expression, and additionally reverses the traditional solid/void, figure/ground relationship of the built form in space. </p>
+<!-- Image Grid -->
+<div class="row">
+	<div class="6u 12u$(small)">
+		<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-06.jpg %}" alt="" /></span>
+	</div>
+	<div class="6u$ 12u$(small)">
+			<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-07.jpg %}" alt="" /></span>
+	</div>
+</div>
+<!-- Image Grid -->
+<div class="row">
+	<div class="6u 12u$(small)">
+		<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-13.jpg %}" alt="" /></span>
+	</div>
+	<div class="6u$ 12u$(small)">
+			<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-14.jpg %}" alt="" /></span>
+	</div>
+</div>
+<p>
+The story shows plans and sections of 5 types of residential units, an overall plan of the residences and housing types, views of the underwater units and playgrounds, and an overall massing of the community.</p>
+<p>
+
+<h3>III. Moving Day</h3>
+<i>Moving Day</i> explores the tradition of moving house: what stays and what goes? In a floating community that relocates itself by tradition every 50 years, what are the rituals that evolve to make sense of this disruption? It is also interested in the architectural implications of archival: the attempt to physically store, record, or preserve the intangible, and how that might manifest in a built form. Moving Day makes reference to historical traditions of Moving Day - in New York City and Quebec, for example - when all leases in the city would expire at the same time, and thousands of individuals simultaneously relocate.</p>
+
+<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-05.jpg %}" alt="Houses floating away" /></span>
+
+<!-- Image Grid -->
+<div class="row">
+	<div class="6u 12u$(small)">
+		<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-15.jpg %}" alt="" /></span>
+	</div>
+	<div class="6u$ 12u$(small)">
+			<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-16.jpg %}" alt="" /></span>
+	</div>
+</div>
+
+<p>
+<i>Lake House Stories</i> was created in a month-long architecture summer studio, under the guidance of Professor Alicia Imperiale, in 2016. It was first presented in this summer exhibition at Milstein Hall, Cornell University.</p>
+
+<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-08.jpg %}" alt="Summer studio exhibition" /></span>
+
+<h3> Publication </h3>
+<p>
+It was a privilege to work with AAP Communications to make <i>The Descent</i> a special insert in the Spring 2017 issue of AAP News, a  semi-annual publication of Cornell University's College of Architecture, Art, and Planning (AAP).</p>
+<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-10.jpg %}" alt="AAP News Spring 2017 publication" /></span>
+
+<h3> Exhibition </h3>
+<p> <i>Lake House Stories</i> was exhibited in New York City at <a href="http://www.greenspacenyc.org/Civic-Art-Lab" target="_blank">Civic Art Lab (2018)</a>. a group exhibition and pop-up gallery focusing on the intersection of sustainability, design, and art in a circular economy. The 5th Annual Civic Art Lab was held on October 13-16, 2019, in New York City, and was organized by <a href="http://greenspacenyc.org">Greenspace NYC,</a> a non-profit collaborative that develops and curates free educational programming, hands-on workshops, and public design projects that encourage dialogue, enliven public spaces, and promote the future of more equitable and sustainable cities. </p>
+<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-12.jpg %}" alt="Civic Art Lab 2018" /></span>
+<p>Many thanks to Laura and Jeff for welcoming me to Civic Art Lab, and for inviting me to give an artist talk my very first time exhibiting with you!</p>
+<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-17.jpg %}" alt="Civic Art Lab 2018" /></span>
+<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-11.jpg %}" alt="Civic Art Lab 2018" /></span>

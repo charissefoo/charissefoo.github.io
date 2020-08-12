@@ -10,6 +10,8 @@ tags: visualization exhibition
 
 <p> In a research community living in a satellite orbiting the Moon, distinct notions of self-sufficiency and sustainability are explored, each with a distinct color palette. <i>The Forest</i> depicts the distinctive pink glow of high intensity LEDs for crop growth; <i>The Street</i> imagines an underpass with bioluminescent mycelium pavements that generate electricity from footsteps; <i>The Chapel </i>depicts a zero-gravity projection room featuring an endless sunset against distant planets. Bringing a familiar urban concept back to its original imaginative meaning, <i> Satellite Town </i> magnifies the architectural notions of interior and exterior, self-sufficiency and interdependence. </p>
 
+<p><strong><i>Satellite Town</i> was exhibited in New York City at <a href="https://www.greenspacenyc.org/" target="_blank">Civic Art Lab (2019)</a>.</strong></p>
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-01.jpg %}" alt="The Forest" /></span>
