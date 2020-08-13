@@ -25,12 +25,12 @@ What might a floating community mean in terms of architecture and identity? Inst
 
 <h3>I. The Descent </h3>
 <p>
-<i>The Descent</i> asks what a coming-of-age ritual might be in a modern, sustainability-oriented community - a tribe defined by its close relationship to the water. It is also interested in the symbolism of such rituals: rebirth from the womb of the sea, emerging from the belly of the monster, and resurrection from the depths.</p>
+<i>The Descent</i> asks what a coming-of-age ritual might be in a modern, sustainability-oriented community: a tribe defined by its close relationship to the water. The story dives into the symbolism of such rituals: rebirth from the womb of the sea, emerging from the belly of the monster, and resurrection from the depths.</p>
 
 <span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-01.jpg %}" alt="Underwater" /></span>
 
 <p>
-The story takes the opportunity to illustrate the most isolated living spaces of the community: the lab and deep farms at the bottom of the lake, which are used for research. It explores the systems in place for self-sufficiency, making reference to existing underwater labs and farms, most notably Aquarius, located in the Florida Keys National Marine Sanctuary, and Nemo’s Garden in Noli Bay, Italy.</p>
+<i>The Descent</i> takes the opportunity to illustrate the most isolated living spaces of the community: the lab and deep farms at the bottom of the lake, which are used for research. It explores the systems in place for self-sufficiency, making reference to existing underwater labs and farms, most notably Aquarius, located in the Florida Keys National Marine Sanctuary, and Nemo’s Garden in Noli Bay, Italy.</p>
 <!-- Image Grid -->
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -43,7 +43,7 @@ The story takes the opportunity to illustrate the most isolated living spaces of
 
 <h3>II. Dream House</h3>
 <p>
-<i>Dream House</i> is concerned with housing typologies and the fantasies that give rise to them. In an underwater environment, the tension between the emotional concept of a home and the architectural typology of a house can be reconsidered. Negotiating between the individual and community, private retreat and communal living, the mobile underwater house questions the balance between dehumanizing standardization and flamboyant formal expression, and additionally reverses the traditional solid/void, figure/ground relationship of the built form in space. </p>
+<i>Dream House</i> is concerned with housing typologies and the fantasies that give rise to them. In an underwater environment, the tension between the emotional concept of a home and the architectural typology of a house can be reconsidered. Negotiating between the individual and community, private retreat and communal living, the mobile underwater house questions the balance between dehumanizing standardization and flamboyant formal expression. Living underwater also reverses the traditional solid/void, figure/ground relationship of the built form in space. </p>
 <!-- Image Grid -->
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -63,11 +63,10 @@ The story takes the opportunity to illustrate the most isolated living spaces of
 	</div>
 </div>
 <p>
-The story shows plans and sections of 5 types of residential units, an overall plan of the residences and housing types, views of the underwater units and playgrounds, and an overall massing of the community.</p>
-<p>
+<i>Dream House</i> shows plans and sections of give types of residential units, an overall plan of the residences and housing types, views of the underwater units and playgrounds, and an overall massing of the community.</p>
 
 <h3>III. Moving Day</h3>
-<i>Moving Day</i> explores the tradition of moving house: what stays and what goes? In a floating community that relocates itself by tradition every 50 years, what are the rituals that evolve to make sense of this disruption? It is also interested in the architectural implications of archival: the attempt to physically store, record, or preserve the intangible, and how that might manifest in a built form. Moving Day makes reference to historical traditions of Moving Day - in New York City and Quebec, for example - when all leases in the city would expire at the same time, and thousands of individuals simultaneously relocate.</p>
+<i>Moving Day</i> explores the tradition of moving house: what stays and what goes? In a floating community that relocates itself by tradition every fifty years, what are the rituals that evolve to make sense of this disruption? This story explores the architectural implications of archival: the attempt to physically store, record, or preserve the intangible, and how that might manifest in a built form. <i>Moving Day</i> makes reference to historical traditions of moving - in <a href="https://en.wikipedia.org/wiki/Moving_Day_(New_York_City)" target="_blank">New York City</a> and <a href="https://www.theguardian.com/cities/2018/jun/29/montreal-moving-day-what-happens-when-a-whole-city-moves-house-at-once" target="_blank">Quebec,</a> for example, all leases in the city would expire at the same time, and thousands of individuals simultaneously relocate.</p>
 
 <span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-05.jpg %}" alt="Houses floating away" /></span>
 
@@ -82,7 +81,7 @@ The story shows plans and sections of 5 types of residential units, an overall p
 </div>
 
 <p>
-<i>Lake House Stories</i> was created in a month-long architecture summer studio, under the guidance of Professor Alicia Imperiale, in 2016. It was first presented in this summer exhibition at Milstein Hall, Cornell University.</p>
+<i>Lake House Stories</i> was created in a month-long architecture summer studio, under the guidance of Professor Alicia Imperiale, Cornell University, in 2016. It was first presented in this summer exhibition at Milstein Hall, Cornell University.</p>
 
 <span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-08.jpg %}" alt="Summer studio exhibition" /></span>
 
@@ -92,8 +91,8 @@ It was a privilege to work with AAP Communications to make <i>The Descent</i> a 
 <span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-10.jpg %}" alt="AAP News Spring 2017 publication" /></span>
 
 <h3> Exhibition </h3>
-<p> <i>Lake House Stories</i> was exhibited in New York City at <a href="http://www.greenspacenyc.org/Civic-Art-Lab" target="_blank">Civic Art Lab (2018)</a>. a group exhibition and pop-up gallery focusing on the intersection of sustainability, design, and art in a circular economy. The 5th Annual Civic Art Lab was held on October 13-16, 2019, in New York City, and was organized by <a href="http://greenspacenyc.org">Greenspace NYC,</a> a non-profit collaborative that develops and curates free educational programming, hands-on workshops, and public design projects that encourage dialogue, enliven public spaces, and promote the future of more equitable and sustainable cities. </p>
+<p> <i>Lake House Stories</i> was exhibited in New York City at <a href="http://www.greenspacenyc.org/Civic-Art-Lab" target="_blank">Civic Art Lab (2018)</a>: Sustainable Futures, a group exhibition and pop-up gallery focusing on the intersection of sustainability, design, and art in a circular economy. The 4th Annual Civic Art Lab was held on October 5-7, 2018, in New York City, and was organized by <a href="http://greenspacenyc.org">Greenspace NYC,</a> a non-profit collaborative that develops and curates free educational programming, hands-on workshops, and public design projects that encourage dialogue, enliven public spaces, and promote the future of more equitable and sustainable cities. </p>
 <span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-12.jpg %}" alt="Civic Art Lab 2018" /></span>
-<p>Many thanks to Laura and Jeff for welcoming me to Civic Art Lab, and for inviting me to give an artist talk my very first time exhibiting with you!</p>
+<p>Many thanks to Laura and Jeff for welcoming me to Civic Art Lab, and for inviting me to give an artist talk on opening night - especially since it was my very first time exhibiting with you!</p>
 <span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-17.jpg %}" alt="Civic Art Lab 2018" /></span>
 <span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-11.jpg %}" alt="Civic Art Lab 2018" /></span>
