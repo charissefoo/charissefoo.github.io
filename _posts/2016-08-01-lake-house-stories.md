@@ -11,7 +11,7 @@ tags: architecture exhibition publication
 <p> 
 What might a floating community mean in terms of architecture and identity? Instead of a holiday home with picturesque views, left empty for half the year, these lake houses form the setting for a hypothetical floating extension of the present-day Eco-Village in Ithaca, NY, built upon cooperative community and ecological awareness. Through the eyes of a twenty-one-year-old boy, a couple looking for their first home, and an old grandfatherly chef, these stories imagine new sustainable ways of living, question existing housing typologies and farming practices, and examine the development of communities, their rituals, and identities. </p>
 
-<p><strong><i>Lake House Stories</i> was exhibited in New York City at <a href="http://www.greenspacenyc.org/Civic-Art-Lab" target="_blank">Civic Art Lab (2018)</a>. It was also published as a special feature in <a href="https://aap.cornell.edu/about/alumni/aapnews" target="_blank">AAP News (Spring 2017),</a> as well as in <a href="http://www.association.aap.cornell.edu/" target="_blank">AAP Association (Vol. 9)</a>, and <a href="https://imaginingenergyfutures.wordpress.com/about/" target="_blank">Imagining Energy Futures (2017).</a></strong><p>
+<p><strong><i>Lake House Stories</i> was exhibited in New York City at <a href="http://www.greenspacenyc.org/Civic-Art-Lab" target="_blank">Civic Art Lab (2018)</a>. It was also published as a special feature in <a href="https://aap.cornell.edu/about/alumni/aapnews" target="_blank">AAP News (Spring 2017),</a> as well as in <a href="https://association.aap.cornell.edu/9/" target="_blank">AAP Association (Vol. 9)</a>, and <a href="https://imaginingenergyfutures.wordpress.com/about/" target="_blank">Imagining Energy Futures (2017).</a></strong><p>
 
 <!-- Image Grid -->
 <div class="row">
@@ -88,10 +88,27 @@ What might a floating community mean in terms of architecture and identity? Inst
 <h3> Publication </h3>
 <p>
 It was a privilege to work with AAP Communications to make <i>The Descent</i> a special insert in the Spring 2017 issue of AAP News, a  semi-annual publication of Cornell University's College of Architecture, Art, and Planning (AAP).</p>
+
 <span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-10.jpg %}" alt="AAP News Spring 2017 publication" /></span>
 
+<p>
+It was also an honour to have <i>Lake House Stories</i> published in the beautifuly-designed <a href="https://association.aap.cornell.edu/9/" target="_blank">Association (Vol. 9)</a>, a publication of Cornell University’s College of Architecture, Art, and Planning, as well as in the <a href="https://imaginingenergyfutures.wordpress.com/about/" target="_blank">Imagining Energy Futures Winners' Chapbook (2017)</a>, co-sponsored by the <a href="https://einaudi.cornell.edu/" target="_blank">Mario Einaudi Center for International Studies</a> and the Atkinson Center for a Sustainable Future’s <a href="http://www.atkinson.cornell.edu/grants/avf/" target="_blank">Academic Venture Fund.</a></p>
+
+<!-- Image Grid -->
+<div class="row">
+	<div class="4u 12u$(small)">
+		<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-18.jpg %}" alt="" /></span>
+	</div>
+		<div class="4u 12u$(small)">
+		<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-19.jpg %}" alt="" /></span>
+	</div>
+	<div class="4u$ 12u$(small)">
+			<span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-20.jpg %}" alt="" /></span>
+	</div>
+</div>
+
 <h3> Exhibition </h3>
-<p> <i>Lake House Stories</i> was exhibited in New York City at <a href="http://www.greenspacenyc.org/Civic-Art-Lab" target="_blank">Civic Art Lab (2018)</a>: Sustainable Futures, a group exhibition and pop-up gallery focusing on the intersection of sustainability, design, and art in a circular economy. The 4th Annual Civic Art Lab was held on October 5-7, 2018, in New York City, and was organized by <a href="http://greenspacenyc.org">Greenspace NYC,</a> a non-profit collaborative that develops and curates free educational programming, hands-on workshops, and public design projects that encourage dialogue, enliven public spaces, and promote the future of more equitable and sustainable cities. </p>
+<p> <i>Lake House Stories</i> was exhibited in New York City at <a href="http://www.greenspacenyc.org/Civic-Art-Lab" target="_blank">Civic Art Lab 2018: Sustainable Futures,</a> a group exhibition and pop-up gallery focusing on the intersection of sustainability, design, and art in a circular economy. The 4th Annual Civic Art Lab was held on October 5-7, 2018, in New York City, and was organized by <a href="http://greenspacenyc.org">Greenspace NYC,</a> a non-profit collaborative that develops and curates free educational programming, hands-on workshops, and public design projects that encourage dialogue, enliven public spaces, and promote the future of more equitable and sustainable cities. </p>
 <span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-12.jpg %}" alt="Civic Art Lab 2018" /></span>
 <p>Many thanks to Laura and Jeff for welcoming me to Civic Art Lab, and for inviting me to give an artist talk on opening night - especially since it was my very first time exhibiting with you!</p>
 <span class="image fit"><img src="{% link assets/images/lake-house-stories/charisse-foo-lake-house-stories-17.jpg %}" alt="Civic Art Lab 2018" /></span>

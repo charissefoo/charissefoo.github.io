@@ -1,66 +1,72 @@
 ---
 layout: post
 title: Fluid Pavilion
-description: A future of ecological living beyond the limits of the Earth
+description: Materializing structural memory
 image: assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-02-header.jpg
 tags: architecture publication
 ---
 
-<h3><i>Satellite Town</i> illustrates a future of ecological living beyond the limits of the Earth.</h3>
+<h3>What does structural memory look like?</h3>
 
-<p> In a research community living in a satellite orbiting the Moon, distinct notions of self-sufficiency and sustainability are explored, each with a distinct color palette. <i>The Forest</i> depicts the distinctive pink glow of high intensity LEDs for crop growth; <i>The Street</i> imagines an underpass with bioluminescent mycelium pavements that generate electricity from footsteps; <i>The Chapel </i>depicts a zero-gravity projection room featuring an endless sunset against distant planets. Bringing a familiar urban concept back to its original imaginative meaning, <i> Satellite Town </i> magnifies the architectural notions of interior and exterior, self-sufficiency and interdependence. </p>
+<p>An ethereal presence, <i>Fluid Pavilion</i> displays the ability of plastic to be both rigid and organic, as well as the lightness of a transparent enclosure. Built upon spatial, material, and visual deformations, the pavilion is both rigid and organic, clear and hazy, open and closed: as much a window frame as it is a wall.</p>
 
-<div class="row">
-	<div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-01.jpg %}" alt="The Forest" /></span>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>I. The Forest</h3>
-		<p> <i>The Forest </i>depicts the distinctive pink glow of high-intensity LEDs for crop growth. By varying the amounts of red and blue light, plants can be grown optimally with custom light recipes, which can vary according to plant species and stage of growth. As these plants purify water, regenerate atmosphere, and produce food, they function as bioregenerative technology, a key component of closed ecological systems. </p> 
-		<blockquote> A dense, staggered rainforest that resembles a city, the vertical farm speaks of the urbanization and optimization of nature through technology. </blockquote> 
-		<p> Here is a glimpse into a natural world that is foreign and fantastic, constantly enclosed in strangely humid plant growth chambers, while the outside world is composed of glass and metal.
-		</p>	
-	</div>
-</div>
+<p><i>Fluid Pavilion</i> was a collaboration with <a href="https://www.linkedin.com/in/hanxi-wang-868908137" target="_blank">Hanxi Wang</a>, with the mentorship of <a href="https://aap.cornell.edu/people/sasa-zivkovic" target="_blank">Sasa Zivkovic</a> and <a href="https://aap.cornell.edu/people/martin-miller" target="_blank">Martin Miller</a>, Cornell University.</p>
 
-<div class="row">
-    <div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-02.jpg %}" alt="The Street" /></span>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>II. The Street</h3>
-		<p><i>The Street </i>depicts an underpass of bioluminescent mycelium pavement tiles that generate electricity with every footstep. Energy-generating pavements already exist, and a new wave of biomaterials such as mycelium - the vegetative structure of fungi - are becoming more commonly available. It is a busy public passage in the day and an occasional children’s racetrack at night. </p> 
-		<blockquote> The street creates a living, hypnotic light source, an energy-generating landscape set against the larger foreign world of the Moon. There can be wonder in every step. </blockquote>
-		<p> In this satellite, an otherworldly technological urban underpass is actually organic in its materiality, framing views towards an unearthly natural world. </p>
-	</div>
+<p><strong><i>Fluid Pavilion</i> was published in
+<a href="http://www.archdaily.com/771146/the-best-student-work-worldwide-archdaily-readers-show-us-their-studio-projects" target="_blank">ArchDaily’s Best Student Work Worldwide (2015)</a>,
+<a href="https://aap.cornell.edu/student-work/fluid-pavilion" target="_blank">Cornell AAP Student Work Feature</a>,
+<a href="http://www.re-thinkingthefuture.com/temporary-structure/fluid-pavilion-hanxi-charisse/" target="_blank">Rethinking The Future</a>, and
+<a href="https://www.facebook.com/rcnc.fauucs/posts/1309734725777266" target="_blank">Resoluciones Constructivas No Convencionales</a>.</strong></p>
 
-</div>
+<span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-01.jpg %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-03.jpg %}" alt="" /></span>
 
-<div class="row">
-	<div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-03.jpg %}" alt="The Chapel" /></span>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>III. The Chapel</h3>
-		<p>A zero-gravity projection room that features a never-ending sunset, <i>The Chapel </i>unites the personal with the cosmic. Microgravity facilitates the magic of levitation, and impossibly thin columns recall the upward reach of Gothic architecture, pulling away and stretching vertically towards infinity. 
-		</p> 
-		<blockquote> The projection is a technologically-enabled illusion, uniting the visible with the psychological and spatial. </blockquote>
-		<p>
-		In an architecturalization of 'happy lights' that are used in deep winter, this self-contained microcosm makes reference to an external natural world without actually providing access to it.  No longer seen from Earth, the sunset becomes foreign against projections of distant planets, an eternal golden hour that reaches for the sublime. </p>
-	</div>
-</div>
+<p>In this 1:1 experimental installation, thermoformed PETG sheets were found to acquire a new resting state after deformation. This ‘memory’ meant that each plastic sheet would always flex back to its three-dimensionally deformed state. The final installation thus rests in a state of self-adjusting equilibrium, as the ‘stretchy-ness’ of the thermoformed plastic acts as pre-tension.</p>
 
-<h3> Exhibition </h3>
-<p> <i> Satellite Town </i> was exhibited at <a href = "https://www.eventbrite.com/e/civic-art-lab-2020-3-day-sustainability-and-design-lab-tickets-77649071463"> Civic Art Lab  2019: Closing the Loop + Inhabiting the Loop,</a> a group exhibition and pop-up gallery focusing on the intersection of sustainability, design, and art in a circular economy. The 5th Annual Civic Art Lab was held on October 13-16, 2019, in New York City, and was organized by <a href="http://greenspacenyc.org">Greenspace NYC,</a> a non-profit collaborative that develops and curates free educational programming, hands-on workshops, and public design projects that encourage dialogue, enliven public spaces, and promote the future of more equitable and sustainable cities. </p>
+<span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-05.jpg %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-06.jpg %}" alt="" /></span>
 
+<h3>Materiality</h3>
 <!-- Image Grid -->
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-04.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-06.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-05.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-07.jpg %}" alt="" /></span></div>
-		<div class="8u$"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-08.jpg %}" alt="" /></span></div>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-24.gif %}" alt="stretching plastic" /></span>
+	</div>
+	<div class="6u$ 12u$(small)">
+			<p>This early experiment with thermoformed plastic captures its transformation, with 'memory' embedded into the material. The flat sheet of plastic has been thermoformed into a curved, wavy surface, and holds this curved shape. When stretched out, it springs back to its wavy shape. In exploring PETG plastic as a material, its malleability (plasticity) and elasticity were of great interest to us: under heat, plastic could be shaped freely; after thermoforming, it would retain and even spring back to its shape.</p>
 	</div>
 </div>
+
+<h3>Design Process</h3>
+<p>The entire pavilion is made of three types of units: a rectangle, a trapezium and a square.</p>
+
+<span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-12.jpg %}" alt="3 units" /></span>
+
+<p>A rectangle is 1 unit wide, a square is 2 units wide, and a trapezium connects 1 unit to 2 units. In aggregating these three elements, we were interested in creating ‘pinching’ within the entire surface, so as to develop three-dimensional form. This also created varying degrees of structural strength.</p>
+<p>Three-dimensional deformations expected from thermoforming plastic were modelled on top of this planar unit-to-unit aggregation.</p>
+
+<span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-13.jpg %}" alt="3 units aggregation with surface deformation" /></span>
+<span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-14.jpg %}" alt="3 units aggregation" /></span>
+
+<p>These aggregations were modelled digitally and tested in Kangaroo, with a magnetic force causing the pinching between the surfaces. </p>
+
+<span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-15.jpg %}" alt="modelling with kangaroo" /></span>
+
+<p>Of course, we also tested these with physical chipboard models, which were laser-cut and glued together.</p>
+<span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-10.jpg %}" alt="chipboard models" /></span>
+<p> Here are some aggregations we explored, in 2D form and their resultant 3D form. </p>
+<span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-16.jpg %}" alt="chipboard models" /></span>
+<span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-09.jpg %}" alt="chipboard models" /></span>
+
+<h3>Fabrication Process</h3>
+<p>We designed our own fabrication process in order to build the entire installation ourselves. As much of the unit geometry and connections as possible was built into the CNC-milled molds. </p>
+
+As 1:1 material properties could not be entirely modelled digitally or in study models, aggregating the actual units was a continual process of experimentation and testing.
+
+Each unit had a maximum of 12 connection points, with positions embedded in the molds, allowing for alternating connections between units. The specifics of the final form evolved from this iterative building, where the installation was as much a test of material properties as a spatial intervention.
+
+<span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-08.jpg %}" alt="fabrication process" /></span>
+
+The final global form houses three structural systems: 1) a thin, rigid column formed by triangulated units, 2) a large, soft, and occupiable tubular column that expands out and cantilevers at the top, and 3) a series of mobile strips forming an arch between the two.
+
+<h3>Publication</h3>
