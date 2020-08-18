@@ -2,7 +2,7 @@
 layout: tagpage
 title: architecture
 nav-menu: true
-description: here are some architecture projects
-image:
+description: These projects feature more explicit elements of architectural design - original plans, sections, and elevations at the very least. In contrast to my illustrative projects, here the built form comes to the fore, unified by an overall concept.
+image: assets/images/lake-house-stories/charisse-foo-lake-house-stories-02.jpg
 show_tile: false
 ---

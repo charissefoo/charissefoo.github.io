@@ -3,7 +3,7 @@ layout: post
 title: Fluid Pavilion
 description: Materializing structural memory
 image: assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-02-header.jpg
-tags: architecture publication
+tags: architecture fabrication publication
 ---
 
 <h3>What does structural memory look like?</h3>
