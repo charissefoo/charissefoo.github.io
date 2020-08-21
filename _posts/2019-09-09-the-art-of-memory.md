@@ -3,7 +3,7 @@ layout: post
 title: The Art of Memory
 description: What does it mean to remember?
 image: assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-01.jpg
-tags: architecture visualization
+tags: architecture illustration awards exhibition publication
 ---
 
 <h3>What does it mean to remember?</h3>
