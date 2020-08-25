@@ -315,7 +315,11 @@ In the tradition of gravestone rubbing and surrealist <i>frottage,</i> our thirt
 <h3>Book</h3>
 <p>A compilation of our project is available in book form on <a href="https://www.blurb.com/b/9919013-the-art-of-memory" target="_blank">Blurb</a>. The 330-page book contains extended write-ups on our twelve selected sites, as well as unpublished sketches from our trip, in addition to everything else displayed in the exhibition. We are selling this book at cost price, and it can be ordered directly <a href="https://www.blurb.com/b/9919013-the-art-of-memory" target="_blank">here</a>.</p>​​​
 
-<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-19.jpg %}" alt="" /></span>
+<!-- <span class="image fit"> -->
+<!-- <img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-19.jpg %}" alt="" /> -->
+<!-- </span> -->
+
+![book](assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-19.jpg)
 
 <h3>Collateral</h3>
 <p>Two posters were printed as postcards for the exhibition.</p>

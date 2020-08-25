@@ -1,66 +1,136 @@
 ---
 layout: post
 title: The Constructed Ruin
-description: A future of ecological living beyond the limits of the Earth
-image: assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-17-header.jpg
+description: Inhabiting the image in Civita di Bagnoregio
+image: assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-22.jpg
 tags: architecture exhibition awards publication
 ---
 
-<h3><i>Satellite Town</i> illustrates a future of ecological living beyond the limits of the Earth.</h3>
+<h3>How can historic preservation be reimagined?</h3>
 
-<p> In a research community living in a satellite orbiting the Moon, distinct notions of self-sufficiency and sustainability are explored, each with a distinct color palette. <i>The Forest</i> depicts the distinctive pink glow of high intensity LEDs for crop growth; <i>The Street</i> imagines an underpass with bioluminescent mycelium pavements that generate electricity from footsteps; <i>The Chapel </i>depicts a zero-gravity projection room featuring an endless sunset against distant planets. Bringing a familiar urban concept back to its original imaginative meaning, <i> Satellite Town </i> magnifies the architectural notions of interior and exterior, self-sufficiency and interdependence. </p>
+<i>The Constructed Ruin</i> explores the tension between the visual and physical construct, through the lens of historic preservation. In anticipation of gradual and catastrophic decay, the project translates the Italian hilltown of <a href="https://en.wikipedia.org/wiki/Civita_di_Bagnoregio" target="_blank">Civita di Bagnoregio</a> into an archived representation of itself: a future ruin that compresses history into material fragments.
 
-<div class="row">
-	<div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-01.jpg %}" alt="The Forest" /></span>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>I. The Forest</h3>
-		<p> <i>The Forest </i>depicts the distinctive pink glow of high-intensity LEDs for crop growth. By varying the amounts of red and blue light, plants can be grown optimally with custom light recipes, which can vary according to plant species and stage of growth. As these plants purify water, regenerate atmosphere, and produce food, they function as bioregenerative technology, a key component of closed ecological systems. </p> 
-		<blockquote> A dense, staggered rainforest that resembles a city, the vertical farm speaks of the urbanization and optimization of nature through technology. </blockquote> 
-		<p> Here is a glimpse into a natural world that is foreign and fantastic, constantly enclosed in strangely humid plant growth chambers, while the outside world is composed of glass and metal.
-		</p>	
-	</div>
-</div>
+This work was a semester-long B. Arch undergraduate thesis, advised by <a href="https://aap.cornell.edu/people/aleksandr-mergold" target="_blank"> Aleksandr Mergold</a> and <a href="https://aap.cornell.edu/people/mary-n-woods" target="_blank">Mary Woods,</a> Cornell University.
 
-<div class="row">
-    <div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-02.jpg %}" alt="The Street" /></span>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>II. The Street</h3>
-		<p><i>The Street </i>depicts an underpass of bioluminescent mycelium pavement tiles that generate electricity with every footstep. Energy-generating pavements already exist, and a new wave of biomaterials such as mycelium - the vegetative structure of fungi - are becoming more commonly available. It is a busy public passage in the day and an occasional children’s racetrack at night. </p> 
-		<blockquote> The street creates a living, hypnotic light source, an energy-generating landscape set against the larger foreign world of the Moon. There can be wonder in every step. </blockquote>
-		<p> In this satellite, an otherworldly technological urban underpass is actually organic in its materiality, framing views towards an unearthly natural world. </p>
-	</div>
+<strong><i>The Constructed Ruin</i> was awarded the <a href="https://aap.cornell.edu/news-events/2017-18-student-academic-awards-and-prizes" target="_blank">2017-2018 Charles Goodwin Sands Memorial Medal</a> for excellence in an undergraduate thesis. It has been published in <a href="https://cornelljournalofarchitecture.cornell.edu/" target="_blank">Cornell Journal of Architecture, Vol. 12 (2020),</a> <a href="https://association.aap.cornell.edu/pub/jvn94t7u/release/2" target="_blank">AAP Association Vol. 11 (2020),</a> and <a href="https://aap.cornell.edu/student-work/constructed-ruin" target="_blank">Cornell AAP's Featured Student Work.</a></strong>
 
-</div>
+![site](assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-28.jpg)
 
-<div class="row">
-	<div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-03.jpg %}" alt="The Chapel" /></span>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>III. The Chapel</h3>
-		<p>A zero-gravity projection room that features a never-ending sunset, <i>The Chapel </i>unites the personal with the cosmic. Microgravity facilitates the magic of levitation, and impossibly thin columns recall the upward reach of Gothic architecture, pulling away and stretching vertically towards infinity. 
-		</p> 
-		<blockquote> The projection is a technologically-enabled illusion, uniting the visible with the psychological and spatial. </blockquote>
-		<p>
-		In an architecturalization of 'happy lights' that are used in deep winter, this self-contained microcosm makes reference to an external natural world without actually providing access to it.  No longer seen from Earth, the sunset becomes foreign against projections of distant planets, an eternal golden hour that reaches for the sublime. </p>
-	</div>
-</div>
+Home to a dwindling population of twelve, Civita is visited by thousands of tourists each summer, attracted by the medieval Italian hilltown precariously perched on quickly-eroding volcanic tuff. It can only be reached by a single footbridge, which has in turn created the iconic view of Civita: picturesquely framed from a fixed vantage point throughout its history. Today, a [webcam](http://looks-civitadibagnoregio.com/) sponsored by the town makes a live stop-motion film of the same view every five minutes, making Civita a life-sized stage set.
 
-<h3> Exhibition </h3>
-<p> <i> Satellite Town </i> was exhibited at <a href = "https://www.eventbrite.com/e/civic-art-lab-2020-3-day-sustainability-and-design-lab-tickets-77649071463"> Civic Art Lab  2019: Closing the Loop + Inhabiting the Loop,</a> a group exhibition and pop-up gallery focusing on the intersection of sustainability, design, and art in a circular economy. The 5th Annual Civic Art Lab was held on October 13-16, 2019, in New York City, and was organized by <a href="http://greenspacenyc.org">Greenspace NYC,</a> a non-profit collaborative that develops and curates free educational programming, hands-on workshops, and public design projects that encourage dialogue, enliven public spaces, and promote the future of more equitable and sustainable cities. </p>
+![webcam footage](assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-30.png)
+
+Drawing on Civita’s history as a filming location – an alternate life where it becomes a place of magic, theatricality, and contested identity – this thesis asks, can we inhabit images? If so, what is the view from the inside like?
 
 <!-- Image Grid -->
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-04.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-06.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-05.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-07.jpg %}" alt="" /></span></div>
-		<div class="8u$"><span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-08.jpg %}" alt="" /></span></div>
+<div class="row">
+	<div class="6u">
+		<span class="image fit"><img src="{% link /assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-32.jpg %}" alt="paper model" /></span>
+	</div>
+	<div class="6u$">
+			<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-29.jpg %}" alt="paper model" /></span>
 	</div>
 </div>
+
+As the city decays, it is archived, translated, and condensed: its physical collapse caused by landslides and soil erosion is mirrored in a collapse into cataloged material. The construction of these parallel spaces for the preserved city revolves around the perspectival and historic construction of that single image of Civita; conversely, that image is fragmented into multiple versions of an imagined past and a reconstructed future.
+
+![transparency model](assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-31.jpg)
+
+### Exhibition
+
+Originally staged on 5 December 2017, in 144 Sibley Hall, Cornell University, _The Constructed Ruin_ was presented as an exhibition of the Museum of Civita’s Open Archive.
+
+It consists of:
+
+- _The View of Civita_, a site-specific installation
+- 3 films, presented on the TV, laptop, and projector
+- 6 models, displayed on the far wall
+- 8 architectural sections, from 2500 & 3000 A.D.
+- 20 renderings, from 2000-3000 A.D.
+- an explanatory axonometric drawing
+- 6 sets of postcards as souvenirs
+
+<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-33.jpg %}" alt="" /></span>
+
+<!-- Image Grid -->
+<div class="row">
+	<div class="4u">
+		<span class="image fit"><img src="{% link /assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-40.jpg %}" alt="exhibition detail" /></span>
+	</div>
+	<div class="4u">
+			<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-38.jpg %}" alt="exhibition detail" /></span>
+	</div>
+	<div class="4u$">
+			<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-39.jpg %}" alt="exhibition detail" /></span>
+	</div>
+</div>
+
+<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-03.jpg %}" alt="" /></span>
+
+_The View of Civita_ (above) is a site-specific installation in 144 Sibley, constructed by 109 tiled 11” x 17” papers. Each piece of paper is reproduced at half scale in the accompanying thesis book: _The Constructed Ruin_.
+
+The iconic view of Civita can be seen through the central window, and _The View of Civita_ depicts the archive of the Museum of Civita, consisting of fragments, models, drawings, books, and various representations of the city.
+
+<!-- Image Grid -->
+<div class="row">
+	<div class="6u">
+		<span class="image fit"><img src="{% link /assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-11.jpg %}" alt="thesis review" /></span>
+	</div>
+	<div class="6u$">
+			<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-12.jpg %}" alt="thesis review" /></span>
+	</div>
+</div>
+			
+In this installation, models are on display in two-dimensional and three-dimensional form.
+
+<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-04.jpg %}" alt="" /></span>
+
+Twenty renderings chart the development of four different sites in Civita over a 1000-year time period. They are presented as stills and in filmic form, projected on the screen.
+
+### Thesis Review
+
+The following photographs of the review itself were generously provided by <a href="https://aap.cornell.edu/people/william-staffeld" target="_blank">Bill Staffeld</a> and Joyce Han.
+
+<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-37.jpg %}" alt="" /></span>
+
+<!-- Image Grid -->
+<div class="row">
+	<div class="6u">
+		<span class="image fit"><img src="{% link /assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-41.jpg %}" alt="thesis review" /></span>
+	</div>
+	<div class="6u$">
+			<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-42.jpg %}" alt="thesis review" /></span>
+	</div>
+	<div class="6u">
+		<span class="image fit"><img src="{% link /assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-35.jpg %}" alt="thesis review" /></span>
+	</div>
+	<div class="6u$">
+			<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-36.jpg %}" alt="thesis review" /></span>
+	</div>
+</div>
+
+### Artefacts
+
+<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-09.jpg %}" alt="models" /></span>
+
+![model timeline](assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-07.jpg)
+
+Through geological time and technological mediation, _6 Models, 6 Eras_ presents a sequence of growing ruins in Civita di Bagnoregio, Italy. As the city decays, it is collapsed into catalogued material: archived, translated, and condensed. A grid of structural wells throughout the ground stabilizes the slope, but also decays over time.
+
+### Drawings
+
+Twenty renderings chart the development of 4 different sites in Civita over a 1000-year time period.
+
+<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-06.jpg %}" alt="renderings" /></span>
+
+An explanatory axonometric details the process of selective preservation: only the faces of buildings that can be seen from the fixed vantage point across the bridge are preserved from natural decay. A zoning envelope is formed by this viewshed: anything
+inside this envelope cannot be seen from the outside. Openings in the ground reveal underground caves and structural wells to stabilize the slope. 17 sites of interest in Civita are indicated and categorized, with 4 sites ultimately being tracked across the projected 1000-year time period.
+
+<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-01.jpg %}" alt="axonometric" /></span>
+
+These sections are drawn at 3000 A.D., the final stage of the project. They show the collapse of the archive and the aging of structural interventions.
+
+<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-18.jpg %}" alt="section" /></span>
+<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-19.jpg %}" alt="section" /></span>
+<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-20.jpg %}" alt="section" /></span>
+<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-21.jpg %}" alt="section" /></span>

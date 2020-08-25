@@ -14,7 +14,7 @@ tags: architecture fabrication publication
 
 <p><strong><i>Fluid Pavilion</i> was published in
 <a href="http://www.archdaily.com/771146/the-best-student-work-worldwide-archdaily-readers-show-us-their-studio-projects" target="_blank">ArchDaily’s Best Student Work Worldwide (2015)</a>,
-<a href="https://aap.cornell.edu/student-work/fluid-pavilion" target="_blank">Cornell AAP Student Work Feature</a>,
+<a href="https://aap.cornell.edu/student-work/fluid-pavilion" target="_blank">Cornell AAP's Featured Student Work</a>,
 <a href="http://www.re-thinkingthefuture.com/temporary-structure/fluid-pavilion-hanxi-charisse/" target="_blank">Rethinking The Future</a>, and
 <a href="https://www.facebook.com/rcnc.fauucs/posts/1309734725777266" target="_blank">Resoluciones Constructivas No Convencionales</a>.</strong></p>
 

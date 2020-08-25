@@ -6,16 +6,16 @@ image: assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-02-hea
 tags: architecture visualization
 ---
 
-<h3>A Monument to Transformation</h3>
+<h3><i>Of Water & Spirit</i>proposes a new life for Ravenna's decommissioned oil rigs.</h3>
 <p>
- <i>Of Water & Spirit</i> draws from Ravenna’s early Christian baptisteries and postwar industrial history to transform its decommissioned oil rigs. In converting Ravenna's decommissioned oil rigs into a Museum of Waters, this proposal expresses the hope of creating a public space that confronts visitors with the weight of its history, and inspires them by its connection to nature. </p>
+ Drawing from Ravenna’s early Christian baptisteries and postwar industrial history, <i>Of Water & Spirit</i> is a proposal to transform its decommissioned oil rigs. In converting the decommissioned oil rig in the Cervia gas field, off the coast of Ravenna, into a Museum of Waters, this proposal expresses the hope of creating a public space that confronts visitors with the weight of its history, and inspires them by its connection to nature. </p>
 
- <p> Stacked modular concrete units are punctured alternately, with a single circular opening on their inner faces and stylized triple arches on their outer faces. These twin façades speak of a duality in Ravenna's history: a UNESCO World Heritage Site for its early Christian monuments, and a postwar industrial centre after the discovery of oil and gas fields in the 1960s, leading the Italian offshore oil and gas industry. </p>
+ <p>Stacked modular concrete units are punctured alternately, with a single circular opening on their inner faces and stylized triple arches on their outer faces. These twin façades speak of a duality in Ravenna's history: a UNESCO World Heritage Site for its early Christian monuments, and a postwar industrial centre after the discovery of oil and gas fields in the 1960s, leading the Italian offshore oil and gas industry. </p>
 
 <span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-03.jpg %}" alt="Exterior view of Museum" /></span>
 
 <p>
- Ravenna’s historic baptisteries are the inspiration for a building literally and symbolically centred around water: as figure and ground, architectural feature and religious sacrament. </p>
+ Ravenna’s historic baptisteries are the inspiration for a building literally and symbolically centred around water: as figure and ground, architectural feature and religious sacrament.</p>
 
 <div class="row">
 	<div class="6u 12u$(small)">
