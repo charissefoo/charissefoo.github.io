@@ -89,7 +89,7 @@ Twenty renderings chart the development of four different sites in Civita over a
 
 ### Thesis Review
 
-The following photographs of the review itself were generously provided by <a href="https://aap.cornell.edu/people/william-staffeld" target="_blank">Bill Staffeld</a> and Joyce Han.
+The following photographs of the review itself were generously provided by <a href="https://aap.cornell.edu/people/william-staffeld" target="_blank">Bill Staffeld</a> and <a href="https://www.linkedin.com/in/heesunjoycehan" target="_blank">Joyce Han</a>.
 
 <span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-37.jpg %}" alt="" /></span>
 
