@@ -3,7 +3,7 @@ layout: post
 title: Oasis Waterpark
 description: Shared memories in one public playground
 image: assets/images/oasis-waterpark/charisse-foo-oasis-waterpark-01.jpg
-tags: illustration award
+tags: illustration awards
 ---
 
 <h3><i>Oasis Waterpark</i> explores architectural memory through comics.</h3>
