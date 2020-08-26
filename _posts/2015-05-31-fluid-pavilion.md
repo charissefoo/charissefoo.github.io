@@ -13,9 +13,9 @@ tags: architecture fabrication publication
 <p><i>Fluid Pavilion</i> was a collaboration with <a href="https://www.linkedin.com/in/hanxi-wang-868908137" target="_blank">Hanxi Wang</a>, with the mentorship of <a href="https://aap.cornell.edu/people/sasa-zivkovic" target="_blank">Sasa Zivkovic</a> and <a href="https://aap.cornell.edu/people/martin-miller" target="_blank">Martin Miller</a>, Cornell University.</p>
 
 <p><strong><i>Fluid Pavilion</i> was published in
-<a href="http://www.archdaily.com/771146/the-best-student-work-worldwide-archdaily-readers-show-us-their-studio-projects" target="_blank">ArchDaily’s Best Student Work Worldwide (2015)</a>,
+<a href="https://www.archdaily.com/771146/the-best-student-work-worldwide-archdaily-readers-show-us-their-studio-projects" target="_blank">ArchDaily’s Best Student Work Worldwide (2015)</a>,
 <a href="https://aap.cornell.edu/student-work/fluid-pavilion" target="_blank">Cornell AAP's Featured Student Work</a>,
-<a href="http://www.re-thinkingthefuture.com/temporary-structure/fluid-pavilion-hanxi-charisse/" target="_blank">Rethinking The Future</a>, and
+<a href="https://www.re-thinkingthefuture.com/temporary-structure/fluid-pavilion-hanxi-charisse/" target="_blank">Rethinking The Future</a>, and
 <a href="https://www.facebook.com/rcnc.fauucs/posts/1309734725777266" target="_blank">Resoluciones Constructivas No Convencionales</a>.</strong></p>
 
 <span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-01.jpg %}" alt="" /></span>
@@ -84,9 +84,9 @@ The final global form houses three structural systems: a large, soft, and occupi
 <span class="image fit"><img src="{% link assets/images/fluid-pavilion/charisse-foo-fluid-pavilion-08.jpg %}" alt="fabrication process" /></span>
 
 <h3>Publication</h3>
-<p>It was an honour to have <i>Fluid Pavilion</i> featured in <a href="http://www.archdaily.com/771146/the-best-student-work-worldwide-archdaily-readers-show-us-their-studio-projects" target="_blank">ArchDaily’s Best Student Work Worldwide (2015)</a>, as well as 
+<p>It was an honour to have <i>Fluid Pavilion</i> featured in <a href="https://www.archdaily.com/771146/the-best-student-work-worldwide-archdaily-readers-show-us-their-studio-projects" target="_blank">ArchDaily’s Best Student Work Worldwide (2015)</a>, as well as 
 <a href="https://aap.cornell.edu/student-work/fluid-pavilion" target="_blank">Cornell AAP's Student Work Feature</a>. We also thank 
-<a href="http://www.re-thinkingthefuture.com/temporary-structure/fluid-pavilion-hanxi-charisse/" target="_blank">Rethinking The Future</a> and <a href="https://www.facebook.com/rcnc.fauucs/posts/1309734725777266" target="_blank">Resoluciones Constructivas No Convencionales</a> for taking an interest in our work and kindly approaching us to publish it.</p>
+<a href="https://www.re-thinkingthefuture.com/temporary-structure/fluid-pavilion-hanxi-charisse/" target="_blank">Rethinking The Future</a> and <a href="https://www.facebook.com/rcnc.fauucs/posts/1309734725777266" target="_blank">Resoluciones Constructivas No Convencionales</a> for taking an interest in our work and kindly approaching us to publish it.</p>
 
 <!-- Image Grid -->
 <div class="row">

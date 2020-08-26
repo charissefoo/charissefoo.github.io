@@ -11,7 +11,7 @@ tags: illustration exhibition publication awards
 <p> 
 Drawing from the book <i>Let Us Now Praise Famous Men</i> by writer James Agee and photographer Walker Evans, this project presents a series of seventeen architectural and narrative drawings about three houses, in a book and exhibition. In combining drawing and creative writing, <i>In All This House</i> asks what it means for architecture to be represented as it is experienced: from the inside out, by the non-architect. Can the act of drawing encompass transcription, translation, and even construction? </p>
 
-<p> <i>In All This House</i> was awarded the maximum amount of funding from the <strong><a href="http://cca.cornell.edu/?p=grants">Cornell Council for the Arts Individual Grant</a></strong> (2017), <strong>exhibited</strong> in Cornell University, Department of Architecture, and <strong> published </strong> in <strong> <a href="https://association.aap.cornell.edu/">AAP Association,</a> Vol. 10</strong> (2020).</p>
+<p> <i>In All This House</i> was awarded the maximum amount of funding from the <strong><a href="https://cca.cornell.edu/?p=grants">Cornell Council for the Arts Individual Grant</a></strong> (2017), <strong>exhibited</strong> in Cornell University, Department of Architecture, and <strong> published </strong> in <strong> <a href="https://association.aap.cornell.edu/">AAP Association,</a> Vol. 10</strong> (2020).</p>
 
 <!-- Image Grid -->
 <div class="box alt">
@@ -49,7 +49,7 @@ Embarking upon yet another layer of interpretation through drawing, <i> In All T
 <h3> Exhibition </h3>
 <span class="image fit"><img src="{% link assets/images/in-all-this-house/charisse-foo-in-all-this-house-02.jpg %}" alt="Exhibition view down hallway" /></span>
 
-<p> <i>In All This House</i> was exhibited from November 13-26, 2017, in East Sibley Hall, Cornell University. More information can be found on the <a href="https://aap.cornell.edu/news-events/all-this-house">College of Architecture, Art and Planning (AAP)</a>, <a href="http://cca.cornell.edu/house2017">Cornell Council for the Arts (CCA)</a>, and <a href="https://www.facebook.com/events/145422706061812/">Facebook</a> event pages. </p>
+<p> <i>In All This House</i> was exhibited from November 13-26, 2017, in East Sibley Hall, Cornell University. More information can be found on the <a href="https://aap.cornell.edu/news-events/all-this-house">College of Architecture, Art and Planning (AAP)</a>, <a href="https://cca.cornell.edu/house2017">Cornell Council for the Arts (CCA)</a>, and <a href="https://www.facebook.com/events/145422706061812/">Facebook</a> event pages. </p>
 
 <!-- Full page images -->
 
@@ -67,4 +67,4 @@ Embarking upon yet another layer of interpretation through drawing, <i> In All T
 
 </div>
 
-<p><small><i>This project was funded in part by a grant from the <a href="http://cca.cornell.edu/">Cornell Council for the Arts (CCA)</a>.  Fair Use Notice: As a derivative work based on 'Let Us Now Praise Famous Men,' this project contains copyrighted material, the use of which has not been specifically authorized by the copyright owner. </i></small></p>
+<p><small><i>This project was funded in part by a grant from the <a href="https://cca.cornell.edu/">Cornell Council for the Arts (CCA)</a>.  Fair Use Notice: As a derivative work based on 'Let Us Now Praise Famous Men,' this project contains copyrighted material, the use of which has not been specifically authorized by the copyright owner. </i></small></p>

@@ -16,7 +16,7 @@ This work was a semester-long B. Arch undergraduate thesis, advised by <a href="
 
 ![site](assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-28.jpg)
 
-Home to a dwindling population of twelve, Civita is visited by thousands of tourists each summer, attracted by the medieval Italian hilltown precariously perched on quickly-eroding volcanic tuff. It can only be reached by a single footbridge, which has in turn created the iconic view of Civita: picturesquely framed from a fixed vantage point throughout its history. Today, a [webcam](http://looks-civitadibagnoregio.com/) sponsored by the town makes a live stop-motion film of the same view every five minutes, making Civita a life-sized stage set.
+Home to a dwindling population of twelve, Civita is visited by thousands of tourists each summer, attracted by the medieval Italian hilltown precariously perched on quickly-eroding volcanic tuff. It can only be reached by a single footbridge, which has in turn created the iconic view of Civita: picturesquely framed from a fixed vantage point throughout its history. Today, a [webcam](https://looks-civitadibagnoregio.com/) sponsored by the town makes a live stop-motion film of the same view every five minutes, making Civita a life-sized stage set.
 
 ![webcam footage](assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-30.png)
 
