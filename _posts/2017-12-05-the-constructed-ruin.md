@@ -34,7 +34,7 @@ Drawing on Civita’s history as a filming location – an alternate life where 
 
 <p>As the city decays, it is archived, translated, and condensed: its physical collapse caused by landslides and soil erosion is mirrored in a collapse into cataloged material. The construction of these parallel spaces for the preserved city revolves around the perspectival and historic construction of that single image of Civita; conversely, that image is fragmented into multiple versions of an imagined past and a reconstructed future.</p>
 
-<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-27.jpg %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-31.jpg %}" alt="transparency model" /></span>
 
 ### Exhibition
 
