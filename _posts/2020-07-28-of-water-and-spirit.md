@@ -6,7 +6,7 @@ image: assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-02-hea
 tags: architecture visualization
 ---
 
-<h3><i>Of Water & Spirit</i>proposes a new life for Ravenna's decommissioned oil rigs.</h3>
+<h3><i>Of Water & Spirit</i> proposes a new life for Ravenna's decommissioned oil rigs.</h3>
 <p>
  Drawing from Ravenna’s early Christian baptisteries and postwar industrial history, <i>Of Water & Spirit</i> is a proposal to transform its decommissioned oil rigs. In converting the decommissioned oil rig in the Cervia gas field, off the coast of Ravenna, into a Museum of Waters, this proposal expresses the hope of creating a public space that confronts visitors with the weight of its history, and inspires them by its connection to nature. </p>
 

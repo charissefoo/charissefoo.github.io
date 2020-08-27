@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lake House Stories
-description: Tales of architecture, identity, and sustainability in a floating eco-village
+description: Architecture, identity, and sustainability in a floating eco-village
 image: assets/images/lake-house-stories/charisse-foo-lake-house-stories-09.jpg
 tags: architecture exhibition publication
 ---
