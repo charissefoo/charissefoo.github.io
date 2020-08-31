@@ -15,11 +15,11 @@ _Magic Moving Mansion Mania_ is a mobile action-puzzle platformer where the play
 
 _Magic Moving Mansion Mania_ was **awarded the [Best Student Game](http://www.cis.cornell.edu/cis-team-wins-best-student-game-games-festival) at the 2017 Boston Festival of Indie Games,** and the **[Most Polished Game](http://gdiac.cs.cornell.edu/news/index.php?id=24) and 2nd Place Audience Choice at the 2017 GDIAC Showcase.**
 
-<div class="row">
+<div>
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/lhzENlcKQD8?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Conceptualised and created in four months under the [Game Design Initiative at Cornell (GDIAC)](http://gdiac.cis.cornell.edu/), _Magic Moving Mansion Mania_ was made by a team of six students: programming was done by [Kathryn Stinebruner](https://www.linkedin.com/in/kathryn-stinebruner-562998a7) (project lead), [Jiacong Xu](https://www.linkedin.com/in/jiacong-xu-617349a6) (programming lead), Andrew Jiang, and Nick Milner, and design by myself (design lead) and [Yichen Jia](https://yichenjia.github.io/magic_mansion.html). Game music is by [Setuniman](http://www.setuniman.com/) from [freesound.org](https://freesound.org/people/Setuniman/) and the #GameAudioGDC Bundle from [Sonniss](https://sonniss.com/).
+Conceptualised and created in four months under the [Game Design Initiative at Cornell (GDIAC)](http://gdiac.cis.cornell.edu/), _Magic Moving Mansion Mania_ was made by a team of six students. Programming was done by [Kathryn Stinebruner](https://www.linkedin.com/in/kathryn-stinebruner-562998a7) (project lead), [Jiacong Xu](https://www.linkedin.com/in/jiacong-xu-617349a6) (programming lead), Andrew Jiang, and Nick Milner, and design by myself (design lead) and [Yichen Jia](https://yichenjia.github.io/magic_mansion.html). Game music is by [Setuniman](http://www.setuniman.com/) from [freesound.org](https://freesound.org/people/Setuniman/) and the #GameAudioGDC Bundle from [Sonniss](https://sonniss.com/).
 
 <!-- Image Grid -->
 <div class="row">
@@ -38,14 +38,14 @@ Download _Magic Moving Mansion Mania_ for free on the [Google Play Store](https:
 <!-- Image Grid -->
 <div class="row">
 	<div class="6u">
-		<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-12.png %}" alt="" /></span>
+		<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-12.jpg %}" alt="" /></span>
 	</div>
 	<div class="6u$">
-			<span class="image fit"><img src="{% link assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-13.png %}" alt="" /></span>
+			<span class="image fit"><img src="{% link assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-13.jpg %}" alt="" /></span>
 	</div>
 	<!-- Break-->
 	<div class="6u">
-		<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-14.png %}" alt="" /></span>
+		<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-14.jpg %}" alt="" /></span>
 	</div>
 	<div class="6u$">
 			<span class="image fit"><img src="{% link assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-16.jpg %}" alt="" /></span>
@@ -55,7 +55,7 @@ Download _Magic Moving Mansion Mania_ for free on the [Google Play Store](https:
 		<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-17.jpg %}" alt="" /></span>
 	</div>
 	<div class="6u$">
-			<span class="image fit"><img src="{% link assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-18.png %}" alt="" /></span>
+			<span class="image fit"><img src="{% link assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-18.jpg %}" alt="" /></span>
 	</div>
 </div>
 
@@ -91,9 +91,9 @@ It was a privilege to be part of the 2017 [Boston Festival of Indie Games](https
 
 Yichen and I worked on character and environment art, UI/UX design, and promotional material.
 
-<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-28.png %}" alt="" /></span>
+<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-28.jpg %}" alt="" /></span>
 
-The environment was colour-coded from the start, with different layers of the mansion being clearly differentiated by colour. This stayed consistent even as we added more interactive and decorative elements.
+The environment was colour-coded from the start, with different layers of the mansion being clearly differentiated by colour. This stayed consistent as we added more interactive and decorative elements.
 
 Version 1:
 
@@ -103,7 +103,7 @@ Version 2:
 
 <span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-32.png %}" alt="" /></span>
 
-Final version:
+Version 3:
 
 <!-- Tileset Image Grid -->
 <div class="row">
@@ -187,7 +187,7 @@ It also brought up the idea that difficulty could be increased with locked tiles
 
 User testing and feedback were important for us in learning what frustrated players - not understanding how locked tiles worked, for example - and how to improve. As Anastasia continuously walks forward, gameplay is fast-paced, and puzzles are designed to be challenging and fun. This sometimes resulted in players feeling stressed, while, at other times, players felt impatient at waiting for the character to walk forward when they had already planned out her path. This resulted in us adding the feature to speed up Anastasia's walking speed for players who were already comfortable with the game.
 
-<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-33.png %}" alt="" /></span>
+<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-33.jpg %}" alt="" /></span>
 
 Enthusiastic reviews about the final version suggest at least some success in implementing user feedback and creating a fun puzzle game.
 
