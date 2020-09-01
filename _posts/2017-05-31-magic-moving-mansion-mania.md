@@ -15,9 +15,9 @@ _Magic Moving Mansion Mania_ is a mobile action-puzzle platformer where the play
 
 _Magic Moving Mansion Mania_ was **awarded the [Best Student Game](http://www.cis.cornell.edu/cis-team-wins-best-student-game-games-festival) at the 2017 Boston Festival of Indie Games,** and the **[Most Polished Game](http://gdiac.cs.cornell.edu/news/index.php?id=24) and 2nd Place Audience Choice at the 2017 GDIAC Showcase.**
 
-<div>
-<iframe width="100%" height="600" src="https://www.youtube.com/embed/lhzENlcKQD8?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
+<!-- Youtube video -->
+
+{% include youtube.html id='lhzENlcKQD8' %}
 
 Conceptualised and created in four months under the [Game Design Initiative at Cornell (GDIAC)](http://gdiac.cis.cornell.edu/), _Magic Moving Mansion Mania_ was made by a team of six students. Programming was done by [Kathryn Stinebruner](https://www.linkedin.com/in/kathryn-stinebruner-562998a7) (project lead), [Jiacong Xu](https://www.linkedin.com/in/jiacong-xu-617349a6) (programming lead), Andrew Jiang, and Nick Milner, and design by myself (design lead) and [Yichen Jia](https://yichenjia.github.io/magic_mansion.html). Game music is by [Setuniman](http://www.setuniman.com/) from [freesound.org](https://freesound.org/people/Setuniman/) and the #GameAudioGDC Bundle from [Sonniss](https://sonniss.com/).
 
