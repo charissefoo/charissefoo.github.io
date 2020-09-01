@@ -24,10 +24,10 @@ Drawing on Civita’s history as a filming location – an alternate life where 
 
 <!-- Image Grid -->
 <div class="row">
-	<div class="6u">
+	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link /assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-32.jpg %}" alt="paper model" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-29.jpg %}" alt="paper model" /></span>
 	</div>
 </div>
@@ -73,10 +73,10 @@ The iconic view of Civita can be seen through the central window, and _The View 
 
 <!-- Image Grid -->
 <div class="row">
-	<div class="6u">
+	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link /assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-11.jpg %}" alt="thesis review" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/the-constructed-ruin/charisse-foo-the-constructed-ruin-12.jpg %}" alt="thesis review" /></span>
 	</div>
 </div>

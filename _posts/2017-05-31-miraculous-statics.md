@@ -18,10 +18,10 @@ Drawing from the remarkable short story, _A Knack for Making Ruins_ by Cuban wri
 _Miraculous Statics_ was produced under the mentorship of <a href="https://aap.cornell.edu/people/tao-dufour" target="_blank">Tao Dufour</a>, in the Spring 2017 Havana Travel Option Studio, Cornell University.
 
 <div class="row">
-	<div class="6u">
+	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/miraculous-statics/charisse-foo-miraculous-statics-02.jpg %}" alt="sketch" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/miraculous-statics/charisse-foo-miraculous-statics-03.jpg %}" alt="sketch" /></span>
 	</div>
 </div>
@@ -82,10 +82,10 @@ Programmatically, workshop and studio spaces within the theater allow for the co
 <span class="image fit"><img src="{% link assets/images/miraculous-statics/charisse-foo-miraculous-statics-08.jpg %}" alt="construction typology" /></span>
 
 <div class="row">
-	<div class="6u">
+	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/miraculous-statics/charisse-foo-miraculous-statics-12.jpg %}" alt="section detail" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/miraculous-statics/charisse-foo-miraculous-statics-11.jpg %}" alt="section detail" /></span>
 	</div>
 </div>

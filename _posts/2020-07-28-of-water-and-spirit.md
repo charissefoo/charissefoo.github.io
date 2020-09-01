@@ -48,9 +48,9 @@ As industrially prefabricated, modular, self-contained developments, act as land
 <!-- Image Grid -->
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-07.jpg %}" alt="Section 1" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-08.jpg %}" alt="Section 2" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-09.jpg %}" alt="Section 3" /></span></div>
+		<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-07.jpg %}" alt="Section 1" /></span></div>
+		<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-08.jpg %}" alt="Section 2" /></span></div>
+		<div class="4u$ 12u$(small)"><span class="image fit"><img src="{% link assets/images/of-water-and-spirit/charisse-foo-of-water-and-spirit-09.jpg %}" alt="Section 3" /></span></div>
 	</div>
 </div>
 

@@ -108,41 +108,41 @@ Six digital models are displayed in front of the six speculative posters in augm
 
 <!-- Image Grid -->
 <div class="row">
-	<div class="2u">
+	<div class="2u 4u(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-11A.jpg %}" alt="" /></span>
 	</div>
-	<div class="2u">
+	<div class="2u 4u(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-11B.jpg %}" alt="" /></span>
 	</div>
-	<div class="2u">
+	<div class="2u 4u$(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-11C.jpg %}" alt="" /></span>
 	</div>
-	<div class="2u">
+	<div class="2u 4u(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-11D.jpg %}" alt="" /></span>
 	</div>
-	<div class="2u">
+	<div class="2u 4u(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-11E.jpg %}" alt="" /></span>
 	</div>
-	<div class="2u$">
+	<div class="2u$ 4u$(small)">
 			<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-11F.jpg %}" alt="" /></span>
 	</div>
     <!-- Break -->
-	<div class="2u">
+	<div class="2u 4u(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-11G.jpg %}" alt="" /></span>
 	</div>
-	<div class="2u">
+	<div class="2u 4u(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-11H.jpg %}" alt="" /></span>
 	</div>
-	<div class="2u">
+	<div class="2u 4u$(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-11I.jpg %}" alt="" /></span>
 	</div>
-	<div class="2u">
+	<div class="2u 4u(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-11J.jpg %}" alt="" /></span>
 	</div>
-	<div class="2u">
+	<div class="2u 4u(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-11K.jpg %}" alt="" /></span>
 	</div>
-	<div class="2u$">
+	<div class="2u$ 4u$(small)">
 			<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-11L.jpg %}" alt="" /></span>
 	</div>
 </div>
@@ -215,29 +215,29 @@ In the tradition of gravestone rubbing and surrealist <i>frottage,</i> our thirt
 
 <!-- Image Grid -->
 <div class="row">
-	<div class="3u">
+	<div class="3u 6u(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-16A.jpg %}" alt="" /></span>
 	</div>
-	<div class="3u">
+	<div class="3u 6u$(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-16B.jpg %}" alt="" /></span>
 	</div>
-	<div class="3u">
+	<div class="3u 6u(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-16C.jpg %}" alt="" /></span>
 	</div>
-	<div class="3u$">
+	<div class="3u$ 6u$(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-16D.jpg %}" alt="" /></span>
 	</div>
     <!-- Break -->
-	<div class="3u">
+	<div class="3u 6u(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-16E.jpg %}" alt="" /></span>
 	</div>
-	<div class="3u">
+	<div class="3u 6u$(small)">
 			<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-16F.jpg %}" alt="" /></span>
 	</div>
-	<div class="3u">
+	<div class="3u 6u(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-16G.jpg %}" alt="" /></span>
 	</div>
-	<div class="3u$">
+	<div class="3u$ 6u$(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-16H.jpg %}" alt="" /></span>
 	</div>
     <!-- Break -->
@@ -270,44 +270,44 @@ In the tradition of gravestone rubbing and surrealist <i>frottage,</i> our thirt
 
 <!-- Image Grid -->
 <div class="row">
-	<div class="6u">
+	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-18A.jpg %}" alt="" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-18B.jpg %}" alt="" /></span>
 	</div>
     <!-- Break -->
-    <div class="6u">
+    <div class="6u 12u$(small)">
 	<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-18C.jpg %}" alt="" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-18D.jpg %}" alt="" /></span>
 	</div>
     <!-- Break -->
-	<div class="6u">
+	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-18E.jpg %}" alt="" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-18F.jpg %}" alt="" /></span>
 	</div>
     <!-- Break -->
-    <div class="6u">
+    <div class="6u 12u$(small)">
 	<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-18G.jpg %}" alt="" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-18H.jpg %}" alt="" /></span>
 	</div>
-	<div class="6u">
+	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-18I.jpg %}" alt="" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-18J.jpg %}" alt="" /></span>
 	</div>
     <!-- Break -->
-    <div class="6u">
+    <div class="6u 12u$(small)">
 	<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-18K.jpg %}" alt="" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-18L.jpg %}" alt="" /></span>
 	</div>
 </div>
@@ -326,13 +326,13 @@ In the tradition of gravestone rubbing and surrealist <i>frottage,</i> our thirt
 
 <!-- Image Grid -->
 <div class="row">
-	<div class="4u">
+	<div class="4u 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-20A.jpg %}" alt="" /></span>
 	</div>
-	<div class="4u">
+	<div class="4u 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-20B.jpg %}" alt="" /></span>
 	</div>
-	<div class="4u$">
+	<div class="4u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/the-art-of-memory/charisse-foo-the-art-of-memory-20C.jpg %}" alt="" /></span>
 	</div>
 </div>
