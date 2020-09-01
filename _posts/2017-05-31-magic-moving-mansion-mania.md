@@ -23,10 +23,10 @@ Conceptualised and created in four months under the [Game Design Initiative at C
 
 <!-- Image Grid -->
 <div class="row">
-	<div class="6u">
+	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-05.png %}" alt="" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-06.png %}" alt="" /></span>
 	</div>
 </div>
@@ -37,24 +37,24 @@ Download _Magic Moving Mansion Mania_ for free on the [Google Play Store](https:
 
 <!-- Image Grid -->
 <div class="row">
-	<div class="6u">
+	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-12.jpg %}" alt="" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-13.jpg %}" alt="" /></span>
 	</div>
 	<!-- Break-->
-	<div class="6u">
+	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-14.jpg %}" alt="" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-16.jpg %}" alt="" /></span>
 	</div>
 	<!-- Break-->
-	<div class="6u">
+	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-17.jpg %}" alt="" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-18.jpg %}" alt="" /></span>
 	</div>
 </div>
@@ -142,17 +142,17 @@ Promotional material included laser-cut keychains and printed brochures.
 
 <!-- Image Grid -->
 <div class="row">
-	<div class="6u">
+	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-05.jpg %}" alt="" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-02.jpg %}" alt="" /></span>
 	</div>
 	<!-- Break-->
-	<div class="6u">
+	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-03.jpg %}" alt="" /></span>
 	</div>
-	<div class="6u$">
+	<div class="6u$ 12u$(small)">
 			<span class="image fit"><img src="{% link assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-04.jpg %}" alt="" /></span>
 	</div>
 </div>
@@ -165,8 +165,6 @@ Our first prototype was a test of gameplay mechanics with cardboard tiles that c
 - Does the character automatically enter every door? (Decision: Yes)
 - Should players be able to tap to open or close doors? (Decision: No)
 - Can the character survive a fall? (Decision: No)
-
-It also brought up the idea that difficulty could be increased with locked tiles that the player could not switch. We later implemented the locking and unlocking of tiles through collectibles scattered throughout the level.
 
 <!-- Image Grid -->
 <div class="row">
@@ -185,11 +183,23 @@ It also brought up the idea that difficulty could be increased with locked tiles
 	</div>
 </div>
 
-User testing and feedback were important for us in learning what frustrated players - not understanding how locked tiles worked, for example - and how to improve. As Anastasia continuously walks forward, gameplay is fast-paced, and puzzles are designed to be challenging and fun. This sometimes resulted in players feeling stressed, while, at other times, players felt impatient at waiting for the character to walk forward when they had already planned out her path. This resulted in us adding the feature to speed up Anastasia's walking speed for players who were already comfortable with the game.
+User testing and feedback were important for us in learning what frustrated players - not understanding how locked tiles worked, for example - and how to improve. As Anastasia continuously walks forward, gameplay is fast-paced, and puzzles are designed to be challenging and fun. This sometimes resulted in players feeling stressed, while, at other times, players felt impatient at having to wait for the character to walk forward when they had already planned out her path. This feedback resulted in the implementation of the speed-up button to increase Anastasia's walking speed for players who were already comfortable with the game.
 
 <span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-33.jpg %}" alt="" /></span>
 
-Enthusiastic reviews about the final version suggest at least some success in implementing user feedback and creating a fun puzzle game.
+Enthusiastic reviews about the final version suggest at least some success in creating a fun puzzle game.
+
+<div class="row">
+	<div class="4u 12u$(small)">
+		<p><blockquote>Yo what I just spent a good hour or so playing the game it's addictive <br/>- Huiqun</blockquote></p>
+	</div>
+<div class="4u 12u$(small)">
+		<p><blockquote>Yo what I just spent a good hour or so playing the game it's addictive <br/>- Huiqun</blockquote></p>
+	</div>
+<div class="4u$ 12u$(small)">
+		<p><blockquote>Yo what I just spent a good hour or so playing the game it's addictive <br/>- Huiqun</blockquote></p>
+	</div>
+</div>
 
 > Yo what I just spent a good hour or so playing the game it's addictive - Huiqun
 
@@ -197,6 +207,8 @@ Enthusiastic reviews about the final version suggest at least some success in im
 
 > i just spent forever playing it it's so good!!! - Huijie
 
-Special thanks to [Walker White](http://www.cs.cornell.edu/~wmwhite) and [Traci Nathans-Kelly](https://tracink.com/about/) for their patient mentorship, and to the [Boston Festival of Indie Games](https://www.bostonfig.com/) for having us. A very big thank you to everyone who played our game, from our earliest playtesters to everyone who stopped by during the GDIAC showcase and at BostonFIG.
+Try _Magic Moving Mansion Mania_ yourself! Download our game for free on the [Google Play Store](https://play.google.com/store/apps/details?id=edu.cornell.gdiac.MagicMansion&hl=en) or [iOS App Store](https://itunes.apple.com/us/app/magic-moving-mansion-mania/id1234472424).
+
+_Special thanks to [Walker White](http://www.cs.cornell.edu/~wmwhite) and [Traci Nathans-Kelly](https://tracink.com/about/) for their patient mentorship, and to the [Boston Festival of Indie Games](https://www.bostonfig.com/) for having us. A very big thank you to everyone who played our game, from our earliest playtesters to everyone who stopped by during the GDIAC showcase and at BostonFIG._
 
 <span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-29.jpg %}" alt="" /></span>
