@@ -187,27 +187,21 @@ User testing and feedback were important for us in learning what frustrated play
 
 <span class="image fit"><img src="{% link /assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-33.jpg %}" alt="" /></span>
 
-Enthusiastic reviews about the final version suggest at least some success in creating a fun puzzle game.
+<p>Enthusiastic reviews about the final version suggest at least some success in creating a fun puzzle game.</p>
 
 <div class="row">
 	<div class="4u 12u$(small)">
 		<p><blockquote>Yo what I just spent a good hour or so playing the game it's addictive <br/>- Huiqun</blockquote></p>
 	</div>
 <div class="4u 12u$(small)">
-		<p><blockquote>Yo what I just spent a good hour or so playing the game it's addictive <br/>- Huiqun</blockquote></p>
+		<p><blockquote> I played this until my phone died yesterday 😛 <br/>- Anna</blockquote></p>
 	</div>
 <div class="4u$ 12u$(small)">
-		<p><blockquote>Yo what I just spent a good hour or so playing the game it's addictive <br/>- Huiqun</blockquote></p>
+		<p><blockquote>i just spent forever playing it it's so good!!! <br/>- Huijie</blockquote></p>
 	</div>
 </div>
 
-> Yo what I just spent a good hour or so playing the game it's addictive - Huiqun
-
-> I played this until my phone died yesterday 😛 - Anna
-
-> i just spent forever playing it it's so good!!! - Huijie
-
-Try _Magic Moving Mansion Mania_ yourself! Download our game for free on the [Google Play Store](https://play.google.com/store/apps/details?id=edu.cornell.gdiac.MagicMansion&hl=en) or [iOS App Store](https://itunes.apple.com/us/app/magic-moving-mansion-mania/id1234472424).
+**Download our game for free on the [Google Play Store](https://play.google.com/store/apps/details?id=edu.cornell.gdiac.MagicMansion&hl=en) or [iOS App Store](https://itunes.apple.com/us/app/magic-moving-mansion-mania/id1234472424).**
 
 _Special thanks to [Walker White](http://www.cs.cornell.edu/~wmwhite) and [Traci Nathans-Kelly](https://tracink.com/about/) for their patient mentorship, and to the [Boston Festival of Indie Games](https://www.bostonfig.com/) for having us. A very big thank you to everyone who played our game, from our earliest playtesters to everyone who stopped by during the GDIAC showcase and at BostonFIG._
 
