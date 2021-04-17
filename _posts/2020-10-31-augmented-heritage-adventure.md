@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Augmented Heritage Adventure (AHA!)
-description: A new life for Ravenna's oil rigs
-image: assets/images/augmented-heritage-adventure/charisse-foo-augmented-heritage-adventure-01.jpg
+description: Reviving Zichuan's mines through fiction
+image: assets/images/augmented-heritage-adventure/charisse-foo-augmented-heritage-adventure-01-header.jpg
 tags: architecture illustration awards
 ---
 
 ### Magical stories of talking animals, immortals, demons, and deities come to life through augmented reality.
 
-_AHA! (Augmented Heritage Adventure)_ revives the famed Qing Dynasty work of Zichuan-born writer Pu Songling: _Liaozhai Zhiyi_ (聊斋志异), known in English as _Strange Tales from a Chinese Studio_. Pu Songling’s residence in Zichuan has been preserved as a tourist attraction, and now his 500 fantastic tales find new life in a gamified augmented reality adventure.
+_AHA! (Augmented Heritage Adventure)_ revives the famed Qing Dynasty work of Zichuan-born writer Pu Songling: _Liaozhai Zhiyi_ (聊斋志异), known in English as [_Strange Tales from a Chinese Studio_](https://en.wikipedia.org/wiki/Strange_Stories_from_a_Chinese_Studio). Pu Songling’s residence in Zichuan has been preserved as a tourist attraction, and now his five hundred fantastic tales find new life in a gamified augmented reality adventure.
 
 Fiction, fantasy, technology, and historic preservation: this project was a collaboration with [Yichen Jia](https://yichenjia.github.io) and was a [finalist](https://www.nonarchitecture.eu/2021/03/13/aha-augmented-heritage-adventure/) in Non Architecture's [Reviving Shandong Mines](https://www.nonarchitecture.eu/reviving/) competition.
 
