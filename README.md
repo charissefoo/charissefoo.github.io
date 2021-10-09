@@ -71,3 +71,16 @@ Credits:
 ```
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](https://choosealicense.com/licenses/cc-by-4.0/).
+
+[The 10 Commands](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll#building-your-site-locally)
+
+1. On Windows, install Git Bash
+2. Install VS Code (not sure if this knows how to integrate with Git Bash out of the box, but do that)
+3. Install Ruby and do `gem install bundler`
+4. Clone repository
+5. Inside repository folder, `bundle install`
+6. `bundle exec jekyll serve`
+7. Go to http://127.0.0.1:4000
+8. Edit away
+9. Commit and push: `git add . && git commit -m "Message" && git push`
+10. Look at my site
