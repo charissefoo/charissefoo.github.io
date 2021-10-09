@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Satellite Town
-description: A future of ecological living beyond the limits of the Earth
+description: A future of ecological living beyond Earth
 image: assets/images/satellite-town/charisse-foo-satellite-town-02-header.jpg
 tags: visualization exhibition
 ---
@@ -12,7 +12,7 @@ tags: visualization exhibition
 
 <p><strong><i>Satellite Town</i> was exhibited in New York City at <a href="https://www.greenspacenyc.org/" target="_blank">Civic Art Lab (2019)</a>.</strong></p>
 
-<div class="row">
+<div class="row with-text">
 	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-01.jpg %}" alt="The Forest" /></span>
 	</div>
@@ -25,7 +25,7 @@ tags: visualization exhibition
 	</div>
 </div>
 
-<div class="row">
+<div class="row with-text">
     <div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-02.jpg %}" alt="The Street" /></span>
 	</div>
@@ -38,7 +38,7 @@ tags: visualization exhibition
 
 </div>
 
-<div class="row">
+<div class="row with-text">
 	<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/satellite-town/charisse-foo-satellite-town-03.jpg %}" alt="The Chapel" /></span>
 	</div>
