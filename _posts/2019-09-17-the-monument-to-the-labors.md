@@ -12,7 +12,7 @@ tags: visualization awards publication
 
 <p> Narrated dispassionately, <i> The Monument to the Labors </i> imagines a future that has already been translated into history. In this recasting of the pioneer narrative, the first settlers of space are not merely brave explorers but also condemned convicts. Centering around alienation and the implications of denying humanity to the other, the story simultaneously charts the lifespan of a building: a satellite, prison, laboratory, factory, town, tomb, billboard, attraction, and symbol. These two narratives tie the privilege of dreaming to the costs of experimentation. The utopian possibilities of outer space, the great unknown, are not only the fantasies of the privileged, but also the desperate hope of the marginalized. </p>
 <p>
-<strong> Consisting of five images and a 1,400-word story, <i> The Monument to the Labors </i>  was awarded First Place at the <a href="https://www.archdaily.com/924961/outer-space-2019-winners-announced">Outer Space 2019</a> competition, organized by <a href="https://blankspaceproject.com/"> BlankSpaceNYC.</a> </strong>
+<strong> Consisting of five images and a 1,400-word story, <i> The Monument to the Labors </i>  was awarded First Place at the <a href="https://www.archdaily.com/924961/outer-space-2019-winners-announced">Outer Space 2019</a> competition, organized by <a href="https://blankspaceproject.com/"> BlankSpaceNYC.</a> It was subsequently featured in the exhibition <i> Architecture at the Edge of Everything Else </i> at Cornell University, Fall 2019.</strong>
 </p>
 
 <h3>Final Images</h3>
@@ -30,12 +30,14 @@ tags: visualization awards publication
 	<div class="6u$ 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/the-monument-to-the-labors/charisse-foo-monument-to-the-labors-04.jpg %}" alt="Multilevel Construction" /></span>
 	</div>
+</div>
+<div class="row with-text">
 		<div class="6u 12u$(small)">
 		<span class="image fit"><img src="{% link assets/images/the-monument-to-the-labors/charisse-foo-monument-to-the-labors-05.jpg %}" alt="The Monument" /></span>
 	</div>
 	<div class="6u$ 12u$(small)">
 	<blockquote>  
-	“It is only through our imaginations that we can create change. The fanciful science fiction of the future becomes the accepted reality of today, and thus the bedrock of history upon which we stand. Congratulations to all the creative contributors, you expanded our minds!” - Chris Hadfield, Astronaut, Juror of Outer Space 2019</blockquote>
+	“It is only through our imaginations that we can create change. The fanciful science fiction of the future becomes the accepted reality of today, and thus the bedrock of history upon which we stand. Congratulations to all the creative contributors, you expanded our minds!” <br>- Chris Hadfield, Astronaut, Juror of Outer Space 2019</blockquote>
 	</div>
 </div>
 
