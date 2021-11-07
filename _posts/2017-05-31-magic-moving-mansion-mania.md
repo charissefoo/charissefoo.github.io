@@ -3,8 +3,9 @@ layout: post
 title: Magic Moving Mansion Mania
 description: An award-winning mobile game
 image: assets/images/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-01.jpg
-tags: illustration awards
+tags: illustration awards portfolio
 video: true
+order-portfolio: 1
 ---
 
 ### Anastasia is lost in a magical mansion where the rooms move in mysterious ways.

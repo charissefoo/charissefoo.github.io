@@ -3,7 +3,8 @@ layout: post
 title: Augmented Heritage Adventure (AHA!)
 description: Reviving Zichuan's mines through fiction
 image: assets/images/augmented-heritage-adventure/charisse-foo-augmented-heritage-adventure-01-header.jpg
-tags: architecture illustration awards
+tags: architecture illustration awards portfolio
+order-portfolio: 2
 ---
 
 ### Magical stories of talking animals, immortals, demons, and deities come to life through augmented reality.
