@@ -30,8 +30,8 @@
       <!-- One -->
 
       <section id="one" class="tiles">
-        {% assign filtered_posts = site.posts | where: 'tags', page.title %} {%
-        for post in filtered_posts %}
+        {% assign filtered_posts = site.posts | where: 'tags', page.title | sort: 'order-portfolio' %} 
+        {% for post in filtered_posts %}
         <article>
           <span class="image">
             <img src="{{ post.image }}" alt="" />
