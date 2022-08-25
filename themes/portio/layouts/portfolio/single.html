@@ -30,13 +30,16 @@
         <p>
           {{ .Params.shortDescription }}
         </p>
+        <div class="case-details-thumb mb-5">
+          <img src="{{ .Params.thumbnail | absURL }}" alt="case-details" />
+        </div>
         <div class="case-details-info">
           <div class="case-details-info-item">
-            <h5 class="text-light">Client</h5>
+            <h5 class="text-light">Context</h5>
             <p>{{ .Params.client }}</p>
           </div>
           <div class="case-details-info-item">
-            <h5>Service</h5>
+            <h5>Role</h5>
             <p>{{ .Params.service }}</p>
           </div>
           <div class="case-details-info-item">
@@ -61,9 +64,6 @@
               </p>
             </div>
           </div>
-        </div>
-        <div class="case-details-thumb mb-5">
-          <img src="{{ .Params.thumbnail | absURL }}" alt="case-details" />
         </div>
         {{ .Content }}
       </div>
