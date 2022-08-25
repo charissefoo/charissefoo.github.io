@@ -27,9 +27,9 @@
         <div class="case-details-title">
           <h1>{{ .Title }}</h1>
         </div>
-        <p>
-          {{ .Params.shortDescription }}
-        </p>
+        <!-- <p> -->
+          <!-- {{ .Params.shortDescription }} -->
+        <!-- </p> -->
         <div class="case-details-thumb mt-5 mb-5">
           <img src="{{ .Params.thumbnail | absURL }}" alt="case-details" />
         </div>
@@ -39,7 +39,7 @@
             <p>{{ .Params.client }}</p>
           </div>
           <div class="case-details-info-item">
-            <h5>Role</h5>
+            <h5>Scope</h5>
             <p>{{ .Params.service }}</p>
           </div>
           <div class="case-details-info-item">
