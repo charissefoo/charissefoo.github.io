@@ -2,40 +2,19 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Charisse"
+
 # Main Menu
-[[menu.main]]
-name = "Home"
-url = "#home"
-weight = 1
+
 [[menu.main]]
 name = "About"
 url = "#about"
-weight = 2
-[[menu.main]]
-name = "Service"
-url = "#service"
 weight = 3
+
 [[menu.main]]
 name = "Work"
 url = "#portfolio"
-weight = 4
-[[menu.main]]
-name = "Resume"
-url = "#resume"
-weight = 5
-[[menu.main]]
-name = "Skills"
-url = "#skills"
-weight = 6
-[[menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 7
-[[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 8
+weight = 1
 
 # Sitemap Menu
 [[menu.sitemap]]
@@ -58,7 +37,7 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "© Charisse Foo"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
