@@ -1,8 +1,8 @@
 ---
 title: The Monument to the Labors
 date: 2017-05-31
-featureImage: images/portfolio/the-monument-to-the-labors/charisse-foo-monument-to-the-labors-03-thumbnail.jpg
-postImage: images/portfolio/the-monument-to-the-labors/charisse-foo-monument-to-the-labors-03.jpg
+featureImage: images/blog/the-monument-to-the-labors/charisse-foo-monument-to-the-labors-03-thumbnail-v.jpg
+postImage: images/blog/the-monument-to-the-labors/charisse-foo-monument-to-the-labors-03.jpg
 shortDescription: An architectural fable in outer space
 tags: ["Visualization", "Writing"]
 categories: project
