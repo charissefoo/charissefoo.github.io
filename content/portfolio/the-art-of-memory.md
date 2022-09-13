@@ -143,30 +143,6 @@ _The Art of Memory_ is sited in four Italian towns, all of which have been indel
 
 {{< row >}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-11D.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-11E.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-11F.jpg" >}}
-{{< /column>}}
-{{< /row >}}
-
-{{< row >}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-11G.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-11H.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-11I.jpg" >}}
-{{< /column>}}
-{{< /row >}}
-
-{{< row >}}
-{{< column>}}
 {{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-11J.jpg" >}}
 {{< /column>}}
 {{< column>}}
@@ -211,36 +187,6 @@ In the tradition of gravestone rubbing and surrealist _frottage,_ our thirty rub
 {{< /column>}}
 {{< /row >}}
 
-{{< row >}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-14E.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-14F.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-14G.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-14H.jpg" >}}
-{{< /column>}}
-{{< /row >}}
-
-{{< row >}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-14I.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-14J.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-14K.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-14L.jpg" >}}
-{{< /column>}}
-{{< /row >}}
-
 A form of automatic production, archaeological fragments, and reverse printmaking, these patterns record a physical and geographical displacement from their original sites. They are accompanied by on-site photos and descriptions.
 
 {{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-15B.jpg" >}}
@@ -257,36 +203,6 @@ A form of automatic production, archaeological fragments, and reverse printmakin
 {{< /column>}}
 {{< column>}}
 {{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-16D.jpg" >}}
-{{< /column>}}
-{{< /row >}}
-
-{{< row >}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-16E.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-16F.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-16G.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-16H.jpg" >}}
-{{< /column>}}
-{{< /row >}}
-
-{{< row >}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-16I.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-16J.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-16K.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-16L.jpg" >}}
 {{< /column>}}
 {{< /row >}}
 
