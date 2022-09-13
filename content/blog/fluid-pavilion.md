@@ -4,7 +4,7 @@ date: 2015-05-31
 featureImage: images/blog/fluid-pavilion/charisse-foo-fluid-pavilion-02-thumbnail-v.jpg
 postImage: images/blog/fluid-pavilion/charisse-foo-fluid-pavilion-02-header.jpg
 shortDescription: Materializing structural memory
-tags: ["Architecture", "Built", "Publication"]
+tags: ["Publication"]
 categories: From the archive
 ---
 

@@ -4,15 +4,7 @@ date: 2019-09-09
 featureImage: images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-01-thumbnail.jpg
 postImage: images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-01.jpg
 shortDescription: What does it mean to remember?
-tags:
-  [
-    "architecture",
-    "illustration",
-    "awards",
-    "exhibition",
-    "publication",
-    "collaboration",
-  ]
+tags: ["illustration", "awards", "exhibition", "publication", "collaboration"]
 categories: project
 ---
 
