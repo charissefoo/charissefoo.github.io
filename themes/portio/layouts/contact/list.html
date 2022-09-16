@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<!-- <header class="breadCrumb">
+<header class="breadCrumb">
   <div class="svg-img">
     <img src="{{ "images/hero/figure-svg.svg" | absURL }}" alt="bg">
   </div>
@@ -25,16 +25,16 @@
     <div class="row">
       <div class="col-12 text-center">
         <h3 class="breadCrumb__title">{{ .Title }}</h3>
-        <nav aria-label="breadcrumb" class="d-flex justify-content-center">
+        <!-- <nav aria-label="breadcrumb" class="d-flex justify-content-center">
           <ol class="breadcrumb align-items-center">
             <li class="breadcrumb-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
             <li class="breadcrumb-item active" aria-current="page">{{ .Params.breadcrumb }}</li>
           </ol>
-        </nav>
+        </nav> -->
       </div>
     </div>
   </div>
-</header> -->
+</header>
 
 <!-- {{ $address := .Site.Params.address }}
 <section class="section contact__info">
@@ -107,10 +107,11 @@
 
 <section class="contact-form">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-6">
+    <div class="row mt-5">
+      <div class="col-lg-6 offset-lg-3">
         <div class="contact-form-title">
-          <h3>Contact Form</h3>
+          <h3>I'd love to hear from you.</h3>
+
         </div>
         <div class="contact-form-input">
           <form id="contact-form" action="{{ .Site.Params.formspreeURL }}" method="POST">

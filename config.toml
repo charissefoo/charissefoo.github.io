@@ -39,7 +39,7 @@ blogPageURL = "blog"
 contactLink = "contact"
 copyright = "© Charisse Foo"
 footerLogo = "images/contact/widget-logo.png"
-formspreeURL = "YOUR FORMSPREE URL"
+formspreeURL = "https://formspree.io/f/xgerbddy"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
