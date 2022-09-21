@@ -2,19 +2,17 @@
 enable: true
 topTitle: About
 title: >
-  ## About me
-
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  ##
 content: >
-  ### I design and build ultimate things.
+  ### I love making images and telling stories.
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
-button1Name: Hire me
-button2Name: Download CV
-button1Target: contact
+  From mobile games to comics, from a travel fellowship, exhibition, and publication to hand sketches and 3D physics simulations, I strive to produce work that is deeply poetic yet practical.  
+
+
+  For the last 4 years, I’ve been building 3D worlds and images within the architectural industry. I’m fascinated by the creation of literary and visual worlds, the interplay between the technologically constructed image and physical reality, and the potential of fiction to examine the ethical and the critical realities of society.
+
+button1Name: Download Resume
+button2Name: Contact
+button1Target: https://drive.google.com/file/d/1gTNdCxYZGzyoHvL-UwTIQ_mOxJAC5GWC/view?usp=sharing
 button2Target: contact
-image: images/about/about-img.jpg
+image: images/about/charisse-foo-about-03.jpg

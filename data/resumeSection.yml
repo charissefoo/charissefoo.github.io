@@ -1,58 +1,95 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: Experience
 title: >
-  ## My Expertises
+  ## Awards & Education
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  My formal training in architecture has instilled in me the ability to design at multiple scales, the love of an iterative and rigorous design process, and the ability to communicate ideas clearly and persuasively.  
 
 
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
-tab2Name: Experiences
+  It is with gratitude and humility that these projects have received awards after being completed, or grants to facilitate their creation.
+
+tab1Name: Awards
+tab2Name: Education
 tab1Target: education
 tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### DesignSingapore Skillsfuture Study Award
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Funding to pursue a Professional Diploma in User Experience (UX) Design
+
+    time: 2022
   - content: >
-      #### Master in Arts
+      #### Second Prize, #sketchourplayground 2020
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Awarded for my drawing of **Oasis Waterpark**, a playground in Nee Soon East, Singapore
+    time: 2020
   - content: >
-      #### Master in Arts
+      #### Honourable Mention, Proximity Island Competition
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Awarded for my proposal **Of Water & Spirit: A New Life for Ravenna's Oil Rigs**
+    time: 2020
   - content: >
-      #### Master in Arts
+      #### Finalist, Reviving Mines: Shandong Park Competition
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Awarded for the project **AHA! Augmented Heritage Adventure**, a collaboration with Yichen Jia
+    time: 2020
+  - content: >
+      #### First Prize, Outer Space Competition
+
+      **The Monument to the Labors**, my entry of 5 images and 1,400 words, was awarded the top prize among submissions from over 40 countries
+    time: 2019
+  - content: >
+      #### Robert James Eliditz Travel Fellowship, Cornell University
+
+      Funding for **The Art of Memory**, a collaboration with Yichen Jia
+    time: 2018-2019
+  - content: >
+      #### Charles Goodwin Sands Memorial Medal (Thesis Prize)
+
+      Awarded for my thesis project, **The Constructed Ruin**, sited in the Italian hilltown of Civita di Bagnoregio
+    time: 2018
+  - content: >
+      #### Cornell University, AAP College Banner Bearer (Academic Excellence)
+
+      Honoured as the banner bearer for the college of Architecture, Art and Planning at the 2018 Cornell University Commencement Ceremony
+    time: 2018
+  - content: >
+      #### Best Student Digital Game, Boston Festival for Indie Games
+
+      Awarded for **Magic Moving Mansion Mania**, a collaboration with 5 other students under the Game Development Initiative at Cornell (GDIAC)
+    time: 2017
+  - content: >
+      #### Individual Grant, Cornell Council for the Arts
+
+      Awarded the maximum amount for individual funding for the solo exhibition **In All This House**, a series of 17 drawings
+    time: 2017
+  - content: >
+      #### Second Prize, York Prize, Cornell Department of Architecture
+
+      An annual design competition for second-year architecture students
+    time: 2014
+  - content: >
+      #### Gertrude Spencer Portfolio Award, Cornell University
+
+      Best writing portfolio for a Freshman Writing Seminar, across the entire university
+    time: 2014
+  - content: >
+      #### Dean's List, Cornell AAP
+
+      Academic excellence for 8 semesters
+    time: 2013-2017
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### Professional Diploma in UX Design, UX Design Institute 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      Grade: 99%
+    time: 2022
   - content: >
-      #### Aperture Science 
+      #### Bachelor of Architecture, Cornell University
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
-  - content: >
-      #### ACME Inc. 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
-  - content: >
-      #### LexCorp 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      NAAB-accredited professional degree (M.Arch equivalent in Singapore)
+    time: 2013-2017
