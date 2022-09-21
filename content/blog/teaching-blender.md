@@ -12,7 +12,9 @@ categories: In progress
 
 More than a decade ago, I chose to take Art as an A-Level subject.
 
-That led me to architecture school, architecture firms, the CG/archviz world, numerous illustration projects, and lots of making: models, books, websites, even bread! In recent years, conversations with my junior college art teacher about **art education** and **the role of technology in art-making** led to some realisations:
+<!-- That led me to architecture school, architecture firms, the CG/archviz world, numerous illustration projects, and lots of making: models, books, websites, even bread! -->
+
+In recent years, conversations with my junior college art teacher about **art education** and **the role of technology in art-making** led to some realisations:
 
 1. **3D software is largely absent from the art curriculum.**
 2. Teachers aren't really familiar with 3D software or what it can do.
