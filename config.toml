@@ -16,11 +16,6 @@ name = "Work"
 url = "#portfolio"
 weight = 1
 
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 3
-
 # Sitemap Menu
 [[menu.sitemap]]
 name = "About"
@@ -64,12 +59,12 @@ pinImage = "images/pin.png"
 [[params.social]]
 icon = "fa-linkedin-square"
 url = "https://www.linkedin.com/in/charissefoo"
-weight = 2
+weight = 3
 [[params.social]]
 icon = "fa-behance-square"
 url = "https://www.behance.net/charissefoo"
-weight = 1
+weight = 2
 [[params.social]]
 icon = "fa-instagram"
 url = "https://instagram.com/charissefoo"
-weight = 3
+weight = 1
