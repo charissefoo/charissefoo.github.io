@@ -9,12 +9,17 @@ title = "Charisse"
 [[menu.main]]
 name = "About"
 url = "#about"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "Work"
 url = "#portfolio"
 weight = 1
+
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 3
 
 # Sitemap Menu
 [[menu.sitemap]]
