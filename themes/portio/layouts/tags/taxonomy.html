@@ -60,8 +60,8 @@
             <img src="{{ .Params.featureImage | absURL }}" alt="post-image" />
           </div>
           <div class="blog-page__item-content bg-white">
-            <span class="small"
-              >{{ .PublishDate.Format "January 2, 2006" }}</span
+            <span class="small text-capitalize"
+              >{{ .Params.categories }}</span
             >
             <h5 class="mb-0">
               <a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a>
