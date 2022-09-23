@@ -74,4 +74,4 @@ I'm still in the midst of developing the content and lesson plans for this - thi
 
 ### Inspirations
 
-I'd be remiss not to acknowledge the work of [Philipp Schaerer](https://www.constructingtheview.org/) as a great inspiration for this course. I was also fortunate enough to take the [Time Frames](https://timeframescornell.tumblr.com/about) class at taught by [DBOX](https://www.dbox.com/) at [Cornell AAP NYC](https://aap.cornell.edu/academics/nyc), which laid the groundwork for my experience in 3D (and working at DBOX after graduation)!
+The work of [Philipp Schaerer](https://www.constructingtheview.org/) is a great inspiration, as is the [Time Frames](https://timeframescornell.tumblr.com/about) class at taught by [DBOX](https://www.dbox.com/), which I was fortunate enough to take at [Cornell AAP NYC](https://aap.cornell.edu/academics/nyc).
