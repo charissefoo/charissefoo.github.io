@@ -36,7 +36,8 @@ A mobile website designed with in-depth user research -->
 
 <!-- As St John's Island is also home to Singapore's marine observatory, guests can immerse themselves in educational biodiversity-related activities. St John's Island offers , and guests looking for a staycation will be sure to find themselves transported to a new world. -->
 
-_For a more complete overview of the research process, please refer to the [research case study]._
+For a more complete overview of the research process, please refer to the
+[research case study]({{< ref "/portfolio/island-lodge-research" >}} "Research Case Study").
 
 ### Try it out for yourself
 

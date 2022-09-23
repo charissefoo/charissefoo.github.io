@@ -10,13 +10,13 @@ categories: project
 
 ### Overview
 
-As part of my [Professional Diploma in UX Design](https://www.credential.net/358581c5-0f90-41d7-9301-82ff6f7b1d3e#gs.9pjyb3), I conducted research about the **hotel booking process on mobile**.
+Before designing, I conducted research about the **hotel booking process on mobile**.
 
 #### Research Deliverables
 
 Research methods include **competitive analysis**, an **online survey**, **usability tests**, and **interviews** Findings were synthesised through **affinity diagramming** and presented in a **customer journey map.**
 
-For the design outcome, please refer to The Island Lodge Hotel Booking case study.
+For the design outcome, please refer to [The Island Lodge Hotel Booking case study]({{< ref "/portfolio/island-lodge-hotel-booking" >}} "Case Study").
 
 ### Online Survey
 
