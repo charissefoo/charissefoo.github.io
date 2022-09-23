@@ -6,6 +6,7 @@ postImage: images/blog/clarisse-pianist/charisse-foo-clarisse-pianist-01.jpg
 shortDescription: Designing A Pianist's Website
 tags: ["UX Design", "Photography"]
 categories: Fun
+draft: true
 ---
 
 ### Overview
