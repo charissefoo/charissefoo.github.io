@@ -1,4 +1,4 @@
-baseURL = "https://charissefoo.me/"
+baseURL = "https://charissefoo.github.io/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
