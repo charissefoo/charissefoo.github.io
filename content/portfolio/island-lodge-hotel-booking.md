@@ -10,27 +10,23 @@ categories: project
 
 ### Overview
 
-#### Role
-
 As part of my [Professional Diploma in UX Design](https://www.credential.net/358581c5-0f90-41d7-9301-82ff6f7b1d3e#gs.9pjyb3), I designed a **mobile website** focusing on the **hotel booking process**.
 
 I was responsible for all **research, design,** and **prototyping**.
 
-#### Context
+### Challenge
 
-_The Island Lodge_ is a proposed **luxury beachfront resort** located on St John's Island, Singapore. Imagined as a redevelopment of the [four existing campsites](https://www.sla.gov.sg/state-land-n-property/management-of-state-land-and-property/visiting-the-sla-managed-islands/st-johns-island) on the island, _The Island Lodge_ offers a **quieter alternative** to the touristic holiday island of Sentosa.
+The central challenge was **to optimise the hotel booking process on mobile.** Before designing, I [conducted research]({{< ref "/portfolio/island-lodge-research" >}} "Research Case Study") to better understand user goals and behaviours.
 
-#### Deliverables
+### Deliverables
 
-High fidelity prototype, high fidelity wireframes, high fidelity annotations (handover documentation). As part of the design process, medium fidelity wireframes and prototypes and low fidelity sketches were also produced.
+The final product is a mobile website for _The Island Lodge_, a proposed **luxury beachfront resort** located on St John's Island, Singapore. Imagined as a redevelopment of the [four existing campsites](https://www.sla.gov.sg/state-land-n-property/management-of-state-land-and-property/visiting-the-sla-managed-islands/st-johns-island) on the island, _The Island Lodge_ offers a **quieter alternative** to the touristic holiday island of Sentosa.
 
-<!-- ##### Challenge
-
-To optimise the hotel booking process on mobile
-
-##### Solution
-
-A mobile website designed with in-depth user research -->
+- Figma prototype (high fidelity & medium fidelity)
+- Wireframes (high fidelity & medium fidelity)
+- Handover documentation: high fidelity annotations
+- User flow diagram
+- Sketches
 
 {{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-03.jpg" >}}
 
@@ -147,15 +143,13 @@ To wrap up the design process, I produced these design annotations as **handover
 
 ### Further Exploration
 
-#### Next Steps
-
 As this was an academic project, a significant next step would be to **integrate real-world hotel information**, which often has a much higher level of complexity: many more details regarding payment, hotel policies, terms and conditions, health and security regulations, just to name a few. Working with a client with an existing repository of information to be presented would add complexity to the design process.
 
 Since I chose to focus on a mobile website, a separate **desktop version** would also have to be designed. I'd also sketched out a **comparison feature** for different payment options if the hotel absolutely needed to offer many different options.
 
 To further expand the scope of this project, I'd integrate this particular hotel into a **larger hotel group**, which manages several hotels across different locations. This is often the case with large hotel brands such as Four Seasons or Shangri-La. Each hotel would have its own identity, but be linked to the larger brand ecosystem. I'd expect this to make the booking process more exploratory and complex, with greater importance placed on **brand loyalty and membership privileges.**
 
-#### Learning Points
+### Learning Points
 
 Going through **the entire UX process from research to analysis to design** was highly enriching and educational. I especially appreciated the insights gained through usability testing - **nothing challenges or validates a design as much as seeing someone completely unfamiliar with it interact with it for the first time.**
 

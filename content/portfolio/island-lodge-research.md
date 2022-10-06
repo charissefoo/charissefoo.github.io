@@ -10,13 +10,22 @@ categories: project
 
 ### Overview
 
+As part of my [Professional Diploma in UX Design](https://www.credential.net/358581c5-0f90-41d7-9301-82ff6f7b1d3e#gs.9pjyb3), I designed a **mobile website** focusing on the **hotel booking process**.
+
 Before designing, I conducted research about the **hotel booking process on mobile**.
 
-#### Research Deliverables
+### Research Methods
 
-Research methods include **competitive analysis**, an **online survey**, **usability tests**, and **interviews** Findings were synthesised through **affinity diagramming** and presented in a **customer journey map.**
+Research methods include:
 
-For the design outcome, please refer to [The Island Lodge Hotel Booking case study]({{< ref "/portfolio/island-lodge-hotel-booking" >}} "Case Study").
+- **competitive analysis**
+- **online survey**
+- **usability tests**
+- **interviews**
+
+Findings were synthesised through **affinity diagramming** and presented in a **customer journey map.**
+
+_For the design outcome, please refer to [The Island Lodge Hotel Booking case study]({{< ref "/portfolio/island-lodge-hotel-booking" >}} "Case Study")._
 
 ### Online Survey
 
@@ -103,4 +112,4 @@ These research insights lent themselves to several key design approaches:
 3. **Price transparency** should be implemented throughout the booking process, prices should be displayed upfront.
 4. Only the most relevant information should be shown, and **progressive disclosure** implemented to increase comprehension and scannability.
 
-This research case study leads to the design of The Island Lodge mobile hotel website. Find out what happens next!
+This research case study leads to the design of The Island Lodge mobile hotel website. [Find out what happens next!]({{< ref "/portfolio/island-lodge-hotel-booking" >}} "Case Study")
