@@ -6,34 +6,27 @@ postImage: images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking
 shortDescription: Optimising the hotel booking process on mobile
 tags: ["UX Design"]
 categories: project
+client: Academic
 service: UX Design
+challenge: Making hotel bookings on mobile should be quick and easy, but are often frustrating because of a lack of clarity, transparency, and trust.
+solution: To design a mobile website with an intuitive and resassuring hotel booking process, allowing users to complete their booking in minutes.
 ---
 
-### Overview
+### My Role
 
-As part of my [Professional Diploma in UX Design](https://www.credential.net/358581c5-0f90-41d7-9301-82ff6f7b1d3e#gs.9pjyb3), I designed a **mobile website** focusing on the **hotel booking process**.
+As part of my [Professional Diploma in UX Design](https://www.credential.net/358581c5-0f90-41d7-9301-82ff6f7b1d3e#gs.9pjyb3), I was responsible for all research, design, and prototyping. My [earlier user research]({{< ref "/portfolio/island-lodge-research" >}} "Research Case Study") identified clarity, transparency, and trust as three main design goals in achieving a smoother hotel booking process.
 
-I was responsible for all **research, design,** and **prototyping**.
-
-### Challenge
-
-The central challenge was **to optimise the hotel booking process on mobile.** Before designing, I [conducted research]({{< ref "/portfolio/island-lodge-research" >}} "Research Case Study") to better understand user goals and behaviours.
+{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-03.jpg" >}}
 
 ### Deliverables
 
-The final product is a mobile website for _The Island Lodge_, a proposed **luxury beachfront resort** located on St John's Island, Singapore.
-
-<!-- Imagined as a redevelopment of the [four existing campsites](https://www.sla.gov.sg/state-land-n-property/management-of-state-land-and-property/visiting-the-sla-managed-islands/st-johns-island) on the island, _The Island Lodge_ offers a **quieter alternative** to the touristic holiday island of Sentosa. -->
+The final product is a mobile website for _The Island Lodge_, a proposed luxury beachfront resort located on St John's Island, Singapore.
 
 - Figma prototype (high fidelity & medium fidelity)
 - Wireframes (high fidelity & medium fidelity)
 - Handover documentation: high fidelity annotations
 - User flow diagram
 - Sketches
-
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-03.jpg" >}}
-
-<!-- As St John's Island is also home to Singapore's marine observatory, guests can immerse themselves in educational biodiversity-related activities. St John's Island offers , and guests looking for a staycation will be sure to find themselves transported to a new world. -->
 
 For a more complete overview of the research process, please refer to the
 [research case study]({{< ref "/portfolio/island-lodge-research" >}} "Research Case Study").
@@ -46,56 +39,53 @@ Try out the interactive prototype here, booking a room for 2 adults, from 15-18 
 
 _A note on prototype limitations: please choose the dates of your stay before adding guests. Please choose the **Dolphin Deluxe Room,** the **Flexible Rate** payment option, and add the **Romance Under The Stars** additional package. Enjoy!_
 
-### Research Summary
+### 🎯 Design Goal: Increase Clarity
 
-1. **Breadth first, then depth.** Users would first conduct a broad-based search for hotels with travel aggregators, and then book directly from individual hotel websites. By contacting hotels directly, they hoped to get a better price, the most accurate and updated information, and increased customisation options.
+TL;DR: Information overload delays decisions. Show only the most relevant information, and implement progressive disclosure to increase scannability.
 
-2. **Browse first, book later.** Within a single hotel website, users engage in an exploratory browsing process first, finding out what the hotel has to offer, before switching to the linear booking process.
+Smoothly connect the browsing and booking processes: an intuitive booking experience means better conversion rates.
 
-3. **No hidden fees.** Hidden fees were repeatedly mentioned as a huge pain point.
+### 🔎 Design Goal: Increase Transparency
 
-4. **TL;DR.** Information overload frustrates users and delays decisions, especially when it comes to tbe most crucial point: payment.
+Hidden fees are a huge pain point. Price transparency needs to be implemented at all times, prices auto-updated whenever changes are made, and auto-calculated to facilitate user decisions.
 
-### Design Approaches
+### 🤝Design Goal: Increase Trust
 
-These research insights lent themselves to several key design approaches:
-
-1. I chose to design an **individual hotel website**, focusing on the later part of the hotel booking process.
-2. Smoothly connecting the **browsing and booking processes** within a hotel website is important to increase user satisfaction as well as conversion rates.
-3. **Price transparency** should be implemented throughout the booking process, prices should be displayed upfront.
-4. Only the most relevant information should be shown, and **progressive disclosure** implemented to increase comprehension and scannability.
+Unique to online bookings, users need reassurance that there are real people on the other end. Users must be able to contact the hotel directly for special requests. Reviews from trusted external sites and a robust social media presence increase validation and reassurance.
 
 ### User Flow
 
-This primary user flow targets **users who have concluded their browsing**: they know the dates and rooms they plan to book.
+This primary user flow brings users across 10 screens. For users who have concluded their browsing - they enter their dates of travel and select rooms they've already decided on - this should take no longer than a few minutes.
 
 {{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-04.jpg" >}}
 
-**Browse first, book later:** earlier usability tests revealed that users would first browse through the hotel website before committing to making a hotel booking. While browsing, they explored the different types of rooms and amenities, **without bothering to enter any planned dates** for travel. To smoothly **connect the browsing and booking processes**, it was important to enable **room selection before date selection** as a secondary user flow.
-
+{{< row >}}
+{{< column>}}
+However, some users are not done browsing! In usability tests, these users explored the different types of rooms and amenities, without bothering to enter any planned dates for travel. To smoothly connect the browsing and booking processes, it was important to enable room selection before date selection as a secondary user flow.
+{{< /column>}}
+{{< column>}}
 {{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-05.jpg" >}}
-
-Of course, both user flows merge at the end, and can transition into each other if the selected rooms or dates are not available.
+{{< /column>}}
+{{< /row >}}
 
 ### Wireframe Sketches
 
-These sketches were a first stab at designing screens based on the primary user flows.
+Several important design features were already contained in these sketches:
+
+- a sticky header with constantly updated price and booking information (transparency)
+- external reviews (trust)
+- concise summaries for each room and payment option (clarity)
 
 {{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-06.jpg" >}}
 
-### Medium-Fidelity Prototypes
+### Medium-Fidelity Prototype & Usability Testing
 
-#### Initial Wireframes
+**Key Takeaways:**
 
-I then designed a medium-fidelity prototype for **user testing**. These initial wireframes focused on **key interactions** within the primary user flow, as well as **layout and visual hierarchy**.
-
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-08.jpg" >}}
-
-#### Usability Testing
-
-Early user testing revealed that **visual content was key**: actual images made it a lot easier for users to interact with the prototype and understand the content that was on the site. All images used are freely usable and obtained from [Unsplash](https://unsplash.com/) or [Pexels](https://www.pexels.com/).
-
-User feedback was extremely helpful in highlighting places where **layout was confusing**, as well as **digital affordances** that should have been stronger. While I had prioritised the ability to complete the hotel booking as a guest, without the need to sign up or sign in, user testing conveyed the **desirability of a membership portal** for easy retrival and management of their hotel reservations. Hence, I detailed more screens reflecting additional user flows, depending on whether guests sign up for a new account or sign in to their existing account. Testing was also a useful reminder of the need for **large tap targets** on mobile, and a source of many refinements to content and copy.
+- **Visual content is key**: actual images made it a lot easier for users to interact with the prototype and understand the content that was on the site. All images used are freely usable and obtained from [Unsplash](https://unsplash.com/) or [Pexels](https://www.pexels.com/).
+- **Sign In/Sign Up**: I had prioritised the ability to complete the hotel booking as a guest, but user testing conveyed the desirability of a membership portal for easy retrival and management of their hotel reservations.
+- **Large tap targets** on mobile are needed
+- Specific areas where layout can be clearer, copy can be refined, and digital affordances made stronger
 
 #### Design Iterations
 
