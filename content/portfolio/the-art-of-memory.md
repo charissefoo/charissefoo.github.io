@@ -6,6 +6,7 @@ postImage: images/portfolio/the-art-of-memory/charisse-foo-the-art-of-memory-01.
 shortDescription: A travel fellowship, exhibition, and publication
 tags: ["illustration", "awards", "exhibition", "publication", "collaboration"]
 categories: project
+service: Exhibition
 ---
 
 ### What does it mean to remember?

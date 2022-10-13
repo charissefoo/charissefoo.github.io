@@ -6,6 +6,7 @@ postImage: images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking
 shortDescription: Researching online hotel bookings
 tags: UX Research
 categories: project
+service: UX Research
 ---
 
 ### Overview

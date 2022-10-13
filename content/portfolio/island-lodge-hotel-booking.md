@@ -4,8 +4,9 @@ date: 2022-08-01
 featureImage: images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-01-thumbnail.jpg
 postImage: images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-01.jpg
 shortDescription: Optimising the hotel booking process on mobile
-tags: ["UX Design", "UX Research"]
+tags: ["UX Design"]
 categories: project
+service: UX Design
 ---
 
 ### Overview

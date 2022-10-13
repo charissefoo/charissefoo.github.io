@@ -6,6 +6,7 @@ postImage: images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving
 shortDescription: An award-winning mobile game
 tags: ["Game Design", "UX Design", "Illustration", "Collaboration"]
 categories: project
+service: Game Design
 ---
 
 ### Anastasia is lost in a magical mansion where the rooms move in mysterious ways.
