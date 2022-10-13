@@ -7,6 +7,9 @@ shortDescription: A travel fellowship, exhibition, and publication
 tags: ["illustration", "awards", "exhibition", "publication", "collaboration"]
 categories: project
 service: Exhibition
+client: Academic
+challenge: Historic preservation is often a dry topic, with a large focus on regulations and conservation.
+solution: To investigate the idea of architectural memory through travel, documentation, and speculative drawings.
 ---
 
 ### What does it mean to remember?

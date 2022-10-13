@@ -7,13 +7,16 @@ shortDescription: An award-winning mobile game
 tags: ["Game Design", "UX Design", "Illustration", "Collaboration"]
 categories: project
 service: Game Design
+client: Academic
+challenge: We had a team of 6, and 4 months to make a mobile game.
+solution: To design and build a lovable mobile action-puzzle-platformer for iOS and Android.
 ---
 
-### Anastasia is lost in a magical mansion where the rooms move in mysterious ways.
+### Overview
+
+##### Anastasia is lost in a magical mansion where the rooms move in mysterious ways.
 
 Help guide her to safety, but don’t let her fall into nothingness!
-
-### Overview
 
 _Magic Moving Mansion Mania_ is a mobile action-puzzle-platformer for iOS and Android. It was conceptualised and created in four months under the [Game Design Initiative at Cornell (GDIAC)](http://gdiac.cis.cornell.edu/).
 

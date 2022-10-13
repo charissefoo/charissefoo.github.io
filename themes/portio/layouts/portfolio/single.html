@@ -1,48 +1,10 @@
 {{ define "main" }}
 
-<header class="breadCrumb">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-10 col-md-12 offset-lg-1 offset-md-0 text-center">
-        <h3 class="breadCrumb__title">{{ .Title }}</h3>
-      </div>
-    </div>
-
-    <ul class="post-meta">
-      <li>
-        <i class="fa fa-calendar"></i>
-        {{ .PublishDate.Format "2006" }}
-      </li>
-      <li>
-        <i class="fa fa-clock-o"></i>
-        {{ .ReadingTime }} min read
-      </li>
-      {{ if .Params.tags }}
-      <li>
-        <i class="fa fa-tag"></i>
-        {{ range (.GetTerms "tags") }}
-          <a class="text-capitalize" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-        {{ end }}
-      </li>
-      {{ end }}
-      {{ if .Params.categories }}
-      <li>
-        <i class="fa fa-folder-open"></i>
-        {{ range (.GetTerms "categories") }}
-          <a class="text-capitalize" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-        {{ end }}
-      </li>
-      {{ end }}
-    </ul>
-  </div>
-</header>
-
-<section class="section singleBlog">
+<section class="section case-details">
   <div class="svg-img">
-    <img src={{ "images/hero/figure-svg.svg" | absURL }} alt="">
+    <img src="{{ "images/hero/figure-svg.svg" | absURL }}" alt="" />
   </div>
   <div class="animate-shape">
-    <img src={{ "images/skill/skill-background-shape.svg" | absURL }} alt="">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 600">
       <defs>
         <linearGradient id="d" x1="0.929" y1="0.111" x2="0.263" y2="0.935" gradientUnits="objectBoundingBox">
@@ -57,73 +19,117 @@
     </svg>
   </div>
   <div class="animate-pattern">
-    <img src={{ "images/service/background-pattern.svg" | absURL }} alt="background-shape">
+    <img src="{{ "images/service/background-pattern.svg" | absURL }}" alt="background-shape" />
   </div>
-  <div class="container col-lg-10 offset-lg-1">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-lg-10 offset-lg-1 text-center">
+        <div class="case-details-title">
+          <h1>{{ .Title }}</h1>
+        </div>
+        <!-- <p> -->
+          <!-- {{ .Params.shortDescription }} -->
+        <!-- </p> -->
+        <div class="case-details-thumb mt-5 mb-5">
+          <img src="{{ .Params.postImage | absURL }}" alt="post image" />
+        </div>
+        <div class="case-details-info">
+          <div class="case-details-info-item">
+            <h5 class="text-light">Context</h5>
+            <p>{{ .Params.client }}</p>
+          </div>
+          <div class="case-details-info-item">
+            <h5>Scope</h5>
+            <p>{{ .Params.service }}</p>
+          </div>
+          <div class="case-details-info-item">
+            <h5>Date</h5>
+            <p>{{ .PublishDate.Format "2006" }}</p>
+          </div>
+        </div>
+        <div class="row mb-5 text-left">
+          <div class="col-lg-6">
+            <div class="case-details-service">
+              <h3>The Challenge</h3>
+              <p>
+                {{ .Params.challenge }}
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="case-details-service">
+              <h3>The Goal</h3>
+              <p>
+                {{ .Params.solution }}
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="text-left">
+        {{ .Content }}
+        </div>
+      </div>
+    </div>
     <div class="row">
-      <div class="col-lg-12">
-        <div class="singleBlog__feature">
-          <img src={{ .Params.postImage | absURL }} alt="feature-image">
-        </div>
-      </div>
-    </div>
-    <div class="row mt-5">
-      <div class="col-lg-12">
-        <div class="singleBlog__content">
-
-          {{ if .Params.toc }}
-            <h3>Table of Contents</h3>
-            {{ .TableOfContents | replaceRE "<ul>[[:space:]]*<li>[[:space:]]*<ul>" "<ul>" | replaceRE "</ul>[[:space:]]*</li>[[:space:]]*</ul>" "</ul>" |  safeHTML }}
+      <div class="col-lg-10 offset-lg-1">
+        <nav class="case-details-nav d-flex justify-content-between align-items-center">
+          {{ if .PrevInSection }}
+          <div class="previous d-flex align-items-center">
+            <div class="icon mr-3">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15.556" height="28.285" viewBox="0 0 15.556 28.285">
+                <g data-name="Group 1243" fill="#2d2d2d">
+                  <path data-name="Path 1456" d="M3.391 12.728l9.75 14.142-.982 1.414-9.742-14.142z" />
+                  <path data-name="Path 1455" d="M13.137 1.41L3.39 15.558l-.975-1.415L12.166 0z" />
+                </g>
+              </svg>
+            </div>
+            <div class="content">
+              <span class="small">Previous Project</span>
+              <h5 class="title"><a class="text-dark"
+                  href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a></h5>
+            </div>
+          </div>
           {{ end }}
-
-          {{ .Content }}
-        </div>
+          <!-- <div class="social">
+            {{ $url := printf "%s" .Permalink | absLangURL }}
+            <ul class="unstyle-list big">
+              <li>
+                <a href=" https://www.facebook.com/sharer/sharer.php?u={{ $url }}"><i
+                    class="fa fa-facebook-official btn-zoom"></i></a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ $url }}"><i
+                    class="fa fa-linkedin-square btn-zoom"></i></a>
+              </li>
+              <li>
+                <a href="https://twitter.com/intent/tweet?&url={{ $url }}"><i
+                    class="fa fa-twitter-square btn-zoom"></i></a>
+              </li>
+            </ul>
+          </div> -->
+          {{ if .NextInSection }}
+          <div class="next d-flex align-items-center">
+            <div class=" content text-right">
+              <span class="small">Next Project</span>
+              <h5 class="title">
+                <a class="text-dark" href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
+              </h5>
+            </div>
+            <div class="icon ml-3">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15.556" height="28.285" viewBox="0 0 15.556 28.285">
+                <g data-name="Group 1244" fill="#2d2d2d">
+                  <path data-name="Path 1456" d="M12.162 12.725L2.416 26.87l.978 1.41 9.746-14.138z" />
+                  <path data-name="Path 1455" d="M2.416 1.415l9.743 14.141.975-1.414L3.39 0z" />
+                </g>
+              </svg>
+            </div>
+          </div>
+          {{ end }}
+        </nav>
       </div>
     </div>
   </div>
-  <div class="singleBlog__content">
-  <div class="row mt-5">
-    <div class="col-lg-10 offset-lg-1">
-      <nav class="case-details-nav d-flex justify-content-between align-items-center">
-        {{ if .PrevInSection }}
-        <div class="previous d-flex align-items-center">
-          <div class="icon mr-3">
-            <svg xmlns="http://www.w3.org/2000/svg" width="15.556" height="28.285" viewBox="0 0 15.556 28.285">
-              <g data-name="Group 1243" fill="#2d2d2d">
-                <path data-name="Path 1456" d="M3.391 12.728l9.75 14.142-.982 1.414-9.742-14.142z" />
-                <path data-name="Path 1455" d="M13.137 1.41L3.39 15.558l-.975-1.415L12.166 0z" />
-              </g>
-            </svg>
-          </div>
-          <div class="content">
-            <span class="small">Previous Project</span>
-            <h5 class="title"><a class="text-dark"
-                href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a></h5>
-          </div>
-        </div>
-        {{ end }}
-        {{ if .NextInSection }}
-        <div class="next d-flex align-items-center">
-          <div class=" content text-right">
-            <span class="small">Next Project</span>
-            <h5 class="title">
-              <a class="text-dark" href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
-            </h5>
-          </div>
-          <div class="icon ml-3">
-            <svg xmlns="http://www.w3.org/2000/svg" width="15.556" height="28.285" viewBox="0 0 15.556 28.285">
-              <g data-name="Group 1244" fill="#2d2d2d">
-                <path data-name="Path 1456" d="M12.162 12.725L2.416 26.87l.978 1.41 9.746-14.138z" />
-                <path data-name="Path 1455" d="M2.416 1.415l9.743 14.141.975-1.414L3.39 0z" />
-              </g>
-            </svg>
-          </div>
-        </div>
-        {{ end }}
-      </nav>
-    </div>
-  </div>
-</div>
 </section>
+
 
 {{ end }}

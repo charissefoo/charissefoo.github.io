@@ -7,13 +7,10 @@ shortDescription: Researching online hotel bookings
 tags: UX Research
 categories: project
 service: UX Research
+client: Academic
+challenge: How can a mobile website for a hotel be best designed?
+solution: To find out users' goals, behaviours, and pain points regarding making hotel bookings on mobile through in-depth user research
 ---
-
-### Overview
-
-As part of my [Professional Diploma in UX Design](https://www.credential.net/358581c5-0f90-41d7-9301-82ff6f7b1d3e#gs.9pjyb3), I designed a **mobile website** focusing on the **hotel booking process**.
-
-Before designing, I conducted research about the **hotel booking process on mobile**.
 
 ### Research Methods
 
@@ -94,7 +91,7 @@ Zoom in and explore the affinity diagram here:
 
 The affinity diagram results were then translated into a customer journey map about the hotel booking process. All quotes are directly taken from research participants.
 
-### Research Summary
+### Research Takeaways
 
 1. **Breadth first, then depth.** Users would first conduct a broad-based search for hotels with travel aggregators, and then book directly from individual hotel websites. By contacting hotels directly, they hoped to get a better price, the most accurate and updated information, and increased customisation options.
 
@@ -104,13 +101,27 @@ The affinity diagram results were then translated into a customer journey map ab
 
 4. **TL;DR.** Information overload frustrates users and delays decisions, especially when it comes to tbe most crucial point: payment.
 
-### Design Approaches
-
 These research insights lent themselves to several key design approaches:
 
 1. I chose to design an **individual hotel website**, focusing on the later part of the hotel booking process.
 2. Smoothly connecting the **browsing and booking processes** within a hotel website is important to increase user satisfaction as well as conversion rates.
 3. **Price transparency** should be implemented throughout the booking process, prices should be displayed upfront.
 4. Only the most relevant information should be shown, and **progressive disclosure** implemented to increase comprehension and scannability.
+
+In summary, I came up with 3 main design goals to focus the design.
+
+### 🎯 Design Goal: Increase Clarity
+
+TL;DR: Information overload delays decisions. Show only the most relevant information, and implement progressive disclosure to increase scannability.
+
+Smoothly connect the browsing and booking processes: an intuitive booking experience means better conversion rates.
+
+### 🔎 Design Goal: Increase Transparency
+
+Hidden fees are a huge pain point. Price transparency needs to be implemented at all times, prices auto-updated whenever changes are made, and auto-calculated to facilitate user decisions.
+
+### 🤝Design Goal: Increase Trust
+
+Unique to online bookings, users need reassurance that there are real people on the other end. Users must be able to contact the hotel directly for special requests. Reviews from trusted external sites and a robust social media presence increase validation and reassurance.
 
 This research case study leads to the design of The Island Lodge mobile hotel website. [Find out what happens next!]({{< ref "/portfolio/island-lodge-hotel-booking" >}} "Case Study")
