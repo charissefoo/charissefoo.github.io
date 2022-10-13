@@ -41,7 +41,7 @@
             <img src={{"images/hero/figure-svg.svg" | absURL }} alt="figure-svg" />
           </div> -->
           <img src="{{ .image | relURL }}" alt="hero-image" style='
-                  -webkit-mask: url({{"images/hero/hero-mask-svg.png" | absURL }});
+                  -webkit-mask: url({{"images/hero/hero-mask-svg.png" | relURL }});
                   -webkit-mask-repeat: no-repeat;
                   -webkit-mask-size: contain;
                   -webkit-mask-position: center center;
