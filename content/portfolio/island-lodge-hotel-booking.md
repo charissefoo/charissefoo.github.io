@@ -60,12 +60,17 @@ This primary user flow brings users across 10 screens. For users who have conclu
 {{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-04.jpg" >}}
 
 {{< row >}}
-{{< column>}}
-However, some users are not done browsing! In usability tests, these users explored the different types of rooms and amenities, without bothering to enter any planned dates for travel. To smoothly connect the browsing and booking processes, it was important to enable room selection before date selection as a secondary user flow.
-{{< /column>}}
-{{< column>}}
+{{< column markdown="true" >}}
+
+**However, some users are not done browsing!**
+
+In usability tests, these users explored the different types of rooms and amenities, without bothering to enter any planned dates for travel. To smoothly connect the browsing and booking processes, it was important to enable room selection before date selection as a secondary user flow.
+{{< /column >}}
+{{< column >}}
+
 {{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-05.jpg" >}}
-{{< /column>}}
+
+{{< /column >}}
 {{< /row >}}
 
 ### Wireframe Sketches
