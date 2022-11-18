@@ -1,1 +1,8 @@
-<div class="col-md">{{ .Inner }}</div>
+<div class="col-md">
+    {{ if isset .Params "markdown" }}
+    {{ .Inner | markdownify }}
+{{ else }}
+{{ .Inner }}
+{{ end }}
+</div>
+
