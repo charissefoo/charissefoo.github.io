@@ -6,6 +6,7 @@ postImage: images/blog/teaching-blender/charisse-foo-teaching-blender-01.gif
 shortDescription: A conceptual and technical overview of CGI
 tags: ["teaching", "3D"]
 categories: In progress
+draft: true
 ---
 
 ### How it all began
@@ -24,9 +25,9 @@ As a graduate of that same art curriculum, I felt uniquely positioned to contrib
 
 ### The Idea
 
-I'd conduct **a series of introductory workshops using Blender** as the 3D software of choice.
+**A series of introductory workshops using Blender** as the 3D software of choice.
 
-Free and open source, amazingly powerful, with modelling and rendering (and a lot more) capabilities, popular with students, hobbyists, and artists (as opposed to architects), but not extremely user-friendly - Blender was a software I wanted to learn, too.
+Free and open source, with modelling and rendering (and a lot more) capabilities, popular with students, hobbyists, and artists,** Blender is amazingly powerful. It's also not very user-friendly**, and structured guidance would go a long way in increasing adoption.
 
 ### Process
 
@@ -53,7 +54,7 @@ I was aware that with multiple students, I wouldn't be able to reach out and poi
 ### Challenges
 
 1. **3D navigation can be challenging.** I greatly underestimated the difficulty someone completely new to 3D could have with basic navigational operations (orbit, pan, zoom), especially since they never used the middle mouse button in other contexts. In fact, using a Mac trackpad provided a more intuitive navigational experience for one student.
-2. Recognition rather than recall: it's **easier to click buttons than to remember hotkeys.** I've always been a hotkey user, but quickly realised that new learners were drawn to buttons they could see instead of hotkeys they had to memorize.
+2. Recognition rather than recall: it's **easier to click buttons than to remember hotkeys.** I've always been a hotkey user, but quickly realised that some new learners were drawn to buttons they could see instead of hotkeys they had to memorize.
 3. My own experience installing Blender was so quick and painless that I wrongly assumed I could give students a download link and have everything set up immediately. Admin permissions and internet access on school computers made installation troublesome and time-consuming.
 4. Keep **device differences** in mind: shortcuts and even layout differ across Windows and Mac, and some laptops don't have the function keys.
 5. **Students could be intimidated by complicated-looking scenes** (not to mention Blender's UI).
@@ -61,17 +62,23 @@ I was aware that with multiple students, I wouldn't be able to reach out and poi
 
 ### Adjustments
 
-1. Spend more time on 3D navigation. I also made a **shortcut sheet** for students to fill in as the lessons progressed, and replaced the potentially unfamiliar 'MMB' acronym with an icon of the middle mouse button.
+1. Spend more time on **3D navigation**. I also made a shortcut sheet for students to fill in as the lessons progressed, and replaced the potentially unfamiliar 'MMB' acronym with an icon of the middle mouse button.
 2. I'd introduce buttons as well as hotkeys for all functions, with buttons being the primary control, unless students indicated otherwise. Since buttons and hotkeys did different things, even for the same function, I had to **know and test button behaviour** as well.
 3. Get students to **install the software beforehand**.
-4. I had to familiarize myself with **menu navigation**. Instead of a shortcut sheet that contained all the shortcuts I used, I decided to leave the actual hotkey column **blank to encourage note-taking**. Students could also make device-specific adjustments to hotkeys (eg. Windows/Mac) and add their own notes on particular operations.
+4. I had to familiarize myself with **menu navigation**. After a test run with a friend, I realised that students took notes on specific operations that I hadn't anticipated. I decided to make **note-taking** the entire responsibility of the students, abandoning the shortcut sheet, especially since I'd made slides with shortcuts to which they could refer. They could make **device-specific adjustments to hotkeys (eg. Windows/Mac)** and add their own notes on particular operations.
 5. **Clear aims and focused tasks help** students practise specific skills and avoid being overwhelmed.
 6. I had to make it clear if students should be watching my screen or trying things out themselves. I'd try a system where I would **demo everything twice**: once so students know what to expect, and the second time, more slowly, for them to follow along.
 
-### Launching November 2022
+### Imaginary Worlds, November 2022
 
-I'm still in the midst of developing the content and lesson plans for this - this seemingly linear process is much more cyclical in reality. There will be a course website and a link to it when it's up, so watch this space :)
+Check out the website here.
 
 ### Inspirations
 
-The work of [Philipp Schaerer](https://www.constructingtheview.org/) is a great inspiration, as is the [Time Frames](https://timeframescornell.tumblr.com/about) class at taught by [DBOX](https://www.dbox.com/), which I was fortunate enough to take at [Cornell AAP NYC](https://aap.cornell.edu/academics/nyc).
+The work of [Philipp Schaerer](https://www.constructingtheview.org/) is a great inspiration, as is the [Time Frames](https://timeframescornell.tumblr.com/about) class taught by [DBOX](https://www.dbox.com/), which I was fortunate enough to take at [Cornell AAP NYC](https://aap.cornell.edu/academics/nyc).
+
+<!-- Notes from 17 Nov
+- more students greatly increased amount of time taken for technical tasks, since not everyone is on the same page or catches what I'm doing
+- need to be better at facilitating discussions around student work, and directing the class (get everyone to stop what they're doing and listen). Take charge, giving direction and instructions, otherwise everyone will figure out what they want to do by themselves
+- students who already know what they're doing have nothing to do while i'm waiting for the rest to catch up - differentiated tasks?
+- i miss some points in a rush to answer questions or move forward with what they're doing -->
