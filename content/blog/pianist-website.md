@@ -10,21 +10,21 @@ categories: Fun
 
 ### Overview
 
-Clarisse, a classical pianist, was looking for ways to increase her online presence. I designed a [website](<(https://sites.google.com/view/clarisseteo)>) for her to consolidate her musical material in one place, and to establish her personal brand.
+Clarisse, a classical pianist, was looking for ways to increase her online presence. I [designed a website](https://sites.google.com/view/clarisseteo) for her to consolidate her musical material in one place, and to establish her personal brand.
 
-### Context
+### Existing Constraints
 
 <!-- Even with her professional social media accounts, YouTube channel, and Spotify artist page, there was no one platform with a holistic overview of Clarisse's practice as a pianist. This website would house her performances, recordings, professional photographs, news features, and biography. It would be easily accessible to media, devoted fans, or anyone with an interest in classical music. -->
 
-Two barriers had kept Clarisse from making a website: technical knowhow and cost. She didn't code, and she was hesitant about committing to a hefty paid subscription.
+Three barriers had prevented her from making a website herself: **technical knowhow, cost, and time.** She didn't code, she was hesitant about committing to a hefty paid subscription, and, as a musician, she wanted to focus on making music.
 
-I priotized solutions that involved minimal cost, to get her website up and running as soon as possible, and for it to remain a sustainable long-term solution. Ideally, she should also be able to update her website easily.
+I priotized solutions that were **quick and involved minimal cost,** to get her website up and running as soon as possible, and for it to remain a sustainable long-term solution. Ideally, she should also be able to **update her website easily.**
 
 ### Outcome
 
-These two considerations eventually led to her website being built with the new [Google Sites](https://sites.google.com/) (after its major 2021 update): free and very user-friendly. As she didn't need anything more than a static site, the only cost would be that of purchasing a custom domain, which would be required regardless.
+After some iterations, these two considerations eventually led to her website being built with the new [Google Sites](https://sites.google.com/) (after its major 2021 update). As she didn't need anything more than a static site, the only cost would be that of purchasing a custom domain, which would be required regardless.
 
-[Check out Clarisse's website!](https://sites.google.com/view/clarisseteo)
+[Check out Clarisse's website here.](https://sites.google.com/view/clarisseteo)
 
 ### Process
 
@@ -95,8 +95,12 @@ As a pianist, Clarisse needed photographs of herself with a piano, but only had 
 {{< /column>}}
 {{< /row >}}
 
-### Final Words
+### Conclusion
 
-This website is by no means final, but one of many steps in building an online presence and personal brand as a musician, and it's expected to continue evolving in the future. I've done graphic design and publicity material for Clarisse in the past, and it was a pleasure to work with her on her website and photoshoot.
+<!-- As one of many steps in building an online presence and personal brand as a musician, this site is expected to continue evolving in the future. I've done graphic design and publicity material for Clarisse in the past, and it was a pleasure to work with her on her website and photoshoot. -->
 
-As I was designing and building concurrently, design was often informed by technical considerations and limitations. I'd be able to explore more alternatives with more experience in front end development, or other platforms such as WordPress. A key consideration, however, was that Clarisse would be able to update her site easily, and the current solution seems to strike the sweet spot betweeen convenience and price.
+As I was designing and building concurrently, **design was often informed by technical considerations and limitations**. I'd be able to explore more alternatives with more experience in front end development. Platforms such as WordPress were an early, unexplored consideration, as are Framer and Bubble. As a key consideration was that Clarisse would be able to update her site easily, the current solution seems to strike the **sweet spot betweeen convenience and price**.
+
+Here's what Clarisse had to say:
+
+_"Charisse was very responsible and responsive. She listened attentively and researched what layout and design would best suit my needs. Her recommended choices were also user-friendly and aesthetically pleasing, and allowed me to continue working on my website after the handover."_
