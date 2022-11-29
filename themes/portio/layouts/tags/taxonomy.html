@@ -60,9 +60,15 @@
             <img src="{{ .Params.featureImage | absURL }}" alt="post-image" />
           </div>
           <div class="blog-page__item-content bg-white">
-            <span class="small text-capitalize"
+            <!-- <span class="small text-capitalize"
               >{{ .Params.categories }}</span
-            >
+            > -->
+            <span class="small text-capitalize">
+              {{ range $index, $element := (.GetTerms "tags") }}
+              {{if $index}}&nbsp;{{end}}
+              <a class="text-capitalize" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+              {{ end }}
+            </span>
             <h5 class="mb-0">
               <a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a>
             </h5>
