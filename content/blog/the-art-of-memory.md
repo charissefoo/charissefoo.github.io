@@ -1,24 +1,26 @@
 ---
 title: The Art of Memory
 date: 2019-09-09
-featureImage: images/blog/the-art-of-memory/charisse-foo-the-art-of-memory-01-thumbnail.jpg
+featureImage: images/blog/the-art-of-memory/charisse-foo-the-art-of-memory-01-thumbnail-v.jpg
 postImage: images/blog/the-art-of-memory/charisse-foo-the-art-of-memory-01.jpg
 shortDescription: A travel fellowship, exhibition, and publication
-tags: ["illustration", "awards", "exhibition", "publication", "collaboration"]
-categories: project
+tags: ["awards", "exhibition", "publication", "collaboration"]
+categories: 2D Illustration
 service: Exhibition
 client: Academic
-challenge: Historic preservation is often a dry topic, with a large focus on regulations and conservation.
-solution: To investigate the idea of architectural memory through travel, documentation, and speculative drawings.
 ---
+
+### Overview
+
+Historic preservation is often a dry topic, with a large focus on regulations and conservation. Here, we take an experimental approach towards preservation, investigating architectural memory through travel, documentation, and speculative drawings.
+
+_The Art of Memory_ was a collaboration with [Yichen Jia](https://yichenjia.github.io/), made possible by the [2018-2019 Robert James Eidlitz Travel Fellowship](https://aap.cornell.edu/academics/architecture/about/fellowships). It was exhibited in
+[NYC](https://aap.cornell.edu/news-events/charisse-foo-and-yichen-jia-art-memory) and [MIT](https://libraries.mit.edu/exhibits/exhibit/memory/), and published in [book](https://www.blurb.com/b/9919013-the-art-of-memory) form.
 
 ### What does it mean to remember?
 
 Sited in four Italian towns that have been indelibly changed by natural disasters, this project explores the notion of architectural memory. Across Pompeii, Catania, Poggioreale, and Gibellina, each town embodies a unique approach towards destruction and preservation.
 The ‘perfectly’ preserved ruins of Pompeii are set against the bustling capital of Catania, the ghost town of Poggioreale, and the crumbling modernist art installations of Gibellina.
-
-The Art of Memory was a collaboration with [Yichen Jia](https://yichenjia.github.io/), made possible by the [2018-2019 Robert James Eidlitz Travel Fellowship](https://aap.cornell.edu/academics/architecture/about/fellowships). It was exhibited in
-[NYC](https://aap.cornell.edu/news-events/charisse-foo-and-yichen-jia-art-memory) and [MIT](https://libraries.mit.edu/exhibits/exhibit/memory/), and published in [book](https://www.blurb.com/b/9919013-the-art-of-memory) form.
 
 {{< figure width="100%" src="/images/blog/the-art-of-memory/charisse-foo-the-art-of-memory-02.gif" >}}
 

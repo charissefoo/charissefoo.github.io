@@ -4,8 +4,8 @@ date: 2020-10-31
 featureImage: images/blog/augmented-heritage-adventure/charisse-foo-augmented-heritage-adventure-01-thumbnail-v.jpg
 postImage: images/blog/augmented-heritage-adventure/charisse-foo-augmented-heritage-adventure-01-header.jpg
 shortDescription: Reviving Zichuan's mines through fiction
-tags: ["Illustration", "Awards"]
-categories: project
+tags: ["awards", "publication", "collaboration"]
+categories: 2D Illustration
 ---
 
 ### Magical stories of talking animals, immortals, demons, and deities come to life through augmented reality.

@@ -4,8 +4,8 @@ date: 2019-10-31
 featureImage: images/blog/satellite-town/charisse-foo-satellite-town-02-thumbnail-v.jpg
 postImage: images/blog/satellite-town/charisse-foo-satellite-town-02-header.jpg
 shortDescription: A future of ecological living beyond Earth
-tags: ["Visualization", "Exhibition"]
-categories: project
+tags: ["Exhibition", "3D"]
+categories: 3D Illustration
 ---
 
 ### _Satellite Town_ illustrates a future of ecological living beyond the limits of the Earth.

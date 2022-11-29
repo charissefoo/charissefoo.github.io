@@ -3,9 +3,11 @@ title: SketchUp for Architecture
 date: 2022-07-01
 featureImage: images/blog/sketchup-for-architecture/charisse-foo-sketchup-for-architecture-01-thumbnail-v.gif
 postImage: images/blog/sketchup-for-architecture/charisse-foo-sketchup-for-architecture-02.jpg
-shortDescription: Improving Internal Workflow through Knowledge-Sharing
-tags: ["teaching", "3D"]
-categories: Project
+shortDescription: Improving internal workflow for architects
+tags: 3D
+categories: Tools & Teaching
+service: Tools & Teaching
+weight: 3
 ---
 
 ### A knowledge base for architects.

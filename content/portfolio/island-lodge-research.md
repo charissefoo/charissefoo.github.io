@@ -1,25 +1,30 @@
 ---
 title: The Island Lodge Research
 date: 2022-08-01
-featureImage: images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-14-thumbnail.jpg
+featureImage: images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-14-thumbnail-v.jpg
 postImage: images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-research-01.jpg
 shortDescription: Researching online hotel bookings
-tags: UX Research
-categories: project
+tags: ["UX Design"]
+categories: Interactive
 service: UX Research
 client: Academic
-challenge: How can a mobile website for a hotel be best designed?
-solution: To find out users' goals, behaviours, and pain points regarding making hotel bookings on mobile through in-depth user research
+weight: 2
 ---
+
+### Overview
+
+**The Challenge**: How can a mobile website for a hotel be best designed?
+
+**The Goal**: To find out users' goals, behaviours, and pain points regarding making hotel bookings on mobile through in-depth user research
 
 ### Research Methods
 
 Research methods include:
 
-- **competitive analysis**
-- **online survey**
-- **usability tests**
-- **interviews**
+- competitive analysis
+- online survey
+- usability tests
+- interviews
 
 Findings were synthesised through **affinity diagramming** and presented in a **customer journey map.**
 

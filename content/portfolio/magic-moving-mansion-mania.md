@@ -1,36 +1,37 @@
 ---
 title: Magic Moving Mansion Mania
 date: 2017-05-31
-featureImage: images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-01-thumbnail.jpg
+featureImage: images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-20-thumbnail-v.jpg
 postImage: images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-01.jpg
 shortDescription: An award-winning mobile game
-tags: ["Game Design", "UX Design", "Illustration", "Collaboration"]
-categories: project
-service: Game Design
+tags: ["Game Design", "UX Design", "Awards", "Collaboration"]
+categories: Interactive
+service: Game Design, UX Design
 client: Academic
-challenge: We had a team of 6, and 4 months to make a mobile game.
-solution: To design and build a lovable mobile action-puzzle-platformer for iOS and Android.
+weight: 5
 ---
 
 ### Overview
 
-##### Anastasia is lost in a magical mansion where the rooms move in mysterious ways.
+**The Challenge**: We had four months to make a mobile game. I was the Design Lead in a team of six: two designers and four programmers.
 
-Help guide her to safety, but don’t let her fall into nothingness!
+**The Goal**: To design and build a lovable mobile action-puzzle-platformer for iOS and Android.
+
+### Outcome
 
 _Magic Moving Mansion Mania_ is a mobile action-puzzle-platformer for iOS and Android. It was conceptualised and created in four months under the [Game Design Initiative at Cornell (GDIAC)](http://gdiac.cis.cornell.edu/).
 
-#### Role
+**Anastasia is lost in a magical mansion where the rooms move in mysterious ways.**
 
-I was the **Design Lead** in a team of six: two designers and four programmers.
+**Help guide her to safety, but don’t let her fall into nothingness!**
 
-#### Awards
+### Awards
 
 _Magic Moving Mansion Mania_ was **awarded the [Best Student Game](http://www.cis.cornell.edu/cis-team-wins-best-student-game-games-festival) at the 2017 Boston Festival of Indie Games,** and the **[Most Polished Game](http://gdiac.cs.cornell.edu/news/index.php?id=24) and 2nd Place Audience Choice at the 2017 GDIAC Showcase.**
 
 {{< youtube lhzENlcKQD8 >}}
 
-Game music is by [Setuniman](http://www.setuniman.com/) from [freesound.org](https://freesound.org/people/Setuniman/) and the #GameAudioGDC Bundle from [Sonniss](https://sonniss.com/).
+_Game music is by [Setuniman](http://www.setuniman.com/) from [freesound.org](https://freesound.org/people/Setuniman/) and the #GameAudioGDC Bundle from [Sonniss](https://sonniss.com/)._
 
 ### Gameplay Summary
 
@@ -146,7 +147,7 @@ Version 3:
 
 ### Screenshots
 
-check out our [Facebook page](https://www.facebook.com/pg/magic.moving.mansion.mania).
+For more information, check out our [Facebook page](https://www.facebook.com/pg/magic.moving.mansion.mania).
 
 <!-- Image Grid -->
 

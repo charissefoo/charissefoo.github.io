@@ -1,11 +1,13 @@
 ---
-title: Teaching 3D Through Blender
+title: "Imaginary Worlds: An Introduction to 3D with Blender"
 date: 2022-09-01
 featureImage: images/blog/teaching-blender/charisse-foo-teaching-blender-01-thumbnail-v.gif
 postImage: images/blog/teaching-blender/charisse-foo-teaching-blender-01.gif
-shortDescription: A conceptual and technical overview of CGI
-tags: ["teaching", "3D"]
-categories: Project
+shortDescription: A workshop offering a conceptual and technical overview of CGI
+tags: 3D
+categories: Tools & Teaching
+service: Tools & Teaching
+weight: 4
 ---
 
 ### The Result

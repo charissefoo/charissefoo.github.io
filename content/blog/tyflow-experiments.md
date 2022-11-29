@@ -4,8 +4,8 @@ date: 2020-12-01
 featureImage: images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-15-thumbnail-v.gif
 postImage: images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-15.gif
 shortDescription: 3D Physics and Particle Simulations
-tags: ["Illustration", "3D"]
-categories: fun
+tags: 3D
+categories: 3D Illustration
 ---
 
 ### Experiments with 3D Physics and Particle Simulations

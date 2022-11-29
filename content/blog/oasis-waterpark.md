@@ -4,8 +4,8 @@ date: 2020-06-30
 featureImage: images/blog/oasis-waterpark/charisse-foo-oasis-waterpark-01-thumbnail-v.jpg
 postImage: images/blog/oasis-waterpark/charisse-foo-oasis-waterpark-01.jpg
 shortDescription: Shared memories in one public playground
-tags: ["Illustration", "Awards"]
-categories: project
+tags: Awards
+categories: 2D Illustration
 ---
 
 ### Oasis Waterpark explores architectural memory through comics.

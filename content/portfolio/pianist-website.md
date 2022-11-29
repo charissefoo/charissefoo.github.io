@@ -1,11 +1,13 @@
 ---
-title: Designing A Pianist's Website
+title: Establishing a Classical Pianist's Online Presence
 date: 2022-08-31
 featureImage: images/blog/pianist-website/charisse-foo-pianist-website-01-thumbnail-v.jpg
 postImage: images/blog/pianist-website/charisse-foo-pianist-website-01-header.jpg
-shortDescription: Designing A Pianist's Website
+shortDescription: Rapid prototyping and a no-code website
 tags: ["UX Design", "Photography"]
-categories: Fun
+categories: Interactive
+service: UX Design, Photography
+weight: 6
 ---
 
 ### Overview
@@ -13,8 +15,6 @@ categories: Fun
 Clarisse, a classical pianist, was looking for ways to increase her online presence. I [designed a website](https://sites.google.com/view/clarisseteo) for her to consolidate her musical material in one place, and to establish her personal brand.
 
 ### Existing Constraints
-
-<!-- Even with her professional social media accounts, YouTube channel, and Spotify artist page, there was no one platform with a holistic overview of Clarisse's practice as a pianist. This website would house her performances, recordings, professional photographs, news features, and biography. It would be easily accessible to media, devoted fans, or anyone with an interest in classical music. -->
 
 Three barriers had prevented her from making a website herself: **technical knowhow, cost, and time.** She didn't code, she was hesitant about committing to a hefty paid subscription, and, as a musician, she wanted to focus on making music.
 
@@ -26,15 +26,21 @@ After some iterations, these two considerations eventually led to her website be
 
 [Check out Clarisse's website here.](https://sites.google.com/view/clarisseteo)
 
+Here's what Clarisse had to say:
+
+_"Charisse was very responsible and responsive. She listened attentively and researched what layout and design would best suit my needs. Her recommended choices were also user-friendly and aesthetically pleasing, and allowed me to continue working on my website after the handover."_
+
 ### Process
 
-With the relative simplicity of a portfolio site, the main design decisions to be made were about information architecture: what information was available, and how would it be organised?
+Even with her professional social media accounts, YouTube channel, and Spotify artist page, there was no one platform with a holistic overview of Clarisse's practice as a pianist. This website would house her performances, recordings, professional photographs, news features, and biography. It would be easily accessible to media, devoted fans, or anyone with an interest in classical music.
+
+With the relative simplicity of a portfolio site, the main design decisions to be made were about information architecture: **what information was available, and how would it be organised?**
 
 To learn established conventions, I diagrammed simple sitemaps of 6 other pianists' websites, focusing on primary navigation categories.
 
 {{< figure width="100%" src="/images/blog/pianist-website/charisse-foo-pianist-website-02.png" alt="sitemap competitive analysis" >}}
 
-Categorizing them by colour led to these major themes:
+Colour-categorization made these major themes apparent:
 
 - **About:** a biography, primarily text, sometimes with photos or quoted praise
 - **Performance Updates:** Schedule, Events, Calendar, Press, News
@@ -100,7 +106,3 @@ As a pianist, Clarisse needed photographs of herself with a piano, but only had 
 <!-- As one of many steps in building an online presence and personal brand as a musician, this site is expected to continue evolving in the future. I've done graphic design and publicity material for Clarisse in the past, and it was a pleasure to work with her on her website and photoshoot. -->
 
 As I was designing and building concurrently, **design was often informed by technical considerations and limitations**. I'd be able to explore more alternatives with more experience in front end development. Platforms such as WordPress were an early, unexplored consideration, as are Framer and Bubble. As a key consideration was that Clarisse would be able to update her site easily, the current solution seems to strike the **sweet spot betweeen convenience and price**.
-
-Here's what Clarisse had to say:
-
-_"Charisse was very responsible and responsive. She listened attentively and researched what layout and design would best suit my needs. Her recommended choices were also user-friendly and aesthetically pleasing, and allowed me to continue working on my website after the handover."_

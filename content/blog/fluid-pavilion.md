@@ -4,8 +4,8 @@ date: 2015-05-31
 featureImage: images/blog/fluid-pavilion/charisse-foo-fluid-pavilion-02-thumbnail-v.jpg
 postImage: images/blog/fluid-pavilion/charisse-foo-fluid-pavilion-02-header.jpg
 shortDescription: Materializing structural memory
-tags: ["Publication"]
-categories: Project
+tags: ["publication", "collaboration"]
+categories: Built
 ---
 
 ### What does structural memory look like?
@@ -14,7 +14,7 @@ An ethereal presence, _Fluid Pavilion_ displays the ability of plastic to be bot
 
 _Fluid Pavilion_ was a collaboration with [Hanxi Wang](https://www.linkedin.com/in/hanxi-wang-868908137), with the mentorship of [Sasa Zivkovic](https://aap.cornell.edu/people/sasa-zivkovic) and [Martin Miller](https://aap.cornell.edu/people/martin-miller), Cornell University.
 
-**_Fluid Pavilion_ was published in [ArchDaily's Best Student Work Worldwide (2015)](https://www.archdaily.com/771146/the-best-student-work-worldwide-archdaily-readers-show-us-their-studio-projects), [Cornell AAP\'s Featured Student Work](https://aap.cornell.edu/student-work/fluid-pavilion), [Rethinking The Future](https://www.re-thinkingthefuture.com/temporary-structure/fluid-pavilion-hanxi-charisse/), and [Resoluciones Constructivas No Convencionales](https://www.facebook.com/rcnc.fauucs/posts/1309734725777266).**
+_Fluid Pavilion_ was published in [ArchDaily's Best Student Work Worldwide (2015)](https://www.archdaily.com/771146/the-best-student-work-worldwide-archdaily-readers-show-us-their-studio-projects), [Cornell AAP\'s Featured Student Work](https://aap.cornell.edu/student-work/fluid-pavilion), [Rethinking The Future](https://www.re-thinkingthefuture.com/temporary-structure/fluid-pavilion-hanxi-charisse/), and [Resoluciones Constructivas No Convencionales](https://www.facebook.com/rcnc.fauucs/posts/1309734725777266).
 
 {{< figure width="100%" src="/images/blog/fluid-pavilion/charisse-foo-fluid-pavilion-01.jpg" >}}
 {{< figure width="100%" src="/images/blog/fluid-pavilion/charisse-foo-fluid-pavilion-03.jpg" >}}

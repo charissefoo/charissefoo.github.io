@@ -1,16 +1,21 @@
 ---
-title: "The Island Lodge"
+title: "The Island Lodge Hotel Booking"
 date: 2022-08-01
-featureImage: images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-01-thumbnail.jpg
+featureImage: images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-01-thumbnail-v.jpg
 postImage: images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-01.jpg
 shortDescription: Optimising the hotel booking process on mobile
 tags: ["UX Design"]
-categories: project
+categories: Interactive
 client: Academic
 service: UX Design
-challenge: Making hotel bookings on mobile should be quick and easy, but are often frustrating because of a lack of clarity, transparency, and trust.
-solution: To design a mobile website with an intuitive and resassuring hotel booking process, allowing users to complete their booking in minutes.
+weight: 1
 ---
+
+### Overview
+
+**The Challenge**: Making hotel bookings on mobile should be quick and easy, but are often frustrating because of a lack of clarity, transparency, and trust.
+
+**The Goal**: To design a mobile website with an intuitive and resassuring hotel booking process, allowing users to complete their booking in minutes.
 
 ### My Role
 
