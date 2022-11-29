@@ -1,8 +1,8 @@
 ---
 title: Magic Moving Mansion Mania
 date: 2017-05-31
-featureImage: images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-01-thumbnail.jpg
-postImage: images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-01.jpg
+featureImage: images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-01-thumbnail.jpg
+postImage: images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-01.jpg
 shortDescription: An award-winning mobile game
 tags: ["Game Design", "UX Design", "Illustration", "Collaboration"]
 categories: project
@@ -40,10 +40,10 @@ Since Anastasia is lost, she continuously walks forward. **Players cannot contro
 
 {{< row >}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-05.png" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-05.png" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-06.png" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-06.png" >}}
 {{< /column>}}
 {{< /row >}}
 
@@ -70,19 +70,19 @@ Our first prototype was a test of gameplay mechanics with cardboard tiles that c
 
 {{< row >}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-08.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-08.jpg" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-09.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-09.jpg" >}}
 {{< /column>}}
 {{< /row >}}
 
 {{< row >}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-10.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-10.jpg" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-11.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-11.jpg" >}}
 {{< /column>}}
 {{< /row >}}
 
@@ -90,7 +90,7 @@ Our first prototype was a test of gameplay mechanics with cardboard tiles that c
 
 We conducted two formal rounds of user tests, after the alpha and beta releases of our game respectively. In the test, we asked our friends to play the game, observed their interactions with the game, and asked them to write down the things they found interesting, frustrating, and exciting, as well as their estimates of how long they needed to complete a level.
 
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-33.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-33.jpg" >}}
 
 It was insightful to see what frustrated players and brainstorm how we could improve their gaming experience. Improvements to the UI and additional animations were needed to **clearly indicate what players could and could not interact with.** As gameplay is fast-paced by design, with the protagonist Anastasia continuously walking forward, players reported feeling stressed at times, while, at other times, feeling impatient at having to wait for the character to walk forward when they had already planned out her path. **This feedback resulted in the implementation of the speed-up button to increase Anastasia's walking speed for players who were already comfortable with the game.**
 
@@ -98,17 +98,17 @@ It was insightful to see what frustrated players and brainstorm how we could imp
 
 As designers, Yichen and I worked on character and environment art, UI/UX design, and promotional material.
 
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-28.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-28.jpg" >}}
 
 The environment was colour-coded from the start, with different layers of the mansion being clearly differentiated by colour. This stayed consistent as we added more interactive and decorative elements.
 
 Version 1:
 
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-27.png" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-27.png" >}}
 
 Version 2:
 
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-32.png" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-32.png" >}}
 
 Version 3:
 
@@ -116,31 +116,31 @@ Version 3:
 
 {{< row >}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07A.png" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07A.png" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07B.png" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07B.png" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07C.png" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07C.png" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07D.png" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07D.png" >}}
 {{< /column>}}
 {{< /row >}}
 
 {{< row >}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07E.png" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07E.png" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07F.png" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07F.png" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07G.png" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07G.png" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07H.png" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-07H.png" >}}
 {{< /column>}}
 {{< /row >}}
 
@@ -152,28 +152,28 @@ check out our [Facebook page](https://www.facebook.com/pg/magic.moving.mansion.m
 
 {{< row >}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-12.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-12.jpg" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-13.jpg" >}}
-{{< /column>}}
-{{< /row >}}
-
-{{< row >}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-14.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-16.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-13.jpg" >}}
 {{< /column>}}
 {{< /row >}}
 
 {{< row >}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-17.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-14.jpg" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-18.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-16.jpg" >}}
+{{< /column>}}
+{{< /row >}}
+
+{{< row >}}
+{{< column>}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-17.jpg" >}}
+{{< /column>}}
+{{< column>}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-18.jpg" >}}
 {{< /column>}}
 {{< /row >}}
 
@@ -183,28 +183,28 @@ It was a privilege to be part of the 2017 [Boston Festival of Indie Games](https
 
 {{< row >}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-25.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-25.jpg" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-21.jpg" >}}
-{{< /column>}}
-{{< /row >}}
-
-{{< row >}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-20.jpg" >}}
-{{< /column>}}
-{{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-23.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-21.jpg" >}}
 {{< /column>}}
 {{< /row >}}
 
 {{< row >}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-30.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-20.jpg" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-26.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-23.jpg" >}}
+{{< /column>}}
+{{< /row >}}
+
+{{< row >}}
+{{< column>}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-30.jpg" >}}
+{{< /column>}}
+{{< column>}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-26.jpg" >}}
 {{< /column>}}
 {{< /row >}}
 
@@ -212,23 +212,23 @@ It was a privilege to be part of the 2017 [Boston Festival of Indie Games](https
 
 We produced all promotional material, including laser-cut keychains and printed brochures.
 
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-31.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-31.jpg" >}}
 
 {{< row >}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-05.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-05.jpg" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-02.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-02.jpg" >}}
 {{< /column>}}
 {{< /row >}}
 
 {{< row >}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-03.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-03.jpg" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-04.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-04.jpg" >}}
 {{< /column>}}
 {{< /row >}}
 
@@ -242,4 +242,4 @@ We produced all promotional material, including laser-cut keychains and printed 
 
 _Special thanks to [Walker White](http://www.cs.cornell.edu/~wmwhite) and [Traci Nathans-Kelly](https://tracink.com/about/) for their patient mentorship, and to the [Boston Festival of Indie Games](https://www.bostonfig.com/) for having us. A very big thank you to everyone who played our game, from our earliest playtesters to everyone who stopped by during the GDIAC showcase and at BostonFIG._
 
-{{< figure width="100%" src="/images/portfolio/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-29.jpg" >}}
+{{< figure width="100%" src="/images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-29.jpg" >}}

@@ -1,8 +1,8 @@
 ---
 title: "The Island Lodge"
 date: 2022-08-01
-featureImage: images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-01-thumbnail.jpg
-postImage: images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-01.jpg
+featureImage: images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-01-thumbnail.jpg
+postImage: images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-01.jpg
 shortDescription: Optimising the hotel booking process on mobile
 tags: ["UX Design"]
 categories: project
@@ -16,7 +16,7 @@ solution: To design a mobile website with an intuitive and resassuring hotel boo
 
 As part of my [Professional Diploma in UX Design](https://www.credential.net/358581c5-0f90-41d7-9301-82ff6f7b1d3e#gs.9pjyb3), I was responsible for all research, design, and prototyping. My [earlier user research]({{< ref "/portfolio/island-lodge-research" >}} "Research Case Study") identified clarity, transparency, and trust as three main design goals in achieving a smoother hotel booking process.
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-03.jpg" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-03.jpg" >}}
 
 ### Deliverables
 
@@ -57,7 +57,7 @@ Unique to online bookings, users need reassurance that there are real people on 
 
 This primary user flow brings users across 10 screens. For users who have concluded their browsing - they enter their dates of travel and select rooms they've already decided on - this should take no longer than a few minutes.
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-04.jpg" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-04.jpg" >}}
 
 {{< row >}}
 {{< column markdown="true" >}}
@@ -68,7 +68,7 @@ In usability tests, these users explored the different types of rooms and amenit
 {{< /column >}}
 {{< column >}}
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-05.jpg" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-05.jpg" >}}
 
 {{< /column >}}
 {{< /row >}}
@@ -81,7 +81,7 @@ Several important design features were already contained in these sketches:
 - external reviews (trust)
 - concise summaries for each room and payment option (clarity)
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-06.jpg" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-06.jpg" >}}
 
 ### Medium-Fidelity Prototype & Usability Testing
 
@@ -94,7 +94,7 @@ Several important design features were already contained in these sketches:
 
 #### Design Iterations
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-11.png" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-11.png" >}}
 
 **Problem:** A user was confused as to whether the price and photo applied to the room above or the room below.  
 **Response:** The price is now displayed after the room name, as the user expected. Clicking anywhere in the room title area will bring the user to the individual room page.
@@ -102,7 +102,7 @@ Several important design features were already contained in these sketches:
 **Problem:** It did not make sense to allow a '0 Adult' or '0 Room' booking.  
 **Response:** When the number of guests or rooms is at a minimum of 1, the '-' button disappears.
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-12.png" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-12.png" >}}
 
 **Problem:** Users were equally interested in the 'Sign In' or 'Sign Up' options as they were in the 'Continue as Guest' one. Not all requests need follow-up.  
 **Response:** Buttons were standardised in size and alignment, allowing for greater visual consistency. The line about necessary follow-up was removed.
@@ -110,43 +110,43 @@ Several important design features were already contained in these sketches:
 **Problem:** Making the 'Sign In' screen an overlay over the previous screen increased visual clutter. There was potential confusion regarding the grayed-out back button.  
 **Response:** The 'Sign In' screen is its own screen, and the page title and back button are consistent across all screens.
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-13.png" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-13.png" >}}
 
 **Problem:** A summary of the booking details should be presented legibly, with details such as a price breakdown and reservation number.  
 **Response:** More information was added and differentiated through visual hierarchy.
 
 ### Visual Design
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-14.jpg" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-14.jpg" >}}
 
 **Mood images** provided inspiration for the visual design. Since _The Island Lodge_ is a high-end beach resort, I went for **warm earthy tones,** a primarily **dark, muted palette**, and serif headings to convey a sense of **timeless tropical luxury.**
 
 In this style guide for typography and colour, the dark primary green evokes **lush tropical vegetation**. The light colours are used for pages with **specific microtasks**, such as date selection, before the user returns to the darker **'home' colour palette.**
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-15.jpg" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-15.jpg" >}}
 
 Knowing that yellow and green are a common set of confusion colours when it comes to colour blindness, I [tested](https://davidmathlogic.com/colorblind) the colour scheme for **accessibility to people with colour blindness** and made adjustments.
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-16.jpg" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-16.jpg" >}}
 
 ### High Fidelity Prototype
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-10.jpg" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-10.jpg" >}}
 
 These wirefames are the basis for the high fidelity prototype shown at the start. Besides improvements to copy and content, I designed additional screens to facilitate the **secondary user flow** where room selection occurs before date selection. Designs for **error states** are also included.
 
 #### Design Iterations
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-17.png" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-17.png" >}}
 
 As **price transparency is very important to users**, and there is a lot of information presented, I expanded the price breakdown screen from a modal dropdown to a separate page.
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-18.png" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-18.png" >}}
 
 Similarly, I split the final success screen into two, to properly **congratulate** the user for completing the booking process with a splash image, and give the **all-important booking details sufficient space** on a separate page. The 'Back to Home' button was also replaced with **more useful functions** of **editing** the reservation or **sharing** the trip with friends and family.
 
 ### Design Annotations
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-19.jpg" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-19.jpg" >}}
 
 To wrap up the design process, I produced these design annotations as **handover documentation** for developers to build the website accurately. The full 18-page document can be found [here](https://drive.google.com/file/d/1ZkRj5t5BSqYcLx8gPDEsAxVvdqbTjg45/view?usp=sharing).
 

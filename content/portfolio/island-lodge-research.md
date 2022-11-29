@@ -1,8 +1,8 @@
 ---
 title: The Island Lodge Research
 date: 2022-08-01
-featureImage: images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-14-thumbnail.jpg
-postImage: images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-research-01.jpg
+featureImage: images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-14-thumbnail.jpg
+postImage: images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-research-01.jpg
 shortDescription: Researching online hotel bookings
 tags: UX Research
 categories: project
@@ -29,7 +29,7 @@ _For the design outcome, please refer to [The Island Lodge Hotel Booking case st
 
 To understand users' **goals, behaviours, and pain points** regarding the online hotel booking process, I conducted an online survey with family and friends.
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-research-03.jpg" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-research-03.jpg" >}}
 
 This was a valuable source of insights. The full report on the survey results can be found [here](https://drive.google.com/file/d/1ZnYSxx7rKj85M2YH8atA11291HplnCwG/view?usp=sharing).
 
@@ -44,7 +44,7 @@ This was a valuable source of insights. The full report on the survey results ca
 
 Time to get more specific: I was designing the website of a **luxury beachfront hotel** located St John's Island, Singapore. Its closest competitors are hotels located on the touristic holiday island of Sentosa, which offers a myriad of high-end hotels, resorts, and holiday programmes. To find out **established conventions, best practices, as well as mistakes to avoid**, I looked at the mobile websites of four hotels in Sentosa - The Shangri-La Rasa Sentosa, The Barracks Hotel, Amara Resort Sanctuary, and Capella Singapore - with a particular focus on their hotel booking process.
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-research-02.jpg" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-research-02.jpg" >}}
 
 A 25-page document containing the full analysis of the first two hotels can be found [here](https://drive.google.com/file/d/1b8cNt9pz8RjQ-1LR0NlJx7pETGtAH0IV/view?usp=sharing).
 
@@ -79,7 +79,7 @@ To see how real-life users interacted with existing mobile hotel websites, I con
 
 Affinity diagramming was used to synthesise the findings from all these research methods, generating a **10-step hotel booking sequence** as well as general notes about **best practices, content, and layout.**
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-research-04.gif" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-research-04.gif" >}}
 
 Zoom in and explore the affinity diagram here:
 
@@ -87,7 +87,7 @@ Zoom in and explore the affinity diagram here:
 
 ### Customer Journey Map
 
-{{< figure width="100%" src="/images/portfolio/island-lodge/charisse-foo-island-lodge-hotel-booking-research-05.jpg" >}}
+{{< figure width="100%" src="/images/blog/island-lodge/charisse-foo-island-lodge-hotel-booking-research-05.jpg" >}}
 
 The affinity diagram results were then translated into a customer journey map about the hotel booking process. All quotes are directly taken from research participants.
 
