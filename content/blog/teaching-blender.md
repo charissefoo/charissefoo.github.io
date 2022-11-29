@@ -5,9 +5,12 @@ featureImage: images/blog/teaching-blender/charisse-foo-teaching-blender-01-thum
 postImage: images/blog/teaching-blender/charisse-foo-teaching-blender-01.gif
 shortDescription: A conceptual and technical overview of CGI
 tags: ["teaching", "3D"]
-categories: In progress
-draft: true
+categories: Project
 ---
+
+### The Result
+
+Check out the website for the two-day workshop, [Imaginary Worlds: An Introduction to 3D with Blender](https://sites.google.com/view/imaginaryworlds), held in November 2022.
 
 ### How it all began
 
@@ -27,7 +30,7 @@ As a graduate of that same art curriculum, I felt uniquely positioned to contrib
 
 **A series of introductory workshops using Blender** as the 3D software of choice.
 
-Free and open source, with modelling and rendering (and a lot more) capabilities, popular with students, hobbyists, and artists,** Blender is amazingly powerful. It's also not very user-friendly**, and structured guidance would go a long way in increasing adoption.
+**Blender is amazingly powerful. It's also not very user-friendly.** It's free and open source, with modelling and rendering (and a lot more) capabilities. It's popular with students, hobbyists, artists, and, increasingly, professional studios. I felt that structured guidance could go a long way making this medium and software more approachable.
 
 ### Process
 
@@ -35,7 +38,7 @@ Free and open source, with modelling and rendering (and a lot more) capabilities
 
 Next, **establishing a framework**: I wanted to **draw parallels between art history and CG**, allowing art students and teachers to understand a new medium through a familiar framework (one, which, incidentally, the students are tested on). Coming from architecture and architectural visualization, I was familiar with a very specific 3D workflow, split into the two distinct processes of modelling and rendering. I believed that **3D modelling could be productively compared to sculpture, and rendering to photography**. Through the lens of established analog art media, we can approach digital processes: sculptural processes such as chiselling, casting, construction, and even assemblage can find their digital cousins. An understanding of light, colour, composition, and materiality is essential to photography, cinematography, and animation, both analog and digital.
 
-Then it was time for **a deep dive into the technical meat of it**: the interface and techniques specific to Blender. Needless to say, this meant hours on tutorials and forums and googling everything I knew I didn't know. Coming from a host of other 3D programs (Rhino, SketchUp, and 3DS Max) meant that I generally knew the _what_ but not the _how_. **Each software has its own mental model**, and, sometimes, some things just don't translate. **Two main takeaways**: I cannot learn everything, but I can learn what I need for my purposes. Don't rush to customize hotkeys before you know what you're doing.
+Then it was time for **a deep technical dive**: the interface and techniques specific to Blender. Needless to say, this meant hours on tutorials and forums and googling everything I knew I didn't know. Coming from a host of other 3D programs (Rhino, SketchUp, and 3DS Max) meant that I generally knew the _what_ but not the _how_. **Each software has its own mental model**, and, sometimes, some things just don't translate. **Two main takeaways**: I cannot learn everything, but I can learn what I need for my purposes. Don't rush to customize hotkeys before you know what you're doing.
 
 Finally, there were **test runs**.
 
@@ -67,11 +70,7 @@ I was aware that with multiple students, I wouldn't be able to reach out and poi
 3. Get students to **install the software beforehand**.
 4. I had to familiarize myself with **menu navigation**. After a test run with a friend, I realised that students took notes on specific operations that I hadn't anticipated. I decided to make **note-taking** the entire responsibility of the students, abandoning the shortcut sheet, especially since I'd made slides with shortcuts to which they could refer. They could make **device-specific adjustments to hotkeys (eg. Windows/Mac)** and add their own notes on particular operations.
 5. **Clear aims and focused tasks help** students practise specific skills and avoid being overwhelmed.
-6. I had to make it clear if students should be watching my screen or trying things out themselves. I'd try a system where I would **demo everything twice**: once so students know what to expect, and the second time, more slowly, for them to follow along.
-
-### Imaginary Worlds, November 2022
-
-Check out the website here.
+6. I had to make it clear if students should be watching my screen or trying things out themselves. It would help to **demo everything twice**: once so students know what to expect, and the second time, more slowly, for them to follow along.
 
 ### Inspirations
 
