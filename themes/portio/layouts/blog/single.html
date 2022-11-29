@@ -27,9 +27,10 @@
       {{ if .Params.tags }}
       <li>
         <i class="fa fa-tag"></i>
-        {{ range (.GetTerms "tags") }}
+        {{ range $index, $element := (.GetTerms "tags") }}
+          {{if $index}}&nbsp;{{end}}
           <a class="text-capitalize" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-        {{ end }}
+          {{ end }}
       </li>
       {{ end }}
       {{ if .Params.categories }}
