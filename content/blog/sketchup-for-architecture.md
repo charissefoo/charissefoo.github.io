@@ -7,7 +7,6 @@ shortDescription: Improving internal workflow for architects
 tags: 3D
 categories: Tools & Teaching
 service: Tools & Teaching
-weight: 3
 ---
 
 ### A knowledge base for architects.

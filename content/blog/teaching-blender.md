@@ -1,5 +1,5 @@
 ---
-title: "Imaginary Worlds: An Introduction to 3D with Blender"
+title: "Imaginary Worlds: A Blender Workshop"
 date: 2022-09-01
 featureImage: images/blog/teaching-blender/charisse-foo-teaching-blender-01-thumbnail-v.gif
 postImage: images/blog/teaching-blender/charisse-foo-teaching-blender-01.gif
@@ -7,7 +7,6 @@ shortDescription: A workshop offering a conceptual and technical overview of CGI
 tags: 3D
 categories: Tools & Teaching
 service: Tools & Teaching
-weight: 4
 ---
 
 ### The Result
