@@ -12,9 +12,9 @@ weight: 6
 
 ### Overview
 
-Clarisse, a classical pianist, wanted to establish her personal brand online.
+My client, a classical pianist, wanted to establish her personal brand online.
 
-I helped consolidate all her musical material in one place in [a website](https://sites.google.com/view/clarisseteo), which she would be able to manage herself using an intuitive, no-code editor. I also conducted a photoshoot with her to create essential visual content for her site.
+I helped consolidate all her musical material in [a website](https://sites.google.com/view/clarisseteo), which she would be able to manage herself using an intuitive, no-code editor. I also conducted a photoshoot with her to create essential visual content for her site.
 
 {{< figure width="100%" src="/images/blog/pianist-website/charisse-foo-pianist-website-10.jpg">}}
 
@@ -104,6 +104,8 @@ These were major plus points that sped things up considerably:
 
 After a number of iterations, and a short onboarding session, the site is where it is today, and Clarisse has the knowhow to edit it as and when she wants.
 
+{{< figure width="100%" src="/images/blog/pianist-website/charisse-foo-pianist-website-13.jpg" >}}
+
 ### Extra: Photography
 
 As a pianist, Clarisse needed photographs of herself with a piano, but only had professional headshots. We arranged a photoshoot where I photographed her with a grand piano.
@@ -123,4 +125,4 @@ As a pianist, Clarisse needed photographs of herself with a piano, but only had 
 
 <!-- As one of many steps in building an online presence and personal brand as a musician, this site is expected to continue evolving in the future. I've done graphic design and publicity material for Clarisse in the past, and it was a pleasure to work with her on her website and photoshoot. -->
 
-As I was designing and building concurrently, **design was often informed by technical considerations and limitations**. I'd be able to explore more alternatives with more experience in front end development. Platforms such as WordPress were an early, unexplored consideration. As a key consideration was that Clarisse would be able to update her site easily, the current solution seems to strike the **sweet spot betweeen convenience and price**.
+As I was designing and building concurrently, **design was often informed by technical considerations and limitations**. Platforms such as WordPress.org were an early consideration, and one which I'd love to explore in the future. As a key consideration was that Clarisse would be able to update her site easily, the current solution seems to strike the **sweet spot betweeen convenience and price**.
