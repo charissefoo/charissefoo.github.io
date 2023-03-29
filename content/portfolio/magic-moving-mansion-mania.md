@@ -1,7 +1,7 @@
 ---
 title: Magic Moving Mansion Mania
 date: 2017-05-31
-featureImage: images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-20-thumbnail-v.jpg
+featureImage: images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-34-thumbnail-v.jpg
 postImage: images/blog/magic-moving-mansion-mania/charisse-foo-magic-moving-mansion-mania-01.jpg
 shortDescription: An award-winning mobile game
 tags: ["Game Design", "UX Design", "Awards", "Collaboration"]
