@@ -1,8 +1,195 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>3D on Charisse</title><link>https://charissefoo.github.io/tags/3d/</link><description>Recent content in 3D on Charisse</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://charissefoo.github.io/tags/3d/index.xml" rel="self" type="application/rss+xml"/><item><title>Imaginary Worlds: A Blender Workshop</title><link>https://charissefoo.github.io/blog/teaching-blender/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><guid>https://charissefoo.github.io/blog/teaching-blender/</guid><description>The Result Check out the website for the two-day workshop, Imaginary Worlds: An Introduction to 3D with Blender, held in November 2022.
-How it all began More than a decade ago, I chose to take Art as an A-Level subject.
-In recent years, conversations with my junior college art teacher about art education and the role of technology in art-making led to some realisations:
-3D software is largely absent from the art curriculum.</description></item><item><title>SketchUp for Architecture</title><link>https://charissefoo.github.io/blog/sketchup-for-architecture/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>https://charissefoo.github.io/blog/sketchup-for-architecture/</guid><description>A knowledge base for architects. Check it out here!
-Why? SketchUp for Architecture was born from a desire to share knowledge.
-It was started over a weekend while I was working full-time at an architectural office. With varying levels of experience within the firm, there was a great opportunity to share and establish best practices, streamline modelling processes, and essentially improve internal workflow for the team.
-Architects do a lot.</description></item><item><title>Tyflow Experiments</title><link>https://charissefoo.github.io/blog/tyflow-experiments/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://charissefoo.github.io/blog/tyflow-experiments/</guid><description>Experiments with 3D Physics and Particle Simulations I&amp;rsquo;d used 3DS Max professionally every day for a couple of years, but still barely scratched the surface of what it could do.
-These experiments with Tyflow are by-products of deepening my technical and artistic skills, by learning more about 3D particle systems, physics simulations, and animation. I enrolled in the Tyflow Basecamp in 2020 and thoroughly enjoyed learning and making these.</description></item><item><title>Satellite Town</title><link>https://charissefoo.github.io/blog/satellite-town/</link><pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate><guid>https://charissefoo.github.io/blog/satellite-town/</guid><description>Satellite Town illustrates a future of ecological living beyond the limits of the Earth. In a research community living in a satellite orbiting the Moon, distinct notions of self-sufficiency and sustainability are explored, each with a distinct color palette. The Forest depicts the distinctive pink glow of high intensity LEDs for crop growth; The Street imagines an underpass with bioluminescent mycelium pavements that generate electricity from footsteps; The Chapel depicts a zero-gravity projection room featuring an endless sunset against distant planets.</description></item><item><title>The Monument to the Labors</title><link>https://charissefoo.github.io/blog/the-monument-to-the-labors/</link><pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate><guid>https://charissefoo.github.io/blog/the-monument-to-the-labors/</guid><description>The Monument to the Labors tells an architectural fable in outer space. Narrated dispassionately, The Monument to the Labors imagines a future that has already been translated into history. In this recasting of the pioneer narrative, the first settlers of space are not merely brave explorers but also condemned convicts. Centering around alienation and the implications of denying humanity to the other, the story simultaneously charts the lifespan of a building: a satellite, prison, laboratory, factory, town, tomb, billboard, attraction, and symbol.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>3D on Charisse</title><link>https://charissefoo.github.io/tags/3d/</link><description>Recent content in 3D on Charisse</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://charissefoo.github.io/tags/3d/index.xml" rel="self" type="application/rss+xml"/><item><title>Imaginary Worlds: A Blender Workshop</title><link>https://charissefoo.github.io/blog/teaching-blender/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><guid>https://charissefoo.github.io/blog/teaching-blender/</guid><description>&lt;h3 id="the-result">The Result&lt;/h3>
+&lt;p>Check out the website for the two-day workshop, &lt;a href="https://sites.google.com/view/imaginaryworlds">Imaginary Worlds: An Introduction to 3D with Blender&lt;/a>, held in November 2022.&lt;/p>
+&lt;h3 id="how-it-all-began">How it all began&lt;/h3>
+&lt;p>More than a decade ago, I chose to take Art as an A-Level subject.&lt;/p>
+&lt;p>In recent years, conversations with my junior college art teacher about &lt;strong>art education&lt;/strong> and &lt;strong>the role of technology in art-making&lt;/strong> led to some realisations:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>3D software is largely absent from the art curriculum.&lt;/strong>&lt;/li>
+&lt;li>Teachers aren&amp;rsquo;t really familiar with 3D software or what it can do.&lt;/li>
+&lt;li>Some students pick up Blender by themselves and make artwork despite a steep learning curve.&lt;/li>
+&lt;/ol>
+&lt;p>As a graduate of that same art curriculum, I felt uniquely positioned to contribute. &lt;strong>I loved my time studying art&lt;/strong>, with all its opportunities for critical thought and developing a personal artistic practice. I also loved the possibilities - how much could be done, and how easily - opened by the knowledge of specific software, techniques, and workflows. The goal was not to merely &lt;em>teach Blender&lt;/em>, it was also to provide &lt;strong>a conceptual framework to approach computer-generated imagery (CGI) as a medium&lt;/strong>, and to eventually make thoughtful, sensitive artwork with it. With the digital world becoming increasingly important to all fields, it&amp;rsquo;d help to equip students with a basic understanding of virtual 3D space, its rules, and common operations.&lt;/p></description></item><item><title>SketchUp for Architecture</title><link>https://charissefoo.github.io/blog/sketchup-for-architecture/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>https://charissefoo.github.io/blog/sketchup-for-architecture/</guid><description>&lt;h3 id="a-knowledge-base-for-architects">A knowledge base for architects.&lt;/h3>
+&lt;p>&lt;a href="https://sites.google.com/view/sketchupforarchitecture">Check it out here!&lt;/a>&lt;/p>
+&lt;h3 id="why">Why?&lt;/h3>
+&lt;p>&lt;strong>SketchUp for Architecture was born from a desire to share knowledge.&lt;/strong>&lt;/p>
+&lt;p>It was started over a weekend while I was working full-time at an architectural office. With varying levels of experience within the firm, there was a great opportunity to share and establish best practices, streamline modelling processes, and essentially improve internal workflow for the team.&lt;/p>
+&lt;p>&lt;strong>Architects do a lot.&lt;/strong>&lt;/p></description></item><item><title>Tyflow Experiments</title><link>https://charissefoo.github.io/blog/tyflow-experiments/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://charissefoo.github.io/blog/tyflow-experiments/</guid><description>&lt;h3 id="experiments-with-3d-physics-and-particle-simulations">Experiments with 3D Physics and Particle Simulations&lt;/h3>
+&lt;p>I&amp;rsquo;d used 3DS Max professionally every day for a couple of years, but still barely scratched the surface of what it could do.&lt;/p>
+&lt;p>These experiments with &lt;a href="https://www.instagram.com/_tyflow_/">Tyflow&lt;/a> are by-products of deepening my technical and artistic skills, by learning more about 3D particle systems, physics simulations, and animation. I enrolled in the &lt;a href="https://redefinefx.com/motion/">Tyflow Basecamp&lt;/a> in 2020 and thoroughly enjoyed learning and making these.&lt;/p>
+&lt;div class="row">
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-14.gif" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-13.gif" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-15.gif" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-01.jpg" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-02.jpg" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-03.jpg" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-04.jpg" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-05.jpg" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-06.jpg" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-07.jpg" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-08.jpg" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-09.jpg" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-10.jpg" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-11.jpg" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;div class="col-md">
+
+
+&lt;figure>&lt;img src="https://charissefoo.github.io/images/blog/tyflow-experiments/charisse-foo-tyflow-experiments-12.jpg" width="100%">
+&lt;/figure>
+
+
+
+&lt;/div>
+
+
+&lt;/div></description></item><item><title>Satellite Town</title><link>https://charissefoo.github.io/blog/satellite-town/</link><pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate><guid>https://charissefoo.github.io/blog/satellite-town/</guid><description>&lt;h3 id="satellite-town-illustrates-a-future-of-ecological-living-beyond-the-limits-of-the-earth">&lt;em>Satellite Town&lt;/em> illustrates a future of ecological living beyond the limits of the Earth.&lt;/h3>
+&lt;p>In a research community living in a satellite orbiting the Moon, distinct notions of self-sufficiency and sustainability are explored, each with a distinct color palette. &lt;em>The Forest&lt;/em> depicts the distinctive pink glow of high intensity LEDs for crop growth; &lt;em>The Street&lt;/em> imagines an underpass with bioluminescent mycelium pavements that generate electricity from footsteps; &lt;em>The Chapel&lt;/em> depicts a zero-gravity projection room featuring an endless sunset against distant planets. Bringing a familiar urban concept back to its original imaginative meaning, &lt;em>Satellite Town&lt;/em> magnifies the architectural notions of interior and exterior, self-sufficiency and interdependence.&lt;/p></description></item><item><title>The Monument to the Labors</title><link>https://charissefoo.github.io/blog/the-monument-to-the-labors/</link><pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate><guid>https://charissefoo.github.io/blog/the-monument-to-the-labors/</guid><description>&lt;h3 id="the-monument-to-the-labors-tells-an-architectural-fable-in-outer-space">&lt;em>The Monument to the Labors&lt;/em> tells an architectural fable in outer space.&lt;/h3>
+&lt;p>Narrated dispassionately, &lt;em>The Monument to the Labors&lt;/em> imagines a future that has already been translated into history. In this recasting of the pioneer narrative, the first settlers of space are not merely brave explorers but also condemned convicts. Centering around alienation and the implications of denying humanity to the other, the story simultaneously charts the lifespan of a building: a satellite, prison, laboratory, factory, town, tomb, billboard, attraction, and symbol. These two narratives tie the privilege of dreaming to the costs of experimentation. The utopian possibilities of outer space, the great unknown, are not only the fantasies of the privileged, but also the desperate hope of the marginalized.&lt;/p></description></item></channel></rss>
