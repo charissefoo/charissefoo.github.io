@@ -1,6 +1,6 @@
 baseURL = "https://charissefoo.github.io/"
 languageCode = "en-us"
-paginate = 9
+pagination.pagerSize = 9
 theme = "portio"
 title = "Charisse"
 
