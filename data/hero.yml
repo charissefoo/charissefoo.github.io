@@ -2,10 +2,11 @@
 enable: true
 topTitle: Hi, I'm Charisse.
 content: >
-  ## I’m a designer, writer, and illustrator.
+  ## I'm a designer & researcher
 
-  I’m looking to build meaningful experiences bridging the digital and physical worlds.
+  making interactive tools to support serious illness conversations with patients and families.
+  
+buttonName: Download CV
+buttonURL: https://drive.google.com/file/d/1A7AB4d-yRvbYpayKkSjZt3fbky69A9-Y/view?usp=sharing
 
-buttonName: Let's Talk
-buttonURL: contact
 image: images/about/charisse-foo-about-02.jpg
