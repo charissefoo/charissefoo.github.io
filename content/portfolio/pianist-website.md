@@ -7,7 +7,7 @@ shortDescription: Rapid prototyping and a no-code website
 tags: ["UX Design", "Photography"]
 categories: Interactive
 service: UX Design, Photography
-weight: 6
+weight: 4
 ---
 
 ### Overview

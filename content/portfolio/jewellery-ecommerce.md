@@ -8,12 +8,12 @@ tags: ["UX Design"]
 categories: Interactive
 client: Retail, Small Business
 service: UX Design
-weight: 1
+weight: 2
 ---
 
 ### Overview
 
-I've been working as a freelance product designer for a local jewellery store.
+I worked as a freelance product designer for a local jewellery store.
 
 The business owners had just opened a new physical retail store. As they'd had success with social media sales in the past, they wanted to **formalise their expansion to the online market through a native mobile app.**
 

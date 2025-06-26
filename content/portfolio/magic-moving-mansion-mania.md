@@ -8,7 +8,7 @@ tags: ["Game Design", "UX Design", "Awards", "Collaboration"]
 categories: Interactive
 service: Game Design, UX Design
 client: Academic
-weight: 5
+weight: 3
 ---
 
 ### Overview

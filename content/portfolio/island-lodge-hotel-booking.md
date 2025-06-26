@@ -8,7 +8,7 @@ tags: ["UX Design"]
 categories: Interactive
 client: Academic
 service: UX Design
-weight: 2
+weight: 5
 ---
 
 ### Overview
