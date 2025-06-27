@@ -4,10 +4,13 @@ topTitle: Experience
 title: >
   ## Awards & Education
 
-  My formal training in architecture has instilled in me the ability to design at multiple scales, the love of an iterative and rigorous design process, and the ability to communicate ideas clearly and persuasively.  
+  I started my career in Architecture because I believe that design makes the world a better place. 
 
 
-  It is with gratitude and humility that these projects and pursuits have received awards after being completed, or grants to facilitate their creation.
+  This has taught me to design at multiple scales, to love an iterative and rigorous design process, and to communicate ideas clearly and persuasively.  
+
+
+  It is with gratitude and humility that these projects have received awards after being completed, or grants to facilitate their creation.
 
 tab1Name: Awards
 tab2Name: Education
@@ -84,12 +87,18 @@ education:
 
 experience:
   - content: >
-      #### Professional Diploma in UX Design, UX Design Institute 
+      #### Cornell University, Bachelor of Architecture
+
+      NAAB-accredited professional degree (M.Arch I equivalent)
+    time: 2013-2017
+  - content: >
+      #### UX Design Institute, Professional Diploma in UX Design
 
       Grade: 99%
     time: 2022
   - content: >
-      #### Bachelor of Architecture, Cornell University
+      #### Interactivity with JavaScript
 
-      NAAB-accredited professional degree (M.Arch equivalent in Singapore)
-    time: 2013-2017
+      Coursera, University of Michigan
+    time: 2024
+
