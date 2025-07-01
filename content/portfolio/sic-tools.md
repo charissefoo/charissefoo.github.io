@@ -13,7 +13,7 @@ weight: 1
 
 ### Overview
 
-Since 2023, I've been a **designer and researcher** at the Telehealth Core of the NUS Saw Swee Hock School of Public Health.
+Since 2023, I've been a **designer and researcher** at the [Telehealth Core](https://medicine.nus.edu.sg/nuhscg/core-facilities/telehealth-core/about-us/) of the Saw Swee Hock School of Public Health at the National University of Singapore.
 
 **The Context:**
 - Singapore is set to become a [super-aged society by 2026](https://www.straitstimes.com/singapore/initiatives-in-place-to-help-tackle-ageing-as-s-pore-nears-super-aged-status-in-2026-ong-ye-kung), with 1 in 5 citizens aged 65 and above.
@@ -33,12 +33,10 @@ _The team is starting a randomized controlled trial soon. More updates will be a
 
 ### Publications
 
-I have coauthored the following papers at the intersection of Human-Computer Interaction (HCI) and Health:
+I have coauthored the following papers at the intersection of Health and Human-Computer Interaction (HCI):
 
-1. **Designing for Caregiver-facing Values Elicitation Tools**  
-[**CHI 2024, Best Paper Award**](https://dl.acm.org/doi/10.1145/3613904.3642214)  
+1. [**Designing for Caregiver-facing Values Elicitation Tools** (CHI 2024, Best Paper Award)](https://dl.acm.org/doi/10.1145/3613904.3642214)  
 _Pin Sym Foong, Natasha Ureyang, **Charisse Foo**, Sajeban Antonyrex, Gerald CH Koh_
 
-2. **The Benefits and Risks of LLMs for Facilitating Medical Decision-Making among Laypersons**  
-[**DIS 2025**](https://programs.sigchi.org/dis/2025/program/content/200547), forthcoming July 2025  
+2. [**The Benefits and Risks of LLMs for Facilitating Medical Decision-Making among Laypersons** (DIS 2025, forthcoming July 2025)](https://programs.sigchi.org/dis/2025/program/content/200547)  
 _**Charisse Foo**, Pin Sym Foong, Camille Nadal, Natasha Ureyang,  Thant Naylin, Gerald CH Koh_ 
