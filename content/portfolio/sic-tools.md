@@ -35,8 +35,8 @@ _The team is starting a randomized controlled trial soon. More updates will be a
 
 I have coauthored the following papers at the intersection of Health and Human-Computer Interaction (HCI):
 
-1. [**Designing for Caregiver-facing Values Elicitation Tools** (CHI 2024, Best Paper Award)](https://dl.acm.org/doi/10.1145/3613904.3642214)  
+1. [**Designing for Caregiver-facing Values Elicitation Tools** (CHI 2024, Best Paper Award)](https://doi.org/10.1145/3613904.3642214)  
 _Pin Sym Foong, Natasha Ureyang, **Charisse Foo**, Sajeban Antonyrex, Gerald CH Koh_
 
-2. [**The Benefits and Risks of LLMs for Facilitating Medical Decision-Making among Laypersons** (DIS 2025, forthcoming July 2025)](https://programs.sigchi.org/dis/2025/program/content/200547)  
+2. [**The Benefits and Risks of LLMs for Facilitating Medical Decision-Making among Laypersons** (DIS 2025)](https://doi.org/10.1145/3715336.3735779)  
 _**Charisse Foo**, Pin Sym Foong, Camille Nadal, Natasha Ureyang,  Thant Naylin, Gerald CH Koh_ 
