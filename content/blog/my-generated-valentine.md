@@ -12,7 +12,7 @@ categories: Interactive
 
 I've been playing around with [Tracery](http://tracery.io) recently: it's a perfect casual creator tool, easy to pick up, simple, and powerful. I figured a valentine generator would be a fun little project, so I scribbled out some sentences one day, while procrastinating over something else.
 
-🌹 [Try it out here! Just refresh the page for new versions.](https://charissefoo.me/my-generated-valentine) 🌹
+🌹 [Try it out here! Just refresh the page for new versions.](https://charissefoo.github.io/my-generated-valentine) 🌹
 
 {{< figure width="100%" src="/images/blog/my-generated-valentine/charisse-foo-my-generated-valentine-02.jpg" >}}
 
