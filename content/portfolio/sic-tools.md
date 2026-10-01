@@ -1,9 +1,9 @@
 ---
-title: "NUS Telehealth Core"
+title: "Supporting Families in Serious Illness Decisions"
 date: 2023-08-01
-featureImage: images/blog/sic-tools/charisse-foo-sic-tools-01.jpg
-postImage: images/blog/sic-tools/charisse-foo-sic-tools-01.jpg
-shortDescription: Supporting Serious Illness Conversations For Patients and Families
+featureImage: images/blog/sic-tools/charisse-foo-sic-tools-01-v.gif
+postImage: images/blog/sic-tools/charisse-foo-sic-tools-01-h.gif
+shortDescription: A Web-Based Intervention for Families and Patients
 tags: ["UX Design"]
 categories: Interactive
 client: Academic
@@ -11,25 +11,58 @@ service: UX Design, UX Research
 weight: 1
 ---
 
-### Overview
+### The Problem
 
-Since 2023, I've been a **designer and researcher** at the [Telehealth Core](https://medicine.nus.edu.sg/nuhscg/core-facilities/telehealth-core/about-us/) of the Saw Swee Hock School of Public Health at the National University of Singapore.
+Serious illness is difficult, especially when it comes to difficult medical decisions. Patients are not always able to participate in decision-making, and families are often even more [unprepared](https://pubmed.ncbi.nlm.nih.gov/35076297/) to step in.
 
-**The Context:**
-- Singapore is set to become a [super-aged society by 2026](https://www.straitstimes.com/singapore/initiatives-in-place-to-help-tackle-ageing-as-s-pore-nears-super-aged-status-in-2026-ong-ye-kung), with 1 in 5 citizens aged 65 and above.
-- The average Singaporean suffers [10 years of ill health](https://www.moh.gov.sg/newsroom/speech-by-mr-ong-ye-kung-minister-for-health-at-the-3rd-centre-for-research-on-successful-ageing-symposium-on-thursday-12-october-2023-945am) before death.
-- Healthcare systems and unpaid family caregivers are burdened, with informal caregiving for seniors [valued at S$1.28 billion annually](https://www.duke-nus.edu.sg/newshub/media-coverage/informal-caregiving-for-seniors-valued-at-s1.28-billion-annually).
+### The Project
 
+[Careverse](https://careverse.sg/) is a website developed by the Saw Swee Hock School of Public Health at the National University of Singapore. 
 
-**The Problem:**
+It aims to **support family caregivers in serious illness decision-making**, and better prepare them for discussions with clinicians. 
 
-In times of serious illness, informal caregivers are often [unprepared](https://pubmed.ncbi.nlm.nih.gov/35076297/) to make decisions for the patient.
+{{< figure width="100%" src="/images/blog/sic-tools/charisse-foo-sic-tools-02.jpg" >}}
 
-**The Project:** 
+### My Role
 
-[PEACE (Preparing for End-of-Life with Advance Care Education)](https://medicine.nus.edu.sg/nuhscg/telehealth-cores-proposal-for-peace-awarded-3-2m-grant-from-the-nic-grant-call-on-caregiving-ecosystems-careeco/) develops scalable, digital tools to support these caregivers, and better prepare them for discussions with clinicians. 
+I worked on Careverse from 2023-2025, as a professional UX Designer and Research Associate at the [Telehealth Core](https://medicine.nus.edu.sg/nuhscg/core-facilities/telehealth-core/about-us/).
 
-_The team is starting a randomized controlled trial soon. More updates will be available later._
+### Supporting Patient Personhood
+
+We designed and developed the **Patient Profile Maker**, an interactive tool to support an initial conversation between the patient and family.
+
+{{< figure width="100%" src="/images/blog/sic-tools/charisse-foo-sic-tools-03.gif" >}}
+
+It consists of just 6 questions addressed to the patient. **Multilingual and read-aloud support** is included, with translations in Chinese, Malay, and Tamil. Together with English, these comprise the 4 official languages of Singapore. 
+
+{{< row >}}
+{{< column>}}
+{{< figure width="100%" src="/images/blog/sic-tools/charisse-foo-sic-tools-04.png" >}}
+{{< /column>}}
+{{< column>}}
+{{< figure width="100%" src="/images/blog/sic-tools/charisse-foo-sic-tools-05.png" >}}
+{{< /column>}}
+{{< /row >}}
+
+The tool produces **printable, personalised exports** of a 'Patient Profile', which highlight the patient's individuality and personhood. These can also be useful in long-term institutional care scenarios, such as nursing homes.
+
+### Supporting Caregiver Wellbeing
+
+Many interventions focus on the patient, forgetting the larger network of informal family caregivers. 
+
+The Caregiver Meaning Tool provides a visual journey that prompts reflection, celebrates caregivers, and points them to resources based on their expressed needs.
+
+{{< figure width="100%" src="/images/blog/sic-tools/charisse-foo-sic-tools-06.gif" >}}
+
+It is based in part on the [Singapore Caregiver Quality of Life Scale (SCQOLS)](https://www.duke-nus.edu.sg/lcpc/resources/lcpc-tools/scqols).
+
+### Feedback
+
+Caregivers in a focus group discussion reacted positively to the website. Speaking about the Patient Profile Maker, a caregiver said:
+
+“It brings greater clarity, in terms of: what are the things I have to consider, like if there’s bad news. I never thought of it. It’s like a checklist. You don’t have to be terminally ill to use this.” 
+
+_The website is currently being tested in a randomized controlled trial._
 
 ### Publications
 
