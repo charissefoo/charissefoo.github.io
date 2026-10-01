@@ -1,8 +1,8 @@
 ---
 title: "Supporting Families in Serious Illness Decisions"
-date: 2023-08-01
-featureImage: images/blog/sic-tools/charisse-foo-sic-tools-01-v.gif
-postImage: images/blog/sic-tools/charisse-foo-sic-tools-01-h.gif
+date: 2025-08-01
+featureImage: images/blog/families-serious-illness/charisse-foo-families-serious-illness-01-v.gif
+postImage: images/blog/families-serious-illness/charisse-foo-families-serious-illness-01-h.gif
 shortDescription: A Web-Based Intervention for Families and Patients
 tags: ["UX Design"]
 categories: Interactive
@@ -21,7 +21,7 @@ Serious illness is difficult, especially when it comes to difficult medical deci
 
 It aims to **support family caregivers in serious illness decision-making**, and better prepare them for discussions with clinicians. 
 
-{{< figure width="100%" src="/images/blog/sic-tools/charisse-foo-sic-tools-02.jpg" >}}
+{{< figure width="100%" src="/images/blog/families-serious-illness/charisse-foo-families-serious-illness-02.jpg" >}}
 
 ### My Role
 
@@ -31,16 +31,16 @@ I worked on Careverse from 2023-2025, as a professional UX Designer and Research
 
 We designed and developed the **Patient Profile Maker**, an interactive tool to support an initial conversation between the patient and family.
 
-{{< figure width="100%" src="/images/blog/sic-tools/charisse-foo-sic-tools-03.gif" >}}
+{{< figure width="100%" src="/images/blog/families-serious-illness/charisse-foo-families-serious-illness-03.gif" >}}
 
 It consists of just 6 questions addressed to the patient. **Multilingual and read-aloud support** is included, with translations in Chinese, Malay, and Tamil. Together with English, these comprise the 4 official languages of Singapore. 
 
 {{< row >}}
 {{< column>}}
-{{< figure width="100%" src="/images/blog/sic-tools/charisse-foo-sic-tools-04.png" >}}
+{{< figure width="100%" src="/images/blog/families-serious-illness/charisse-foo-families-serious-illness-04.png" >}}
 {{< /column>}}
 {{< column>}}
-{{< figure width="100%" src="/images/blog/sic-tools/charisse-foo-sic-tools-05.png" >}}
+{{< figure width="100%" src="/images/blog/families-serious-illness/charisse-foo-families-serious-illness-05.png" >}}
 {{< /column>}}
 {{< /row >}}
 
@@ -52,7 +52,7 @@ Many interventions focus on the patient, forgetting the larger network of inform
 
 The Caregiver Meaning Tool provides a visual journey that prompts reflection, celebrates caregivers, and points them to resources based on their expressed needs.
 
-{{< figure width="100%" src="/images/blog/sic-tools/charisse-foo-sic-tools-06.gif" >}}
+{{< figure width="100%" src="/images/blog/families-serious-illness/charisse-foo-families-serious-illness-06.gif" >}}
 
 It is based in part on the [Singapore Caregiver Quality of Life Scale (SCQOLS)](https://www.duke-nus.edu.sg/lcpc/resources/lcpc-tools/scqols).
 
